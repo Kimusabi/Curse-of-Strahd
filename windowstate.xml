@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.1">
+	<window data="" class="library" pos="779,336,1479,886" />
+	<window data="" class="moduleselection" pos="779,346,1479,876" />
+	<window data="encounter" class="encounterlist" pos="979,411,1279,811" />
+	<window data="encounter.enc_00_00conversionnotes@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_00_02foreword_ravenloftrevisited@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_00_03_00introduction@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_00_03_01runningtheadventure@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_00_03_02marksofhorror@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_01_00chapter1introduction@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_01_01strahdvonzarovich@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_01_02_00fortunesofravenloft@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc__curseofstrahd_@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="image.id-00033@DD Curse of Strahd" class="imagewindow" pos="689,170,1569,1053" />
+	<window data="image.id-00035@DD Curse of Strahd" class="imagewindow" pos="722,70,1536,1153" />
+	<window data="lists.battle@DD Curse of Strahd" class="referenceindexsorted" pos="954,386,1304,836" />
+	<window data="lists.encounter@DD Curse of Strahd" class="referenceindexsorted" pos="954,386,1304,836" />
+	<window data="quest" class="questlist" pos="979,411,1279,811" />
+
+</windowstate>

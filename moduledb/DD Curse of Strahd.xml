@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.1" release="7|CoreRPG:3" integrity="bb68c9109652706aac456416709181fe0d7bb8b3">
+	<image>
+		<category name="Curse of Strahd - DM Maps" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Handouts" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Maps" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Monsters" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - NPCs" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Portraits" mergeid="" baseicon="8" decalicon="1">
+			<id-00033>
+				<image type="image">
+					<bitmap>Castle Ravenloft.jpg</bitmap>
+				</image>
+			</id-00033>
+			<id-00035>
+				<image type="image">
+					<bitmap>Count Strahd von Zarovich.jpg</bitmap>
+				</image>
+			</id-00035>
+		</category>
+		<category name="Curse of Strahd - Tarokka" mergeid="" baseicon="8" decalicon="1">
+		</category>
+	</image>
+</root>
