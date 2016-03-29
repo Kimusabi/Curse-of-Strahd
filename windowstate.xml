@@ -11,11 +11,30 @@
 	<window data="encounter.enc_01_00chapter1introduction@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
 	<window data="encounter.enc_01_01strahdvonzarovich@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
 	<window data="encounter.enc_01_02_00fortunesofravenloft@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
-	<window data="encounter.enc__curseofstrahd_@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_03_00chapter3introduction@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_03_01_00approachingthevillage@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_03_03specialevents@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_19_00appendixcintroduction@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_19_01tomeofstrahd@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc_19_02magicitems@DD Curse of Strahd" class="encounter" pos="929,286,1329,936" />
+	<window data="encounter.enc__curseofstrahd_@DD Curse of Strahd" class="encounter" pos="404,9,804,987" />
+	<window data="image.id-00032@DD Curse of Strahd" class="imagewindow" pos="826,170,1432,1053" />
 	<window data="image.id-00033@DD Curse of Strahd" class="imagewindow" pos="689,170,1569,1053" />
 	<window data="image.id-00035@DD Curse of Strahd" class="imagewindow" pos="722,70,1536,1153" />
+	<window data="image.id-00087@DD Curse of Strahd" class="imagewindow" pos="834,170,1424,1053" />
+	<window data="image.id-00089@DD Curse of Strahd" class="imagewindow" pos="793,170,1464,1053" />
+	<window data="image.id-00102@DD Curse of Strahd" class="imagewindow" pos="569,170,1688,1053" />
+	<window data="image.id-00127@DD Curse of Strahd" class="imagewindow" pos="706,170,1551,1053" />
+	<window data="image.id-00132@DD Curse of Strahd" class="imagewindow" pos="0,370,2258,853" />
+	<window data="image.id-00210@DD Curse of Strahd" class="imagewindow" pos="718,-9,1694,1222" />
+	<window data="image.id-00211@DD Curse of Strahd" class="imagewindow" pos="698,0,1560,1223" />
+	<window data="item" class="itemlist" pos="954,411,1304,811" />
+	<window data="item.id-00067@DD Curse of Strahd" class="item" pos="954,436,1304,786" />
 	<window data="lists.battle@DD Curse of Strahd" class="referenceindexsorted" pos="954,386,1304,836" />
 	<window data="lists.encounter@DD Curse of Strahd" class="referenceindexsorted" pos="954,386,1304,836" />
+	<window data="npc.id-00038@DD Curse of Strahd" class="npc" pos="899,336,1359,886" />
 	<window data="quest" class="questlist" pos="979,411,1279,811" />
 
+	<image data="image.id-00210@DD Curse of Strahd" class="imagewindow" control="image" view="0,0" zoom="1.1418" />
 </windowstate>

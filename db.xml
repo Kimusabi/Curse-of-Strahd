@@ -3,14 +3,16 @@
 	<battle>
 		<category name="" mergeid="" baseicon="0" decalicon="0">
 		</category>
-		<category name="DMG - Sylvan Forest Encounters" mergeid="" baseicon="2" decalicon="1">
-		</category>
 		<category name="Curse of Strahd - Encounters" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="DMG - Sylvan Forest Encounters" mergeid="" baseicon="2" decalicon="1">
 		</category>
 	</battle>
 	<calendar>
 		<public />
 	</calendar>
+	<charsheet>
+	</charsheet>
 	<combattracker>
 		<public />
 	</combattracker>
@@ -72,8 +74,6 @@
 		</category>
 		<category name="D&#38;D Sword Coast Adventurer's Guide - Campaign Guide" mergeid="" baseicon="2" decalicon="1">
 		</category>
-		<category name="DD Dungeon Masters Guide" mergeid="" baseicon="2" decalicon="1">
-		</category>
 		<category name="Curse of Strahd - DM Maps" mergeid="" baseicon="8" decalicon="1">
 		</category>
 		<category name="Curse of Strahd - Handouts" mergeid="" baseicon="8" decalicon="1">
@@ -87,6 +87,8 @@
 		<category name="Curse of Strahd - Portraits" mergeid="" baseicon="8" decalicon="1">
 		</category>
 		<category name="Curse of Strahd - Tarokka" mergeid="" baseicon="8" decalicon="1">
+		</category>
+		<category name="DD Dungeon Masters Guide" mergeid="" baseicon="2" decalicon="1">
 		</category>
 	</image>
 	<item>
@@ -212,6 +214,8 @@
 		</category>
 		<category name="D&#38;D Sword Coast Adventurer's Guide - Player's Guide" mergeid="" baseicon="2" decalicon="1">
 		</category>
+		<category name="Curse of Strahd - Tables" mergeid="" baseicon="8" decalicon="1">
+		</category>
 		<category name="DD DMG Chptr 1: A World of Your Own" mergeid="" baseicon="2" decalicon="1">
 		</category>
 		<category name="DD DMG Chptr 2: Creating a Multiverse" mergeid="" baseicon="2" decalicon="1">
@@ -231,8 +235,6 @@
 		<category name="DD DMG Chptr 9: Dungeon Master's Workshop" mergeid="" baseicon="2" decalicon="1">
 		</category>
 		<category name="DD DMG Chptr A: Random Dungeon" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - Tables" mergeid="" baseicon="8" decalicon="1">
 		</category>
 		<category name="Monster Manual" mergeid="" baseicon="2" decalicon="1">
 		</category>

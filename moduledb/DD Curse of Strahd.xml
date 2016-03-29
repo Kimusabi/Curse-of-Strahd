@@ -4,6 +4,16 @@
 		<category name="Curse of Strahd - DM Maps" mergeid="" baseicon="8" decalicon="1">
 		</category>
 		<category name="Curse of Strahd - Handouts" mergeid="" baseicon="8" decalicon="1">
+			<id-00210>
+				<image type="image">
+					<bitmap>Tome of Strahd 1.jpg</bitmap>
+				</image>
+			</id-00210>
+			<id-00211>
+				<image type="image">
+					<bitmap>Tome of Strahd 2.jpg</bitmap>
+				</image>
+			</id-00211>
 		</category>
 		<category name="Curse of Strahd - Maps" mergeid="" baseicon="8" decalicon="1">
 		</category>
@@ -12,6 +22,11 @@
 		<category name="Curse of Strahd - NPCs" mergeid="" baseicon="8" decalicon="1">
 		</category>
 		<category name="Curse of Strahd - Portraits" mergeid="" baseicon="8" decalicon="1">
+			<id-00032>
+				<image type="image">
+					<bitmap>Blood Spear.jpg</bitmap>
+				</image>
+			</id-00032>
 			<id-00033>
 				<image type="image">
 					<bitmap>Castle Ravenloft.jpg</bitmap>
@@ -22,6 +37,31 @@
 					<bitmap>Count Strahd von Zarovich.jpg</bitmap>
 				</image>
 			</id-00035>
+			<id-00087>
+				<image type="image">
+					<bitmap>Gulthias Staff.jpg</bitmap>
+				</image>
+			</id-00087>
+			<id-00089>
+				<image type="image">
+					<bitmap>Holy Symbol of Ravenkind.jpg</bitmap>
+				</image>
+			</id-00089>
+			<id-00102>
+				<image type="image">
+					<bitmap>Morgantha.jpg</bitmap>
+				</image>
+			</id-00102>
+			<id-00127>
+				<image type="image">
+					<bitmap>Tome of Strahd.jpg</bitmap>
+				</image>
+			</id-00127>
+			<id-00132>
+				<image type="image">
+					<bitmap>Village of Barovia.jpg</bitmap>
+				</image>
+			</id-00132>
 		</category>
 		<category name="Curse of Strahd - Tarokka" mergeid="" baseicon="8" decalicon="1">
 		</category>
