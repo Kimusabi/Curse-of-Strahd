@@ -1,17 +1,391 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.1" release="7|CoreRPG:3">
+<root version="3.2" release="7|CoreRPG:3">
 	<battle>
-		<category name="" mergeid="" baseicon="0" decalicon="0">
-		</category>
-		<category name="Curse of Strahd - Encounters" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="DMG - Sylvan Forest Encounters" mergeid="" baseicon="2" decalicon="1">
-		</category>
 	</battle>
 	<calendar>
 		<public />
 	</calendar>
 	<charsheet>
+		<id-00001>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<backgroundlink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</backgroundlink>
+			<classes>
+			</classes>
+			<defenses>
+				<ac>
+					<armor type="number">0</armor>
+					<misc type="number">0</misc>
+					<prof type="number">1</prof>
+					<shield type="number">0</shield>
+					<temporary type="number">0</temporary>
+					<total type="number">10</total>
+				</ac>
+			</defenses>
+			<hp>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+				<wounds type="number">0</wounds>
+			</hp>
+			<initiative>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</initiative>
+			<level type="number">0</level>
+			<name type="string">&#60;ETHAN'S PLACEHOLDER&#62;</name>
+			<perception type="number">10</perception>
+			<perceptionmodifier type="number">0</perceptionmodifier>
+			<profbonus type="number">2</profbonus>
+			<racelink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</racelink>
+			<skilllist>
+				<id-00001>
+					<name type="string">Perception</name>
+					<stat type="string">wisdom</stat>
+				</id-00001>
+			</skilllist>
+			<speed>
+				<armor type="number">0</armor>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</speed>
+			<token type="token"></token>
+		</id-00001>
+		<id-00002>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<backgroundlink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</backgroundlink>
+			<classes>
+			</classes>
+			<defenses>
+				<ac>
+					<armor type="number">0</armor>
+					<misc type="number">0</misc>
+					<prof type="number">1</prof>
+					<shield type="number">0</shield>
+					<temporary type="number">0</temporary>
+					<total type="number">10</total>
+				</ac>
+			</defenses>
+			<hp>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+				<wounds type="number">0</wounds>
+			</hp>
+			<initiative>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</initiative>
+			<level type="number">0</level>
+			<name type="string">&#60;CHRIS'S PLACEHOLDER&#62;</name>
+			<perception type="number">10</perception>
+			<perceptionmodifier type="number">0</perceptionmodifier>
+			<profbonus type="number">2</profbonus>
+			<racelink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</racelink>
+			<skilllist>
+				<id-00001>
+					<name type="string">Perception</name>
+					<stat type="string">wisdom</stat>
+				</id-00001>
+			</skilllist>
+			<speed>
+				<armor type="number">0</armor>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</speed>
+			<token type="token"></token>
+		</id-00002>
+		<id-00003>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<backgroundlink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</backgroundlink>
+			<classes>
+			</classes>
+			<defenses>
+				<ac>
+					<armor type="number">0</armor>
+					<misc type="number">0</misc>
+					<prof type="number">1</prof>
+					<shield type="number">0</shield>
+					<temporary type="number">0</temporary>
+					<total type="number">10</total>
+				</ac>
+			</defenses>
+			<hp>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+				<wounds type="number">0</wounds>
+			</hp>
+			<initiative>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</initiative>
+			<level type="number">0</level>
+			<name type="string">&#60;DAN'S PLACEHOLDER&#62;</name>
+			<perception type="number">10</perception>
+			<perceptionmodifier type="number">0</perceptionmodifier>
+			<profbonus type="number">2</profbonus>
+			<racelink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</racelink>
+			<skilllist>
+				<id-00001>
+					<name type="string">Perception</name>
+					<stat type="string">wisdom</stat>
+				</id-00001>
+			</skilllist>
+			<speed>
+				<armor type="number">0</armor>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</speed>
+			<token type="token"></token>
+		</id-00003>
+		<id-00004>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<backgroundlink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</backgroundlink>
+			<classes>
+			</classes>
+			<defenses>
+				<ac>
+					<armor type="number">0</armor>
+					<misc type="number">0</misc>
+					<prof type="number">1</prof>
+					<shield type="number">0</shield>
+					<temporary type="number">0</temporary>
+					<total type="number">10</total>
+				</ac>
+			</defenses>
+			<hp>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+				<wounds type="number">0</wounds>
+			</hp>
+			<initiative>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</initiative>
+			<level type="number">0</level>
+			<name type="string">&#60;JASON'S PLACEHOLDER&#62;</name>
+			<perception type="number">10</perception>
+			<perceptionmodifier type="number">0</perceptionmodifier>
+			<profbonus type="number">2</profbonus>
+			<racelink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</racelink>
+			<skilllist>
+				<id-00001>
+					<name type="string">Perception</name>
+					<stat type="string">wisdom</stat>
+				</id-00001>
+			</skilllist>
+			<speed>
+				<armor type="number">0</armor>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</speed>
+			<token type="token"></token>
+		</id-00004>
 	</charsheet>
 	<combattracker>
 		<public />
@@ -20,86 +394,10 @@
 		<public />
 	</effects>
 	<encounter>
-		<category name="" mergeid="" baseicon="0" decalicon="0">
-		</category>
-		<category name="00. Curse of Strahd" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="01. Chapter 1: Into the Mists" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="02. Chapter 2: The Lands of Barovia" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="03. Chapter 3: The Village of Barovia" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="04. Chapter 4: Castle Ravenloft" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="05. Chapter 5: The Town of Vallaki" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="06. Chapter 6: Old Bonegrinder" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="07. Chapter 7: Argynvostholt" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="08. Chapter 8: The Village of Krezk" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="09. Chapter 9: Tsolenka Pass" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="10. Chapter 10: The Ruins of Berez" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="11. Chapter 11: Van Richten's Tower" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="12. Chapter 12: The Wizard of Wines" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="13. Chapter 13: The Amber Temple" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="14. Chapter 14: Yester Hill" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="15. Chapter 15: Werewolf Den" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="16. Epilogue" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="17. Appendix A: Character Options" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="18. Appendix B: Death House" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="19. Appendix C: Treasures" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="20. Appendix D: Monsters and NPCs" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="21. Appendix E: The Tarokka Deck" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="22. Appendix F: Handouts" mergeid="" baseicon="8" decalicon="1">
-		</category>
 	</encounter>
 	<image>
-		<category name="" mergeid="" baseicon="0" decalicon="0">
-		</category>
-		<category name="D&#38;D Sword Coast Adventurer's Guide - Campaign Guide" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - DM Maps" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - Handouts" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - Maps" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - Monsters" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - NPCs" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - Portraits" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - Tarokka" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="DD Dungeon Masters Guide" mergeid="" baseicon="2" decalicon="1">
-		</category>
 	</image>
 	<item>
-		<category name="" mergeid="" baseicon="0" decalicon="0">
-		</category>
-		<category name="Curse of Strahd - Magic Items" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - Quest Items" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - Treasure and Equipment" mergeid="" baseicon="8" decalicon="1">
-		</category>
 	</item>
 	<languages>
 		<public />
@@ -187,16 +485,6 @@
 		<public />
 	</modifiers>
 	<npc>
-		<category name="" mergeid="" baseicon="0" decalicon="0">
-		</category>
-		<category name="Curse of Strahd - MM" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - Monsters" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - NPCs" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - Traps" mergeid="" baseicon="8" decalicon="1">
-		</category>
 	</npc>
 	<options>
 		<public />
@@ -206,47 +494,9 @@
 		<public />
 	</partysheet>
 	<quest>
-		<category name="" mergeid="" baseicon="0" decalicon="0">
-		</category>
 	</quest>
 	<tables>
-		<category name="" mergeid="" baseicon="0" decalicon="0">
-		</category>
-		<category name="D&#38;D Sword Coast Adventurer's Guide - Player's Guide" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="Curse of Strahd - Tables" mergeid="" baseicon="8" decalicon="1">
-		</category>
-		<category name="DD DMG Chptr 1: A World of Your Own" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="DD DMG Chptr 2: Creating a Multiverse" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="DD DMG Chptr 3: Creating Adventures" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="DD DMG Chptr 4: Creating Nonplayer Characters" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="DD DMG Chptr 5: Adventure Environments" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="DD DMG Chptr 6: Between Adventures" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="DD DMG Chptr 7: Treasure" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="DD DMG Chptr 8: Running the Game" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="DD DMG Chptr 9: Dungeon Master's Workshop" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="DD DMG Chptr A: Random Dungeon" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="Monster Manual" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="DD PHB Deluxe" mergeid="" baseicon="2" decalicon="1">
-		</category>
-		<category name="DD Players Handbook" mergeid="" baseicon="2" decalicon="1">
-		</category>
 	</tables>
 	<treasureparcels>
-		<category name="" mergeid="" baseicon="0" decalicon="0">
-		</category>
-		<category name="Curse of Strahd - Parcels" mergeid="" baseicon="8" decalicon="1">
-		</category>
 	</treasureparcels>
 </root>

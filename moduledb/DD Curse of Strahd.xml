@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.1" release="7|CoreRPG:3" integrity="bb68c9109652706aac456416709181fe0d7bb8b3">
+<root version="3.2" release="7|CoreRPG:3" integrity="bb68c9109652706aac456416709181fe0d7bb8b3">
 	<image>
-		<category name="Curse of Strahd - DM Maps" mergeid="" baseicon="8" decalicon="1">
+		<category name="Curse of Strahd - DM Maps" baseicon="8" decalicon="1">
 		</category>
-		<category name="Curse of Strahd - Handouts" mergeid="" baseicon="8" decalicon="1">
+		<category name="Curse of Strahd - Handouts" baseicon="8" decalicon="1">
 			<id-00210>
 				<image type="image">
 					<bitmap>Tome of Strahd 1.jpg</bitmap>
@@ -15,13 +15,13 @@
 				</image>
 			</id-00211>
 		</category>
-		<category name="Curse of Strahd - Maps" mergeid="" baseicon="8" decalicon="1">
+		<category name="Curse of Strahd - Maps" baseicon="8" decalicon="1">
 		</category>
-		<category name="Curse of Strahd - Monsters" mergeid="" baseicon="8" decalicon="1">
+		<category name="Curse of Strahd - Monsters" baseicon="8" decalicon="1">
 		</category>
-		<category name="Curse of Strahd - NPCs" mergeid="" baseicon="8" decalicon="1">
+		<category name="Curse of Strahd - NPCs" baseicon="8" decalicon="1">
 		</category>
-		<category name="Curse of Strahd - Portraits" mergeid="" baseicon="8" decalicon="1">
+		<category name="Curse of Strahd - Portraits" baseicon="8" decalicon="1">
 			<id-00032>
 				<image type="image">
 					<bitmap>Blood Spear.jpg</bitmap>
@@ -63,7 +63,7 @@
 				</image>
 			</id-00132>
 		</category>
-		<category name="Curse of Strahd - Tarokka" mergeid="" baseicon="8" decalicon="1">
+		<category name="Curse of Strahd - Tarokka" baseicon="8" decalicon="1">
 		</category>
 	</image>
 </root>
