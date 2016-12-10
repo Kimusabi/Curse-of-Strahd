@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <root version="3.2" release="7|CoreRPG:3" integrity="bb68c9109652706aac456416709181fe0d7bb8b3">
+	<battle>
+		<category name="Curse of Strahd - Encounters" baseicon="8" decalicon="1">
+			<id-00025>
+				<exp type="number">1400</exp>
+				<locked type="number">1</locked>
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+							<id-00001>
+								<count type="number">7</count>
+								<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+									<maplink>
+										<id-00008 type="deleted" />
+										<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+						</category>
+					</npclist>
+				</category>
+			</id-00025>
+		</category>
+	</battle>
 	<image>
 		<category name="Curse of Strahd - DM Maps" baseicon="8" decalicon="1">
 		</category>
 		<category name="Curse of Strahd - Handouts" baseicon="8" decalicon="1">
+			<id-00207>
+				<image type="image">
+					<bitmap>Kolyan Indirovich's Letter v1.jpg</bitmap>
+				</image>
+			</id-00207>
 			<id-00210>
 				<image type="image">
 					<bitmap>Tome of Strahd 1.jpg</bitmap>
@@ -47,6 +76,11 @@
 					<bitmap>Holy Symbol of Ravenkind.jpg</bitmap>
 				</image>
 			</id-00089>
+			<id-00095>
+				<image type="image">
+					<bitmap>King Barov and Queen Ravenovia.jpg</bitmap>
+				</image>
+			</id-00095>
 			<id-00102>
 				<image type="image">
 					<bitmap>Morgantha.jpg</bitmap>
