@@ -100,4 +100,15 @@
 		<category name="Curse of Strahd - Tarokka" baseicon="8" decalicon="1">
 		</category>
 	</image>
+	<item>
+		<category name="Curse of Strahd - Magic Items" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Quest Items" baseicon="8" decalicon="1">
+		</category>
+		<category name="Curse of Strahd - Treasure and Equipment" baseicon="8" decalicon="1">
+			<id-00106>
+				<locked type="number">0</locked>
+			</id-00106>
+		</category>
+	</item>
 </root>

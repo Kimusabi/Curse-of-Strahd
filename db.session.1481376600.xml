@@ -633,7 +633,7 @@
 					<name type="string">Dwarvish</name>
 				</id-00001>
 				<id-00002>
-					<name type="string">Common</name>
+					<name type="string">Common </name>
 				</id-00002>
 				<id-00003>
 					<name type="string">Elvish</name>
@@ -1619,7 +1619,7 @@
 			</inventorylist>
 			<languagelist>
 				<id-00001>
-					<name type="string">Common</name>
+					<name type="string">Common </name>
 				</id-00001>
 				<id-00002>
 					<name type="string">Dwarvish</name>
@@ -2461,7 +2461,7 @@
 			</inventorylist>
 			<languagelist>
 				<id-00001>
-					<name type="string">Common</name>
+					<name type="string">Common </name>
 				</id-00001>
 				<id-00002>
 					<name type="string">Halfling</name>
@@ -2824,89 +2824,71 @@
 		<id-00004>
 			<abilities>
 				<charisma>
-					<bonus type="number">3</bonus>
-					<save type="number">5</save>
-					<savemodifier type="number">0</savemodifier>
-					<saveprof type="number">1</saveprof>
-					<score type="number">17</score>
-				</charisma>
-				<constitution>
-					<bonus type="number">3</bonus>
-					<save type="number">3</save>
-					<savemodifier type="number">0</savemodifier>
-					<saveprof type="number">0</saveprof>
-					<score type="number">16</score>
-				</constitution>
-				<dexterity>
-					<bonus type="number">3</bonus>
-					<save type="number">5</save>
-					<savemodifier type="number">0</savemodifier>
-					<saveprof type="number">1</saveprof>
-					<score type="number">16</score>
-				</dexterity>
-				<intelligence>
-					<bonus type="number">2</bonus>
-					<save type="number">2</save>
-					<savemodifier type="number">0</savemodifier>
-					<saveprof type="number">0</saveprof>
-					<score type="number">14</score>
-				</intelligence>
-				<strength>
-					<bonus type="number">2</bonus>
-					<save type="number">2</save>
-					<savemodifier type="number">0</savemodifier>
-					<saveprof type="number">0</saveprof>
-					<score type="number">14</score>
-				</strength>
-				<wisdom>
 					<bonus type="number">1</bonus>
 					<save type="number">1</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">0</saveprof>
 					<score type="number">12</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">11</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
 				</wisdom>
 			</abilities>
-			<alignment type="string">Neutral Evil</alignment>
 			<background type="string">Charlatan</background>
 			<backgroundlink type="windowreference">
 				<class>reference_background</class>
 				<recordname>reference.backgrounddata.charlatan@DD PHB Deluxe</recordname>
 			</backgroundlink>
-			<bonds type="string">Somewhere out there, I have a child who doesn't know me. I'm making the world better for him or her.</bonds>
 			<classes>
-				<id-00001>
-					<casterlevelinvmult type="number">1</casterlevelinvmult>
-					<hddie type="dice">d8</hddie>
-					<hdused type="number">0</hdused>
-					<level type="number">2</level>
-					<name type="string">Bard</name>
-					<shortcut type="windowreference">
-						<class>reference_class</class>
-						<recordname>reference.classdata.bard@DD PHB Deluxe</recordname>
-					</shortcut>
-				</id-00001>
 			</classes>
 			<coinother type="string">10 GP</coinother>
 			<coins>
 				<slot1>
 					<amount type="number">0</amount>
-					<name type="string">CP</name>
 				</slot1>
 				<slot2>
 					<amount type="number">0</amount>
-					<name type="string">SP</name>
 				</slot2>
 				<slot3>
 					<amount type="number">0</amount>
-					<name type="string">EP</name>
 				</slot3>
 				<slot4>
-					<amount type="number">15</amount>
-					<name type="string">GP</name>
+					<amount type="number">0</amount>
 				</slot4>
 				<slot5>
 					<amount type="number">0</amount>
-					<name type="string">PP</name>
 				</slot5>
 				<slot6>
 					<amount type="number">0</amount>
@@ -2914,21 +2896,20 @@
 			</coins>
 			<defenses>
 				<ac>
-					<armor type="number">1</armor>
-					<disstealth type="number">0</disstealth>
+					<armor type="number">0</armor>
 					<misc type="number">0</misc>
 					<prof type="number">1</prof>
 					<shield type="number">0</shield>
 					<temporary type="number">0</temporary>
-					<total type="number">14</total>
+					<total type="number">10</total>
 				</ac>
 			</defenses>
 			<encumbrance>
-				<encumbered type="number">70</encumbered>
-				<encumberedheavy type="number">140</encumberedheavy>
-				<liftpushdrag type="number">420</liftpushdrag>
-				<load type="number">66.55</load>
-				<max type="number">210</max>
+				<encumbered type="number">50</encumbered>
+				<encumberedheavy type="number">100</encumberedheavy>
+				<liftpushdrag type="number">300</liftpushdrag>
+				<load type="number">0</load>
+				<max type="number">150</max>
 			</encumbrance>
 			<exp type="number">350</exp>
 			<expneeded type="number">0</expneeded>
@@ -2944,319 +2925,38 @@
 						<p>Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.</p>
 					</text>
 				</id-00001>
-				<id-00002>
-					<level type="number">1</level>
-					<locked type="number">1</locked>
-					<name type="string">Spellcasting</name>
-					<source type="string">Bard</source>
-					<text type="formattedtext">
-						<p>You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See chapter 10 for the general rules of spellcasting and chapter 11 for the bard spell list.</p>
-						<linklist>
-							<link class="reference_colindex" recordname="reference.spelllists.bard@DD PHB Deluxe">Bard Spells</link>
-						</linklist>
-						<p><b>Cantrips</b></p>
-						<p>You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.</p>
-						<p><b>Spell Slots</b></p>
-						<p>The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You must finish a long rest to regain any expended spell slots.</p>
-						<p>For example, if you know the 1st-level spell cure wounds and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot.</p>
-						<p><b>Spells Known of 1st Level and Higher</b></p>
-						<p>You know four 1st-level spells of your choice from the bard spell list.</p>
-						<p>The Spells Known column of the Bard table shows when you learn more bard spells of your choice. Each of these spells must be of a level for which you have spell slots, as shown on the table. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.</p>
-						<p>Additionally, when you gain a level in this class, you can choose one of the spells you know and replace it with another spell from the bard spell list, which must be of a level for which you have spell slots, as shown on the table.</p>
-						<p><b>Spellcasting Ability</b></p>
-						<p>Charisma is your spellcasting ability for your bard spells, since the power of your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.</p>
-						<p><b>Spell Save DC </b>= 8 + your proficiency bonus + your Charisma modifier</p>
-						<p><b>Spell Attack modifier </b>= your proficiency bonus + your Charisma modifier</p>
-						<p><b>Ritual Casting</b></p>
-						<p>You can cast any bard spell you know as a ritual if that spell has the ritual tag. To cast a spell as a ritual, you must add 10 minutes to the spell's casting time, as normal.</p>
-						<p><b>Spellcasting Focus</b></p>
-						<p>You can use a musical instrument as the material component for a bard spell, as described in chapter 10.</p>
-					</text>
-				</id-00002>
-				<id-00003>
-					<level type="number">1</level>
-					<locked type="number">1</locked>
-					<name type="string">Bardic Inspiration</name>
-					<source type="string">Bard</source>
-					<text type="formattedtext">
-						<p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.</p>
-						<p>Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw that it just made. The creature can wait until after it rolls the die for the ability check, attack roll, or saving throw, but before the DM says whether or not it succeeds or fails before deciding to use the Bardic Inspiration die. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</p>
-						<p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.</p>
-						<p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</p>
-					</text>
-				</id-00003>
-				<id-00004>
-					<level type="number">2</level>
-					<locked type="number">1</locked>
-					<name type="string">Song of Rest</name>
-					<source type="string">Bard</source>
-					<text type="formattedtext">
-						<p>Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creature who can hear your performance regains any hit points during the short rest, that creature regains 1d6 extra hit points at the end of the rest. A creature regains the extra hit points only if it spends one or more Hit Dice at the end of the short rest.</p>
-						<p>The extra hit points increase when you reach certain levels in this class: 1d8 at 9th level, 1d10 at 13th level, and 1d12 at 17th level.</p>
-					</text>
-				</id-00004>
-				<id-00005>
-					<level type="number">2</level>
-					<locked type="number">1</locked>
-					<name type="string">Jack of All Trades</name>
-					<source type="string">Bard</source>
-					<text type="formattedtext">
-						<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include that bonus.</p>
-					</text>
-				</id-00005>
 			</featurelist>
-			<flaws type="string">I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough.</flaws>
 			<hp>
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<temporary type="number">0</temporary>
-				<total type="number">19</total>
+				<total type="number">0</total>
 				<wounds type="number">0</wounds>
 			</hp>
-			<ideals type="string">Aspiration. I'm determined to make something of myself. (Any)</ideals>
 			<initiative>
 				<misc type="number">0</misc>
 				<temporary type="number">0</temporary>
-				<total type="number">3</total>
+				<total type="number">0</total>
 			</initiative>
 			<inventorylist>
-				<id-00003>
-					<ac type="number">0</ac>
-					<bonus type="number">0</bonus>
-					<carried type="number">2</carried>
-					<cost type="string">25 gp</cost>
-					<count type="number">1</count>
-					<damage type="string">1d8 piercing</damage>
-					<description type="formattedtext">
-						<p></p>
-					</description>
-					<isidentified type="number">1</isidentified>
-					<istemplate type="number">0</istemplate>
-					<locked type="number">1</locked>
-					<name type="string">Rapier</name>
-					<properties type="string">Finesse, Silvered</properties>
-					<subtype type="string">Martial Weapons</subtype>
-					<type type="string">Weapon</type>
-					<weight type="number">2</weight>
-				</id-00003>
-				<id-00004>
-					<carried type="number">1</carried>
-					<cost type="string">1 gp</cost>
-					<count type="number">1</count>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Bedroll</name>
-					<subtype type="string">Standard</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">7</weight>
-				</id-00004>
-				<id-00005>
-					<carried type="number">1</carried>
-					<cost type="string">5 gp</cost>
-					<count type="number">2</count>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Clothes, Costume</name>
-					<subtype type="string">Standard</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">4</weight>
-				</id-00005>
-				<id-00006>
-					<carried type="number">1</carried>
-					<cost type="string">5 sp</cost>
-					<count type="number">5</count>
-					<description type="formattedtext">
-						<p>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</p>
-					</description>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Rations (1 Day)</name>
-					<subtype type="string">Standard</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">2</weight>
-				</id-00006>
-				<id-00007>
-					<carried type="number">1</carried>
-					<cost type="string">2 sp</cost>
-					<count type="number">1</count>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Waterskin</name>
-					<subtype type="string">Standard</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">5</weight>
-				</id-00007>
-				<id-00008>
-					<carried type="number">1</carried>
-					<cost type="string">25 gp</cost>
-					<count type="number">2</count>
-					<description type="formattedtext">
-						<p>This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.</p>
-					</description>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Disguise Kit</name>
-					<subtype type="string">Kits / Sets</subtype>
-					<type type="string">Tools</type>
-					<weight type="number">3</weight>
-				</id-00008>
-				<id-00009>
-					<carried type="number">1</carried>
-					<cost type="string">1 cp</cost>
-					<count type="number">5</count>
-					<description type="formattedtext">
-						<p>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</p>
-					</description>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Candle</name>
-					<subtype type="string">Standard</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">0.01</weight>
-				</id-00009>
-				<id-00010>
-					<carried type="number">1</carried>
-					<cost type="string">2 gp</cost>
-					<count type="number">1</count>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Backpack (Empty)</name>
-					<subtype type="string">Standard</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">5</weight>
-				</id-00010>
-				<id-00011>
-					<carried type="number">1</carried>
-					<cost type="string">12 gp</cost>
-					<count type="number">1</count>
-					<description type="formattedtext">
-						<p>Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in Part 3: The Rules of Magic, Casting a Spell. Each type of musical instrument requires a separate proficiency.</p>
-					</description>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Pan Flute</name>
-					<subtype type="string">Musical Instrument</subtype>
-					<type type="string">Tools</type>
-					<weight type="number">2</weight>
-				</id-00011>
-				<id-00012>
-					<carried type="number">1</carried>
-					<cost type="string">1 sp</cost>
-					<count type="number">1</count>
-					<description type="formattedtext">
-						<p>This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>
-					</description>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Dice Set (Weighted)</name>
-					<subtype type="string">Gaming Set</subtype>
-					<type type="string">Tools</type>
-					<weight type="number">0</weight>
-				</id-00012>
-				<id-00013>
-					<ac type="number">11</ac>
-					<carried type="number">2</carried>
-					<cost type="string">10 gp</cost>
-					<count type="number">1</count>
-					<description type="formattedtext">
-						<p>Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.</p>
-						<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>
-					</description>
-					<dexbonus type="string">Yes</dexbonus>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Leather</name>
-					<stealth type="string">-</stealth>
-					<strength type="string">-</strength>
-					<subtype type="string">Light Armor</subtype>
-					<type type="string">Armor</type>
-					<weight type="number">10</weight>
-				</id-00013>
-				<id-00014>
-					<carried type="number">2</carried>
-					<cost type="string">2 gp</cost>
-					<count type="number">1</count>
-					<damage type="string">1d4 piercing</damage>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Dagger</name>
-					<properties type="string">Finesse, light, thrown (range 20/60)</properties>
-					<subtype type="string">Simple Melee Weapons</subtype>
-					<type type="string">Weapon</type>
-					<weight type="number">1</weight>
-				</id-00014>
-				<id-00015>
-					<carried type="number">1</carried>
-					<cost type="string">15 gp</cost>
-					<count type="number">1</count>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Clothes, Fine</name>
-					<subtype type="string">Standard</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">6</weight>
-				</id-00015>
-				<id-00016>
-					<carried type="number">2</carried>
-					<cost type="string">75 gp</cost>
-					<count type="number">1</count>
-					<damage type="string">1d6 piercing</damage>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Crossbow, Hand</name>
-					<properties type="string">Ammunition (range 30/120), light, loading</properties>
-					<subtype type="string">Martial Ranged Weapons</subtype>
-					<type type="string">Weapon</type>
-					<weight type="number">3</weight>
-				</id-00016>
-				<id-00017>
-					<carried type="number">1</carried>
-					<cost type="string">1 gp</cost>
-					<count type="number">1</count>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Crossbow Bolts (20)</name>
-					<subtype type="string">Ammunition</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">1.5</weight>
-				</id-00017>
 			</inventorylist>
 			<languagelist>
 				<id-00001>
-					<name type="string">Common</name>
+					<name type="string">Common </name>
 				</id-00001>
 				<id-00002>
 					<name type="string">Infernal</name>
 				</id-00002>
 			</languagelist>
-			<level type="number">2</level>
+			<level type="number">0</level>
 			<name type="string">Lyrael</name>
-			<perception type="number">11</perception>
+			<perception type="number">10</perception>
 			<perceptionmodifier type="number">0</perceptionmodifier>
-			<personalitytraits type="string">I have a joke for every occasion, especially occasions where humor is inappropriate.</personalitytraits>
 			<powergroup>
 				<id-00001>
-					<atkmod type="number">0</atkmod>
-					<atkprof type="number">1</atkprof>
 					<castertype type="string">memorization</castertype>
 					<name type="string">Spells</name>
-					<prepared type="number">0</prepared>
-					<savemod type="number">0</savemod>
-					<saveprof type="number">1</saveprof>
-					<stat type="string">charisma</stat>
-					<uses type="number">0</uses>
 				</id-00001>
-				<id-00002>
-					<atkmod type="number">0</atkmod>
-					<atkprof type="number">1</atkprof>
-					<castertype type="string">memorization</castertype>
-					<name type="string">Spells (Bard)</name>
-					<prepared type="number">0</prepared>
-					<savemod type="number">0</savemod>
-					<saveprof type="number">1</saveprof>
-					<stat type="string">charisma</stat>
-					<uses type="number">0</uses>
-				</id-00002>
 			</powergroup>
 			<powermeta>
 				<pactmagicslots1>
@@ -3287,7 +2987,7 @@
 					<max type="number">0</max>
 				</pactmagicslots9>
 				<spellslots1>
-					<max type="number">3</max>
+					<max type="number">0</max>
 				</spellslots1>
 				<spellslots2>
 					<max type="number">0</max>
@@ -3344,232 +3044,12 @@
 					<school type="string">Transmutation</school>
 					<source type="string">Cleric</source>
 				</id-00001>
-				<id-00002>
-					<actions>
-						<id-00001>
-							<order type="number">1</order>
-							<savetype type="string">wisdom</savetype>
-							<type type="string">cast</type>
-						</id-00001>
-						<id-00002>
-							<damagelist>
-								<id-00001>
-									<bonus type="number">0</bonus>
-									<dice type="dice">d4</dice>
-									<type type="string">psychic</type>
-								</id-00001>
-							</damagelist>
-							<order type="number">2</order>
-							<type type="string">damage</type>
-						</id-00002>
-					</actions>
-					<cast type="number">0</cast>
-					<castingtime type="string">1 action</castingtime>
-					<components type="string">V</components>
-					<description type="formattedtext">
-						<p>You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn. This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).</p>
-					</description>
-					<duration type="string">Instantaneous</duration>
-					<group type="string">Spells</group>
-					<level type="number">0</level>
-					<locked type="number">1</locked>
-					<name type="string">Vicious Mockery</name>
-					<prepared type="number">0</prepared>
-					<range type="string">60 feet</range>
-					<school type="string">Enchantment</school>
-					<source type="string">Bard</source>
-				</id-00002>
-				<id-00003>
-					<actions>
-					</actions>
-					<cast type="number">0</cast>
-					<castingtime type="string">1 action</castingtime>
-					<components type="string">S, M (a bit of fleece)</components>
-					<description type="formattedtext">
-						<p>You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.</p>
-						<p>If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.</p>
-						<p>If you create an image of an object-such as a chair, muddy footprints, or a small chest-it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.</p>
-						<p>If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.</p>
-					</description>
-					<duration type="string">1 minute</duration>
-					<group type="string">Spells</group>
-					<level type="number">0</level>
-					<locked type="number">1</locked>
-					<name type="string">Minor Illusion</name>
-					<prepared type="number">0</prepared>
-					<range type="string">30 feet</range>
-					<school type="string">Illusion</school>
-					<source type="string">Bard, Eldritch Knight, Monk, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
-				</id-00003>
-				<id-00005>
-					<actions>
-						<id-00001>
-							<onmissdamage type="string">half</onmissdamage>
-							<order type="number">1</order>
-							<savetype type="string">wisdom</savetype>
-							<type type="string">cast</type>
-						</id-00001>
-						<id-00002>
-							<damagelist>
-								<id-00001>
-									<bonus type="number">0</bonus>
-									<dice type="dice">d6,d6,d6</dice>
-									<type type="string">psychic</type>
-								</id-00001>
-							</damagelist>
-							<order type="number">2</order>
-							<type type="string">damage</type>
-						</id-00002>
-					</actions>
-					<cast type="number">0</cast>
-					<castingtime type="string">1 action</castingtime>
-					<components type="string">V</components>
-					<description type="formattedtext">
-						<p>You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn't have to move away. A deafened creature automatically succeeds on the save.</p>
-						<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.</p>
-					</description>
-					<duration type="string">Instantaneous</duration>
-					<group type="string">Spells</group>
-					<level type="number">1</level>
-					<locked type="number">1</locked>
-					<name type="string">Dissonant Whispers</name>
-					<prepared type="number">0</prepared>
-					<range type="string">60 feet</range>
-					<school type="string">Enchantment</school>
-					<source type="string">Bard, Warlock (Great Old One)</source>
-				</id-00005>
-				<id-00006>
-					<actions>
-						<id-00001>
-							<order type="number">1</order>
-							<savetype type="string">dexterity</savetype>
-							<type type="string">cast</type>
-						</id-00001>
-					</actions>
-					<cast type="number">0</cast>
-					<castingtime type="string">1 action</castingtime>
-					<components type="string">V</components>
-					<description type="formattedtext">
-						<p>Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.</p>
-					</description>
-					<duration type="string">Concentration, up to 1 minute</duration>
-					<group type="string">Spells</group>
-					<level type="number">1</level>
-					<locked type="number">1</locked>
-					<name type="string">Faerie Fire</name>
-					<prepared type="number">0</prepared>
-					<range type="string">60 feet</range>
-					<school type="string">Evocation</school>
-					<source type="string">Bard, Cleric Light Domain, Druid, Warlock (Archfey)</source>
-				</id-00006>
-				<id-00007>
-					<actions>
-						<id-00001>
-							<order type="number">1</order>
-							<savetype type="string">wisdom</savetype>
-							<type type="string">cast</type>
-						</id-00001>
-						<id-00002>
-							<durmod type="number">1</durmod>
-							<durunit type="string">minute</durunit>
-							<label type="string">Prone; Incapacitated; NOTE: Unable to stand up; NOTE: Save on end of round and damage; (C)</label>
-							<order type="number">2</order>
-							<type type="string">effect</type>
-						</id-00002>
-					</actions>
-					<cast type="number">0</cast>
-					<castingtime type="string">1 action</castingtime>
-					<components type="string">V, S, M (tiny tarts and a feather that is waved in the air)</components>
-					<description type="formattedtext">
-						<p>A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.</p>
-						<p>At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends.</p>
-					</description>
-					<duration type="string">Concentration, up to 1 minute</duration>
-					<group type="string">Spells</group>
-					<level type="number">1</level>
-					<locked type="number">1</locked>
-					<name type="string">Tasha's Hideous Laughter</name>
-					<prepared type="number">0</prepared>
-					<range type="string">30 feet</range>
-					<school type="string">Enchantment</school>
-					<source type="string">Bard, Eldritch Knight, Warlock (Great Old One), Wizard, Arcane Trickster</source>
-				</id-00007>
-				<id-00008>
-					<actions>
-						<id-00001>
-							<durmod type="number">1</durmod>
-							<durunit type="string">minute</durunit>
-							<label type="string">Unconscious</label>
-							<order type="number">1</order>
-							<type type="string">effect</type>
-						</id-00001>
-					</actions>
-					<cast type="number">0</cast>
-					<castingtime type="string">1 action</castingtime>
-					<components type="string">V, S, M (a pinch of fine sand, rose petals, or a cricket)</components>
-					<description type="formattedtext">
-						<p>This spell sends creatures into a magical slumber.</p>
-						<p>Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).</p>
-						<p>Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.</p>
-						<p>Undead and creatures immune to being charmed aren't affected by this spell.</p>
-						<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.</p>
-					</description>
-					<duration type="string">1 minute</duration>
-					<group type="string">Spells</group>
-					<level type="number">1</level>
-					<locked type="number">1</locked>
-					<name type="string">Sleep</name>
-					<prepared type="number">0</prepared>
-					<range type="string">90 feet</range>
-					<school type="string">Enchantment</school>
-					<source type="string">Bard, Eldritch Knight, Warlock (Archfey), Sorcerer, Wizard, Arcane Trickster</source>
-				</id-00008>
-				<id-00009>
-					<actions>
-						<id-00001>
-							<heallist>
-								<id-00001>
-									<bonus type="number">0</bonus>
-									<dice type="dice">d8</dice>
-									<stat type="string">base</stat>
-								</id-00001>
-							</heallist>
-							<order type="number">1</order>
-							<type type="string">heal</type>
-						</id-00001>
-					</actions>
-					<cast type="number">0</cast>
-					<castingtime type="string">1 action</castingtime>
-					<components type="string">V, S</components>
-					<description type="formattedtext">
-						<p>A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.</p>
-						<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.</p>
-					</description>
-					<duration type="string">Instantaneous</duration>
-					<group type="string">Spells</group>
-					<level type="number">1</level>
-					<locked type="number">1</locked>
-					<name type="string">Cure Wounds</name>
-					<prepared type="number">0</prepared>
-					<range type="string">Touch</range>
-					<school type="string">Evocation</school>
-					<source type="string">Bard, Cleric, Cleric Life Domain, Druid, Paladin, Ranger</source>
-				</id-00009>
 			</powers>
 			<profbonus type="number">2</profbonus>
 			<proficiencylist>
 				<id-00001>
 					<name type="string">Tool: Disguise kit, forgery kit</name>
 				</id-00001>
-				<id-00002>
-					<name type="string">Weapon: Simple weapons, hand crossbows, longswords, rapiers, shortswords</name>
-				</id-00002>
-				<id-00003>
-					<name type="string">Tool: Three musical instruments - Lutes, Pipes, Drums</name>
-				</id-00003>
-				<id-00004>
-					<name type="string">Armor: Light armor</name>
-				</id-00004>
 			</proficiencylist>
 			<race type="string">Tiefling</race>
 			<racelink type="windowreference">
@@ -3584,126 +3064,126 @@
 					<name type="string">Perception</name>
 					<prof type="number">0</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">1</total>
+					<total type="number">0</total>
 				</id-00001>
 				<id-00002>
 					<misc type="number">0</misc>
 					<name type="string">Arcana</name>
 					<prof type="number">0</prof>
 					<stat type="string">intelligence</stat>
-					<total type="number">2</total>
+					<total type="number">0</total>
 				</id-00002>
 				<id-00003>
 					<misc type="number">0</misc>
 					<name type="string">Persuasion</name>
 					<prof type="number">0</prof>
 					<stat type="string">charisma</stat>
-					<total type="number">3</total>
+					<total type="number">1</total>
 				</id-00003>
 				<id-00004>
 					<misc type="number">0</misc>
 					<name type="string">Nature</name>
 					<prof type="number">0</prof>
 					<stat type="string">intelligence</stat>
-					<total type="number">2</total>
+					<total type="number">0</total>
 				</id-00004>
 				<id-00005>
 					<misc type="number">0</misc>
 					<name type="string">Medicine</name>
 					<prof type="number">0</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">1</total>
+					<total type="number">0</total>
 				</id-00005>
 				<id-00006>
 					<misc type="number">0</misc>
 					<name type="string">Survival</name>
 					<prof type="number">0</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">1</total>
+					<total type="number">0</total>
 				</id-00006>
 				<id-00007>
 					<misc type="number">0</misc>
 					<name type="string">Performance</name>
-					<prof type="number">1</prof>
+					<prof type="number">0</prof>
 					<stat type="string">charisma</stat>
-					<total type="number">5</total>
+					<total type="number">1</total>
 				</id-00007>
 				<id-00008>
 					<misc type="number">0</misc>
 					<name type="string">Acrobatics</name>
-					<prof type="number">1</prof>
+					<prof type="number">0</prof>
 					<stat type="string">dexterity</stat>
-					<total type="number">5</total>
+					<total type="number">0</total>
 				</id-00008>
 				<id-00009>
 					<misc type="number">0</misc>
 					<name type="string">Religion</name>
 					<prof type="number">0</prof>
 					<stat type="string">intelligence</stat>
-					<total type="number">2</total>
+					<total type="number">0</total>
 				</id-00009>
 				<id-00010>
 					<misc type="number">0</misc>
 					<name type="string">Athletics</name>
 					<prof type="number">0</prof>
 					<stat type="string">strength</stat>
-					<total type="number">2</total>
+					<total type="number">0</total>
 				</id-00010>
 				<id-00011>
 					<misc type="number">0</misc>
 					<name type="string">Sleight of Hand</name>
 					<prof type="number">1</prof>
 					<stat type="string">dexterity</stat>
-					<total type="number">5</total>
+					<total type="number">2</total>
 				</id-00011>
 				<id-00012>
 					<misc type="number">0</misc>
 					<name type="string">Insight</name>
 					<prof type="number">0</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">1</total>
+					<total type="number">0</total>
 				</id-00012>
 				<id-00013>
 					<misc type="number">0</misc>
 					<name type="string">Intimidation</name>
-					<prof type="number">1</prof>
+					<prof type="number">0</prof>
 					<stat type="string">charisma</stat>
-					<total type="number">5</total>
+					<total type="number">1</total>
 				</id-00013>
 				<id-00014>
 					<misc type="number">0</misc>
 					<name type="string">Deception</name>
 					<prof type="number">1</prof>
 					<stat type="string">charisma</stat>
-					<total type="number">5</total>
+					<total type="number">3</total>
 				</id-00014>
 				<id-00015>
 					<misc type="number">0</misc>
 					<name type="string">Investigation</name>
 					<prof type="number">0</prof>
 					<stat type="string">intelligence</stat>
-					<total type="number">2</total>
+					<total type="number">0</total>
 				</id-00015>
 				<id-00016>
 					<misc type="number">0</misc>
 					<name type="string">Stealth</name>
 					<prof type="number">0</prof>
 					<stat type="string">dexterity</stat>
-					<total type="number">3</total>
+					<total type="number">0</total>
 				</id-00016>
 				<id-00017>
 					<misc type="number">0</misc>
 					<name type="string">History</name>
 					<prof type="number">0</prof>
 					<stat type="string">intelligence</stat>
-					<total type="number">2</total>
+					<total type="number">0</total>
 				</id-00017>
 				<id-00018>
 					<misc type="number">0</misc>
 					<name type="string">Animal Handling</name>
 					<prof type="number">0</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">1</total>
+					<total type="number">0</total>
 				</id-00018>
 			</skilllist>
 			<speed>
@@ -3713,8 +3193,6 @@
 				<temporary type="number">0</temporary>
 				<total type="number">30</total>
 			</speed>
-			<temp>
-			</temp>
 			<token type="token">portrait_id-00004_token</token>
 			<traitlist>
 				<id-00001>
@@ -3737,93 +3215,6 @@
 				</id-00002>
 			</traitlist>
 			<weaponlist>
-				<id-00003>
-					<attackbonus type="number">0</attackbonus>
-					<attackstat type="string">dexterity</attackstat>
-					<carried type="number">2</carried>
-					<damagelist>
-						<id-00001>
-							<bonus type="number">0</bonus>
-							<dice type="dice">d8</dice>
-							<stat type="string">dexterity</stat>
-							<type type="string">piercing</type>
-						</id-00001>
-					</damagelist>
-					<isidentified type="number">1</isidentified>
-					<maxammo type="number">0</maxammo>
-					<name type="string">Rapier</name>
-					<prof type="number">1</prof>
-					<shortcut type="windowreference">
-						<class>item</class>
-						<recordname>....inventorylist.id-00003</recordname>
-					</shortcut>
-					<type type="number">0</type>
-				</id-00003>
-				<id-00004>
-					<attackbonus type="number">0</attackbonus>
-					<attackstat type="string">dexterity</attackstat>
-					<carried type="number">1</carried>
-					<damagelist>
-						<id-00001>
-							<bonus type="number">0</bonus>
-							<dice type="dice">d4</dice>
-							<stat type="string">dexterity</stat>
-							<type type="string">piercing</type>
-						</id-00001>
-					</damagelist>
-					<isidentified type="number">1</isidentified>
-					<maxammo type="number">0</maxammo>
-					<name type="string">Dagger</name>
-					<prof type="number">1</prof>
-					<shortcut type="windowreference">
-						<class>item</class>
-						<recordname>....inventorylist.id-00014</recordname>
-					</shortcut>
-					<type type="number">0</type>
-				</id-00004>
-				<id-00005>
-					<attackbonus type="number">0</attackbonus>
-					<attackstat type="string">dexterity</attackstat>
-					<carried type="number">1</carried>
-					<damagelist>
-						<id-00001>
-							<bonus type="number">0</bonus>
-							<dice type="dice">d4</dice>
-							<stat type="string">dexterity</stat>
-							<type type="string">piercing</type>
-						</id-00001>
-					</damagelist>
-					<isidentified type="number">1</isidentified>
-					<maxammo type="number">0</maxammo>
-					<name type="string">Dagger</name>
-					<prof type="number">1</prof>
-					<shortcut type="windowreference">
-						<class>item</class>
-						<recordname>....inventorylist.id-00014</recordname>
-					</shortcut>
-					<type type="number">2</type>
-				</id-00005>
-				<id-00006>
-					<attackbonus type="number">0</attackbonus>
-					<carried type="number">1</carried>
-					<damagelist>
-						<id-00001>
-							<bonus type="number">0</bonus>
-							<dice type="dice">d6</dice>
-							<stat type="string">base</stat>
-							<type type="string">piercing</type>
-						</id-00001>
-					</damagelist>
-					<isidentified type="number">1</isidentified>
-					<maxammo type="number">20</maxammo>
-					<name type="string">Crossbow, Hand</name>
-					<prof type="number">1</prof>
-					<shortcut type="windowreference">
-						<class>item</class>
-						<recordname>....inventorylist.id-00016</recordname>
-					</shortcut>
-					<type type="number">1</type>
-				</id-00006>
 			</weaponlist>
 		</id-00004>
 	</charsheet>
@@ -4255,8 +3646,8 @@
 			<text type="formattedtext">
 				<p>Our heros are a bunch of infamous charletons to the Daggerford reagion.</p>
 				<p>Lyrael and Fabio know each other from cons played around town.</p>
-				<p>Fabio swinddled a sword from Jeff, valued at 1000 gp.</p>
-				<p>Jeff continues to follow Fabio around, in an attempt to get compensation, or eventually turn him in.</p>
+				<p>Fabio swinddled a sword from Jeff, valued at 1000 gp. </p>
+				<p>Jeff continues to follow Fabio around, in an attempt to  get compensation, or eventually turn him in.</p>
 				<p>Fjarnskaggl has been tasked with repremanding all members of the rag-tag group...</p>
 				<p>The group has been hired before because of the groups overall good performance as a comedy group.</p>
 			</text>
@@ -4288,6 +3679,7 @@
 				<p>Noting that the Zombies were too numerous and powerful to be handled properly by the party, I proceeded to only use bite attacks or had two remaining zombies succumb to the flames that the party had set a blaze.</p>
 				<p>The party overcame the smaller horde of zombies, I awarded full XP to the group, granting 350 XP to the entire group.</p>
 				<p>The group leveled up to level 2.</p>
+				<p></p>
 			</text>
 		</id-00003>
 	</notes>
@@ -4304,18 +3696,18 @@
 		<checkselected type="string">Strength</checkselected>
 		<coinlist>
 			<public />
-			<id-00005>
+			<id-00006>
 				<public />
 				<amount type="number">15</amount>
 				<carriedby type="string">Jeff [15]</carriedby>
 				<name type="string">SP</name>
-			</id-00005>
-			<id-00006>
-				<public />
-				<amount type="number">305</amount>
-				<carriedby type="string">Lyrael [15], Fjarnskaggl [139], Fabio McSmallfeet [91], Jeff [60]</carriedby>
-				<name type="string">GP</name>
 			</id-00006>
+			<id-00007>
+				<public />
+				<amount type="number">290</amount>
+				<carriedby type="string">Fjarnskaggl [139], Fabio McSmallfeet [91], Jeff [60]</carriedby>
+				<name type="string">GP</name>
+			</id-00007>
 		</coinlist>
 		<encounters>
 			<public />
@@ -4415,282 +3807,246 @@
 		</image>
 		<inventorylist>
 			<public />
-			<id-00093>
+			<id-00050>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Ball Bearings (1,000)</name>
-			</id-00093>
-			<id-00094>
+			</id-00050>
+			<id-00051>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Arrows (20)</name>
-			</id-00094>
-			<id-00095>
-				<public />
-				<carriedby type="string">Lyrael [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Dice Set (Weighted)</name>
-			</id-00095>
-			<id-00096>
+			</id-00051>
+			<id-00052>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Tinderbox</name>
-			</id-00096>
-			<id-00097>
-				<public />
-				<carriedby type="string">Fjarnskaggl [1], Jeff [10]</carriedby>
-				<count type="number">11</count>
-				<name type="string">Parchment (One Sheet)</name>
-			</id-00097>
-			<id-00098>
-				<public />
-				<carriedby type="string">Lyrael [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Crossbow, Hand</name>
-			</id-00098>
-			<id-00099>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [5], Lyrael [5]</carriedby>
-				<count type="number">10</count>
-				<name type="string">Candle</name>
-			</id-00099>
-			<id-00100>
-				<public />
-				<carriedby type="string">Fjarnskaggl [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Amulet</name>
-			</id-00100>
-			<id-00101>
-				<public />
-				<carriedby type="string">Fjarnskaggl [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Mess Kit</name>
-			</id-00101>
-			<id-00102>
-				<public />
-				<carriedby type="string">Jeff [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Bag (Sand)</name>
-			</id-00102>
-			<id-00103>
-				<public />
-				<carriedby type="string">Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Rope, Hempen (50 Feet)</name>
-			</id-00103>
-			<id-00104>
-				<public />
-				<carriedby type="string">Jeff [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Ink Pen</name>
-			</id-00104>
-			<id-00105>
-				<public />
-				<carriedby type="string">Fjarnskaggl [10]</carriedby>
-				<count type="number">10</count>
-				<name type="string">Torch</name>
-			</id-00105>
-			<id-00106>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [1], Lyrael [2]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Disguise Kit</name>
-			</id-00106>
-			<id-00107>
-				<public />
-				<carriedby type="string">Jeff [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Spellbook</name>
-			</id-00107>
-			<id-00108>
-				<public />
-				<carriedby type="string">Jeff [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Ink (1-ounce Bottle)</name>
-			</id-00108>
-			<id-00109>
-				<public />
-				<carriedby type="string">Jeff [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Quarterstaff</name>
-			</id-00109>
-			<id-00110>
-				<public />
-				<carriedby type="string">Jeff [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Clothes, Common</name>
-			</id-00110>
-			<id-00111>
-				<public />
-				<carriedby type="string">Fjarnskaggl [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Shield</name>
-			</id-00111>
-			<id-00112>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [1], Lyrael [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Clothes, Fine</name>
-			</id-00112>
-			<id-00113>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Lantern, Hooded</name>
-			</id-00113>
-			<id-00114>
-				<public />
-				<carriedby type="string">Lyrael [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Crossbow Bolts (20)</name>
-			</id-00114>
-			<id-00115>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Shortbow</name>
-			</id-00115>
-			<id-00116>
+			</id-00052>
+			<id-00053>
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Knife (Small)</name>
-			</id-00116>
-			<id-00117>
+			</id-00053>
+			<id-00054>
 				<public />
-				<carriedby type="string">Lyrael [1], Fabio McSmallfeet [1], Jeff [1]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Rapier</name>
-			</id-00117>
-			<id-00118>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [2], Lyrael [1]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Dagger</name>
-			</id-00118>
-			<id-00119>
-				<public />
-				<carriedby type="string">Jeff [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Orb</name>
-			</id-00119>
-			<id-00120>
-				<public />
-				<carriedby type="string">Lyrael [1], Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Leather</name>
-			</id-00120>
-			<id-00121>
+				<carriedby type="string">Fabio McSmallfeet [5]</carriedby>
+				<count type="number">5</count>
+				<name type="string">Candle</name>
+			</id-00054>
+			<id-00055>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Handaxe</name>
-			</id-00121>
-			<id-00122>
+				<name type="string">Amulet</name>
+			</id-00055>
+			<id-00056>
 				<public />
-				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
+				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Thieves' Tools</name>
-			</id-00122>
-			<id-00123>
+				<name type="string">Mess Kit</name>
+			</id-00056>
+			<id-00057>
 				<public />
-				<carriedby type="string">Fabio McSmallfeet [2]</carriedby>
+				<carriedby type="string">Jeff [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Bag (Sand)</name>
+			</id-00057>
+			<id-00058>
+				<public />
+				<carriedby type="string">Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
 				<count type="number">2</count>
-				<name type="string">Oil (Flask)</name>
-			</id-00123>
-			<id-00124>
+				<name type="string">Rope, Hempen (50 Feet)</name>
+			</id-00058>
+			<id-00059>
 				<public />
-				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
+				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Hammer</name>
-			</id-00124>
-			<id-00125>
+				<name type="string">Ink Pen</name>
+			</id-00059>
+			<id-00060>
 				<public />
-				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Playing Card Set (Marked)</name>
-			</id-00125>
-			<id-00126>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [5], Lyrael [5], Fjarnskaggl [10], Jeff [10]</carriedby>
-				<count type="number">30</count>
-				<name type="string">Rations (1 Day)</name>
-			</id-00126>
-			<id-00127>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [10]</carriedby>
+				<carriedby type="string">Fjarnskaggl [10]</carriedby>
 				<count type="number">10</count>
-				<name type="string">Piton</name>
-			</id-00127>
-			<id-00128>
+				<name type="string">Torch</name>
+			</id-00060>
+			<id-00061>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Crowbar</name>
-			</id-00128>
-			<id-00129>
+				<name type="string">Disguise Kit</name>
+			</id-00061>
+			<id-00062>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">String (10 Feet)</name>
-			</id-00129>
-			<id-00130>
+			</id-00062>
+			<id-00063>
+				<public />
+				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Clothes, Fine</name>
+			</id-00063>
+			<id-00064>
+				<public />
+				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Lantern, Hooded</name>
+			</id-00064>
+			<id-00065>
+				<public />
+				<carriedby type="string">Jeff [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Spellbook</name>
+			</id-00065>
+			<id-00066>
+				<public />
+				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Shortbow</name>
+			</id-00066>
+			<id-00067>
+				<public />
+				<carriedby type="string">Jeff [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Ink (1-ounce Bottle)</name>
+			</id-00067>
+			<id-00068>
+				<public />
+				<carriedby type="string">Fabio McSmallfeet [1], Jeff [1]</carriedby>
+				<count type="number">2</count>
+				<name type="string">Rapier</name>
+			</id-00068>
+			<id-00069>
+				<public />
+				<carriedby type="string">Fabio McSmallfeet [2]</carriedby>
+				<count type="number">2</count>
+				<name type="string">Dagger</name>
+			</id-00069>
+			<id-00070>
+				<public />
+				<carriedby type="string">Jeff [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Orb</name>
+			</id-00070>
+			<id-00071>
+				<public />
+				<carriedby type="string">Jeff [10]</carriedby>
+				<count type="number">10</count>
+				<name type="string">Parchment (One Sheet)</name>
+			</id-00071>
+			<id-00072>
+				<public />
+				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Crowbar</name>
+			</id-00072>
+			<id-00073>
+				<public />
+				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Thieves' Tools</name>
+			</id-00073>
+			<id-00074>
+				<public />
+				<carriedby type="string">Fabio McSmallfeet [2]</carriedby>
+				<count type="number">2</count>
+				<name type="string">Oil (Flask)</name>
+			</id-00074>
+			<id-00075>
+				<public />
+				<carriedby type="string">Jeff [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Quarterstaff</name>
+			</id-00075>
+			<id-00076>
+				<public />
+				<carriedby type="string">Jeff [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Clothes, Common</name>
+			</id-00076>
+			<id-00077>
+				<public />
+				<carriedby type="string">Fjarnskaggl [10], Fabio McSmallfeet [5], Jeff [10]</carriedby>
+				<count type="number">25</count>
+				<name type="string">Rations (1 Day)</name>
+			</id-00077>
+			<id-00078>
+				<public />
+				<carriedby type="string">Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
+				<count type="number">2</count>
+				<name type="string">Leather</name>
+			</id-00078>
+			<id-00079>
+				<public />
+				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Hammer</name>
+			</id-00079>
+			<id-00080>
+				<public />
+				<carriedby type="string">Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
+				<count type="number">2</count>
+				<name type="string">Waterskin</name>
+			</id-00080>
+			<id-00081>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1], Jeff [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Book</name>
-			</id-00130>
-			<id-00131>
+			</id-00081>
+			<id-00082>
 				<public />
-				<carriedby type="string">Fjarnskaggl [1], Lyrael [1]</carriedby>
-				<count type="number">2</count>
+				<carriedby type="string">Fjarnskaggl [1]</carriedby>
+				<count type="number">1</count>
 				<name type="string">Bedroll</name>
-			</id-00131>
-			<id-00132>
-				<public />
-				<carriedby type="string">Lyrael [1], Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Waterskin</name>
-			</id-00132>
-			<id-00133>
+			</id-00082>
+			<id-00083>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Warhammer</name>
-			</id-00133>
-			<id-00134>
+			</id-00083>
+			<id-00084>
 				<public />
-				<carriedby type="string">Lyrael [1]</carriedby>
+				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Pan Flute</name>
-			</id-00134>
-			<id-00135>
+				<name type="string">Playing Card Set (Marked)</name>
+			</id-00084>
+			<id-00085>
+				<public />
+				<carriedby type="string">Fabio McSmallfeet [10]</carriedby>
+				<count type="number">10</count>
+				<name type="string">Piton</name>
+			</id-00085>
+			<id-00086>
+				<public />
+				<carriedby type="string">Fjarnskaggl [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Shield</name>
+			</id-00086>
+			<id-00087>
+				<public />
+				<carriedby type="string">Fjarnskaggl [1], Fabio McSmallfeet [1], Jeff [1]</carriedby>
+				<count type="number">3</count>
+				<name type="string">Backpack (Empty)</name>
+			</id-00087>
+			<id-00088>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Bell</name>
-			</id-00135>
-			<id-00136>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [1], Lyrael [1], Fjarnskaggl [1], Jeff [1]</carriedby>
-				<count type="number">4</count>
-				<name type="string">Backpack (Empty)</name>
-			</id-00136>
-			<id-00137>
-				<public />
-				<carriedby type="string">Lyrael [2]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Clothes, Costume</name>
-			</id-00137>
-			<id-00138>
+			</id-00088>
+			<id-00089>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Poisoner's Kit</name>
-			</id-00138>
+			</id-00089>
 		</inventorylist>
 		<partyinformation>
 			<public />
@@ -4799,37 +4155,36 @@
 			</id-00003>
 			<id-00004>
 				<public />
-				<ac type="number">14</ac>
-				<chabonus type="number">3</chabonus>
-				<charisma type="number">17</charisma>
-				<classlevel type="string">Bard 2</classlevel>
-				<conbonus type="number">3</conbonus>
-				<constitution type="number">16</constitution>
-				<dexbonus type="number">3</dexbonus>
-				<dexterity type="number">16</dexterity>
+				<ac type="number">10</ac>
+				<chabonus type="number">1</chabonus>
+				<charisma type="number">12</charisma>
+				<conbonus type="number">0</conbonus>
+				<constitution type="number">10</constitution>
+				<dexbonus type="number">0</dexbonus>
+				<dexterity type="number">10</dexterity>
 				<exp type="number">350</exp>
 				<expneeded type="number">0</expneeded>
-				<hd type="number">2</hd>
+				<hd type="number">0</hd>
 				<hdused type="number">0</hdused>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">19</hptotal>
-				<intbonus type="number">2</intbonus>
-				<intelligence type="number">14</intelligence>
+				<hptotal type="number">0</hptotal>
+				<intbonus type="number">0</intbonus>
+				<intelligence type="number">11</intelligence>
 				<link type="windowreference">
 					<class>charsheet</class>
 					<recordname>charsheet.id-00004</recordname>
 				</link>
 				<name type="string">Lyrael</name>
-				<perception type="number">11</perception>
+				<perception type="number">10</perception>
 				<race type="string">Tiefling</race>
 				<senses type="string">Darkvision 60</senses>
-				<strbonus type="number">2</strbonus>
-				<strength type="number">14</strength>
+				<strbonus type="number">0</strbonus>
+				<strength type="number">10</strength>
 				<token type="token">portrait_id-00004_token</token>
 				<tokenscale type="number">1</tokenscale>
 				<watchid type="number">0</watchid>
-				<wisbonus type="number">1</wisbonus>
-				<wisdom type="number">12</wisdom>
+				<wisbonus type="number">0</wisbonus>
+				<wisdom type="number">10</wisdom>
 				<wounds type="number">0</wounds>
 			</id-00004>
 		</partyinformation>

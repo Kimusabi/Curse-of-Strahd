@@ -33,8 +33,15 @@
 	<window data="charsheet.id-00003.inventorylist.id-00019" class="item" pos="575,310,925,660" />
 	<window data="charsheet.id-00004" class="charsheet" pos="391,11,916,611" />
 	<window data="charsheet.id-00004.featurelist.id-00001" class="ref_ability" pos="575,310,925,660" />
+	<window data="charsheet.id-00004.featurelist.id-00003" class="ref_ability" pos="575,310,925,660" />
+	<window data="charsheet.id-00004.featurelist.id-00004" class="ref_ability" pos="575,310,925,660" />
+	<window data="charsheet.id-00004.featurelist.id-00005" class="ref_ability" pos="575,310,925,660" />
+	<window data="charsheet.id-00004.inventorylist.id-00003" class="item" pos="575,310,925,660" />
+	<window data="charsheet.id-00004.powergroup.id-00001" class="power_groupdetail" pos="535,320,965,650" />
+	<window data="charsheet.id-00004.powergroup.id-00002" class="power_groupdetail" pos="535,320,965,650" />
 	<window data="charsheet.id-00004.traitlist.id-00001" class="ref_ability" pos="575,310,925,660" />
 	<window data="charsheet.id-00004.traitlist.id-00002" class="ref_ability" pos="575,310,925,660" />
+	<window data="charsheet.id-00004.weaponlist.id-00003" class="char_weapon_editor" pos="575,310,925,660" />
 	<window data="combattracker" class="combattracker_host" pos="425,235,1250,915" />
 	<window data="encounter" class="encounterlist" pos="979,411,1279,811" />
 	<window data="encounter" class="masterindex" pos="525,235,975,735" />
@@ -70,8 +77,9 @@
 	<window data="image.id-00210@DD Curse of Strahd" class="imagewindow" pos="718,-9,1694,1222" />
 	<window data="image.id-00211@DD Curse of Strahd" class="imagewindow" pos="698,0,1560,1223" />
 	<window data="item" class="itemlist" pos="954,411,1304,811" />
-	<window data="item" class="masterindex" pos="827,231,1277,731" />
+	<window data="item" class="masterindex" pos="838,438,1288,938" />
 	<window data="item.id-00067@DD Curse of Strahd" class="item" pos="954,436,1304,786" />
+	<window data="item.id-00106@DD Curse of Strahd" class="item" pos="575,310,925,660" />
 	<window data="lists.battle@DD Curse of Strahd" class="referenceindexsorted" pos="954,386,1304,836" />
 	<window data="lists.encounter@DD Curse of Strahd" class="referenceindexsorted" pos="954,386,1304,836" />
 	<window data="notes" class="masterindex" pos="335,264,785,764" />
@@ -86,9 +94,11 @@
 	<window data="reference.backgrounddata" class="masterindex" pos="812,236,1262,736" />
 	<window data="reference.backgrounddata.acolyte.features.shelterofthefaithful@DD PHB Deluxe" class="reference_backgroundfeature" pos="575,310,925,660" />
 	<window data="reference.backgrounddata.acolyte@DD PHB Deluxe" class="reference_background" pos="569,315,919,665" />
-	<window data="reference.backgrounddata.charlatan@DD PHB Deluxe" class="reference_background" pos="575,310,925,660" />
+	<window data="reference.backgrounddata.charlatan@DD PHB Deluxe" class="reference_background" pos="903,55,1253,405" />
 	<window data="reference.backgrounddata.sage@DD PHB Deluxe" class="reference_background" pos="922,310,1272,660" />
 	<window data="reference.classdata" class="masterindex" pos="671,235,1121,735" />
+	<window data="reference.classdata.bard.features.spellcasting1@DD PHB Deluxe" class="reference_classfeature" pos="575,385,925,685" />
+	<window data="reference.classdata.bard@DD PHB Deluxe" class="reference_class" pos="5,6,409,420" />
 	<window data="reference.classdata.wizard.abilities.bladesinging@D&#38;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_classability" pos="594,395,944,695" />
 	<window data="reference.classdata.wizard.features.bladesong2@D&#38;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_classfeature" pos="931,9,1281,309" />
 	<window data="reference.classdata.wizard.features.traininginwarandsong2@D&#38;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_classfeature" pos="575,385,925,685" />
@@ -96,6 +106,8 @@
 	<window data="reference.classdata.wizard@DD PHB Deluxe" class="reference_class" pos="575,285,925,685" />
 	<window data="reference.equipmentdata.amulet@DD PHB Deluxe" class="reference_equipment" pos="575,310,925,660" />
 	<window data="reference.equipmentdata.dagger@DD PHB Deluxe" class="reference_weapon" pos="575,310,925,660" />
+	<window data="reference.equipmentdata.diplomat_spack@DD PHB Deluxe" class="reference_equipment" pos="575,310,925,660" />
+	<window data="reference.equipmentdata.entertainer_spack@DD PHB Deluxe" class="reference_equipment" pos="575,310,925,660" />
 	<window data="reference.equipmentdata.incense_oneblock_@DD PHB Deluxe" class="reference_equipment" pos="575,310,925,660" />
 	<window data="reference.equipmentdata.leather@DD PHB Deluxe" class="reference_armor" pos="575,310,925,660" />
 	<window data="reference.equipmentdata.poisoner_skit@DD PHB Deluxe" class="reference_equipment" pos="575,310,925,660" />
@@ -111,17 +123,17 @@
 	<window data="reference.spelldata.green_flameblade@D&#38;D Sword Coast Adventurer's Guide - Player's Guide" class="power" pos="506,133,856,483" />
 	<window data="reference.spelldata.tasha_shideouslaughter@DD PHB Deluxe" class="power" pos="575,310,925,660" />
 	<window data="reference.spelldata.thaumaturgy@DD PHB Deluxe" class="power" pos="575,310,925,660" />
-	<window data="spell" class="masterindex" pos="756,234,1206,734" />
+	<window data="spell" class="masterindex" pos="865,237,1315,737" />
 	<window data="tables" class="masterindex" pos="525,235,975,735" />
 	<window data="tables.id-00015@DD Curse of Strahd" class="table" pos="550,285,950,685" />
 	<window data="tables.tab_acolytebond@DD PHB Deluxe" class="table" pos="823,285,1223,685" />
 	<window data="tables.tab_acolyteflaw@DD PHB Deluxe" class="table" pos="813,284,1213,684" />
 	<window data="tables.tab_acolyteideal@DD PHB Deluxe" class="table" pos="776,292,1176,692" />
 	<window data="tables.tab_acolytepersonalitytrait@DD PHB Deluxe" class="table" pos="767,291,1167,691" />
-	<window data="tables.tab_charlatanbond@DD PHB Deluxe" class="table" pos="550,285,950,685" />
-	<window data="tables.tab_charlatanflaw@DD PHB Deluxe" class="table" pos="550,285,950,685" />
-	<window data="tables.tab_charlatanideal@DD PHB Deluxe" class="table" pos="550,285,950,685" />
-	<window data="tables.tab_charlatanpersonalitytrait@DD PHB Deluxe" class="table" pos="550,285,950,685" />
+	<window data="tables.tab_charlatanbond@DD PHB Deluxe" class="table" pos="886,283,1286,683" />
+	<window data="tables.tab_charlatanflaw@DD PHB Deluxe" class="table" pos="898,291,1298,691" />
+	<window data="tables.tab_charlatanideal@DD PHB Deluxe" class="table" pos="883,288,1283,688" />
+	<window data="tables.tab_charlatanpersonalitytrait@DD PHB Deluxe" class="table" pos="884,284,1284,684" />
 	<window data="tables.tab_sagebond@DD PHB Deluxe" class="table" pos="848,287,1248,687" />
 	<window data="tables.tab_sageflaw@DD PHB Deluxe" class="table" pos="911,289,1311,689" />
 	<window data="tables.tab_sageideal@DD PHB Deluxe" class="table" pos="869,285,1269,685" />
