@@ -2071,7 +2071,7 @@
 				<encumbered type="number">70</encumbered>
 				<encumberedheavy type="number">140</encumberedheavy>
 				<liftpushdrag type="number">420</liftpushdrag>
-				<load type="number">104.61</load>
+				<load type="number">78.61</load>
 				<max type="number">210</max>
 			</encumbrance>
 			<exp type="number">350</exp>
@@ -2458,34 +2458,6 @@
 					<type type="string">Adventuring Gear</type>
 					<weight type="number">1</weight>
 				</id-00024>
-				<id-00025>
-					<carried type="number">1</carried>
-					<cost type="string">25 gp</cost>
-					<count type="number">1</count>
-					<description type="formattedtext">
-						<p>As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.</p>
-					</description>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Acid (Vial)</name>
-					<subtype type="string">Standard</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">1</weight>
-				</id-00025>
-				<id-00026>
-					<carried type="number">1</carried>
-					<cost type="string">5 gp</cost>
-					<count type="number">1</count>
-					<description type="formattedtext">
-						<p>When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.</p>
-					</description>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Hunting Trap</name>
-					<subtype type="string">Standard</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">25</weight>
-				</id-00026>
 			</inventorylist>
 			<languagelist>
 				<id-00001>
@@ -2782,7 +2754,7 @@
 					<type type="number">0</type>
 				</id-00001>
 				<id-00002>
-					<ammo type="number">0</ammo>
+					<ammo type="number">1</ammo>
 					<attackbonus type="number">0</attackbonus>
 					<carried type="number">2</carried>
 					<damagelist>
@@ -2794,7 +2766,7 @@
 						</id-00001>
 					</damagelist>
 					<isidentified type="number">1</isidentified>
-					<maxammo type="number">36</maxammo>
+					<maxammo type="number">20</maxammo>
 					<name type="string">Shortbow</name>
 					<prof type="number">1</prof>
 					<shortcut type="windowreference">
@@ -2955,7 +2927,7 @@
 				<encumbered type="number">70</encumbered>
 				<encumberedheavy type="number">140</encumberedheavy>
 				<liftpushdrag type="number">420</liftpushdrag>
-				<load type="number">68.55</load>
+				<load type="number">66.55</load>
 				<max type="number">210</max>
 			</encumbrance>
 			<exp type="number">350</exp>
@@ -3048,20 +3020,6 @@
 				<total type="number">3</total>
 			</initiative>
 			<inventorylist>
-				<id-00001>
-					<carried type="number">1</carried>
-					<cost type="string">1 gp</cost>
-					<count type="number">1</count>
-					<description type="formattedtext">
-						<p>As an action, you can spend a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature's walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn't need to make the save.</p>
-					</description>
-					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Caltrops (20)</name>
-					<subtype type="string">Standard</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">2</weight>
-				</id-00001>
 				<id-00003>
 					<ac type="number">0</ac>
 					<bonus type="number">0</bonus>
@@ -3418,7 +3376,6 @@
 					<name type="string">Vicious Mockery</name>
 					<prepared type="number">0</prepared>
 					<range type="string">60 feet</range>
-					<ritual type="number">0</ritual>
 					<school type="string">Enchantment</school>
 					<source type="string">Bard</source>
 				</id-00002>
@@ -3805,7 +3762,7 @@
 				<id-00004>
 					<attackbonus type="number">0</attackbonus>
 					<attackstat type="string">dexterity</attackstat>
-					<carried type="number">2</carried>
+					<carried type="number">1</carried>
 					<damagelist>
 						<id-00001>
 							<bonus type="number">0</bonus>
@@ -3827,7 +3784,7 @@
 				<id-00005>
 					<attackbonus type="number">0</attackbonus>
 					<attackstat type="string">dexterity</attackstat>
-					<carried type="number">2</carried>
+					<carried type="number">1</carried>
 					<damagelist>
 						<id-00001>
 							<bonus type="number">0</bonus>
@@ -3848,7 +3805,7 @@
 				</id-00005>
 				<id-00006>
 					<attackbonus type="number">0</attackbonus>
-					<carried type="number">2</carried>
+					<carried type="number">1</carried>
 					<damagelist>
 						<id-00001>
 							<bonus type="number">0</bonus>
@@ -3917,7 +3874,7 @@
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">16</hptotal>
 				<init type="number">3</init>
-				<initresult type="number">16</initresult>
+				<initresult type="number">22</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -3997,7 +3954,7 @@
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">21</hptotal>
 				<init type="number">0</init>
-				<initresult type="number">18</initresult>
+				<initresult type="number">1</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -4067,7 +4024,7 @@
 				<actions>
 					<public />
 				</actions>
-				<active type="number">0</active>
+				<active type="number">1</active>
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
@@ -4077,7 +4034,7 @@
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">18</hptotal>
 				<init type="number">3</init>
-				<initresult type="number">9</initresult>
+				<initresult type="number">23</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -4120,34 +4077,34 @@
 					<public />
 					<charisma>
 						<public />
-						<score type="number">17</score>
+						<score type="number">12</score>
 					</charisma>
 					<constitution>
 						<public />
-						<score type="number">16</score>
+						<score type="number">10</score>
 					</constitution>
 					<dexterity>
 						<public />
-						<score type="number">16</score>
+						<score type="number">10</score>
 					</dexterity>
 					<intelligence>
 						<public />
-						<score type="number">14</score>
+						<score type="number">11</score>
 					</intelligence>
 					<strength>
 						<public />
-						<score type="number">14</score>
+						<score type="number">10</score>
 					</strength>
 					<wisdom>
 						<public />
-						<score type="number">12</score>
+						<score type="number">10</score>
 					</wisdom>
 				</abilities>
-				<ac type="number">14</ac>
+				<ac type="number">10</ac>
 				<actions>
 					<public />
 				</actions>
-				<active type="number">1</active>
+				<active type="number">0</active>
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
@@ -4155,9 +4112,9 @@
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">19</hptotal>
-				<init type="number">3</init>
-				<initresult type="number">13</initresult>
+				<hptotal type="number">0</hptotal>
+				<init type="number">0</init>
+				<initresult type="number">19</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -4195,7 +4152,7 @@
 				<wounds type="number">0</wounds>
 			</id-00004>
 		</list>
-		<round type="number">1</round>
+		<round type="number">0</round>
 	</combattracker>
 	<effects>
 		<public />
@@ -4347,18 +4304,18 @@
 		<checkselected type="string">Strength</checkselected>
 		<coinlist>
 			<public />
-			<id-00001>
+			<id-00005>
 				<public />
 				<amount type="number">15</amount>
 				<carriedby type="string">Jeff [15]</carriedby>
 				<name type="string">SP</name>
-			</id-00001>
-			<id-00002>
+			</id-00005>
+			<id-00006>
 				<public />
 				<amount type="number">305</amount>
 				<carriedby type="string">Lyrael [15], Fjarnskaggl [139], Fabio McSmallfeet [91], Jeff [60]</carriedby>
 				<name type="string">GP</name>
-			</id-00002>
+			</id-00006>
 		</coinlist>
 		<encounters>
 			<public />
@@ -4458,282 +4415,282 @@
 		</image>
 		<inventorylist>
 			<public />
-			<id-00001>
+			<id-00093>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Ball Bearings (1,000)</name>
-			</id-00001>
-			<id-00002>
+			</id-00093>
+			<id-00094>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Arrows (20)</name>
-			</id-00002>
-			<id-00003>
+			</id-00094>
+			<id-00095>
 				<public />
 				<carriedby type="string">Lyrael [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Dice Set (Weighted)</name>
-			</id-00003>
-			<id-00004>
+			</id-00095>
+			<id-00096>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Tinderbox</name>
-			</id-00004>
-			<id-00005>
+			</id-00096>
+			<id-00097>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1], Jeff [10]</carriedby>
 				<count type="number">11</count>
 				<name type="string">Parchment (One Sheet)</name>
-			</id-00005>
-			<id-00006>
+			</id-00097>
+			<id-00098>
 				<public />
 				<carriedby type="string">Lyrael [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Crossbow, Hand</name>
-			</id-00006>
-			<id-00007>
+			</id-00098>
+			<id-00099>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [5], Lyrael [5]</carriedby>
 				<count type="number">10</count>
 				<name type="string">Candle</name>
-			</id-00007>
-			<id-00008>
+			</id-00099>
+			<id-00100>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Amulet</name>
-			</id-00008>
-			<id-00009>
+			</id-00100>
+			<id-00101>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Mess Kit</name>
-			</id-00009>
-			<id-00010>
+			</id-00101>
+			<id-00102>
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Bag (Sand)</name>
-			</id-00010>
-			<id-00011>
+			</id-00102>
+			<id-00103>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Rope, Hempen (50 Feet)</name>
-			</id-00011>
-			<id-00012>
+			</id-00103>
+			<id-00104>
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Ink Pen</name>
-			</id-00012>
-			<id-00013>
+			</id-00104>
+			<id-00105>
 				<public />
 				<carriedby type="string">Fjarnskaggl [10]</carriedby>
 				<count type="number">10</count>
 				<name type="string">Torch</name>
-			</id-00013>
-			<id-00014>
+			</id-00105>
+			<id-00106>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1], Lyrael [2]</carriedby>
 				<count type="number">3</count>
 				<name type="string">Disguise Kit</name>
-			</id-00014>
-			<id-00015>
+			</id-00106>
+			<id-00107>
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Spellbook</name>
-			</id-00015>
-			<id-00016>
+			</id-00107>
+			<id-00108>
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Ink (1-ounce Bottle)</name>
-			</id-00016>
-			<id-00017>
+			</id-00108>
+			<id-00109>
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Quarterstaff</name>
-			</id-00017>
-			<id-00018>
+			</id-00109>
+			<id-00110>
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Clothes, Common</name>
-			</id-00018>
-			<id-00019>
+			</id-00110>
+			<id-00111>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Shield</name>
-			</id-00019>
-			<id-00020>
+			</id-00111>
+			<id-00112>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1], Lyrael [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Clothes, Fine</name>
-			</id-00020>
-			<id-00021>
+			</id-00112>
+			<id-00113>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Lantern, Hooded</name>
-			</id-00021>
-			<id-00022>
+			</id-00113>
+			<id-00114>
 				<public />
 				<carriedby type="string">Lyrael [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Crossbow Bolts (20)</name>
-			</id-00022>
-			<id-00023>
+			</id-00114>
+			<id-00115>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Shortbow</name>
-			</id-00023>
-			<id-00024>
+			</id-00115>
+			<id-00116>
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Knife (Small)</name>
-			</id-00024>
-			<id-00025>
+			</id-00116>
+			<id-00117>
 				<public />
 				<carriedby type="string">Lyrael [1], Fabio McSmallfeet [1], Jeff [1]</carriedby>
 				<count type="number">3</count>
 				<name type="string">Rapier</name>
-			</id-00025>
-			<id-00026>
+			</id-00117>
+			<id-00118>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [2], Lyrael [1]</carriedby>
 				<count type="number">3</count>
 				<name type="string">Dagger</name>
-			</id-00026>
-			<id-00027>
+			</id-00118>
+			<id-00119>
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Orb</name>
-			</id-00027>
-			<id-00028>
+			</id-00119>
+			<id-00120>
 				<public />
 				<carriedby type="string">Lyrael [1], Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
 				<count type="number">3</count>
 				<name type="string">Leather</name>
-			</id-00028>
-			<id-00029>
+			</id-00120>
+			<id-00121>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Handaxe</name>
-			</id-00029>
-			<id-00030>
+			</id-00121>
+			<id-00122>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Thieves' Tools</name>
-			</id-00030>
-			<id-00031>
+			</id-00122>
+			<id-00123>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [2]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Oil (Flask)</name>
-			</id-00031>
-			<id-00032>
+			</id-00123>
+			<id-00124>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Hammer</name>
-			</id-00032>
-			<id-00033>
+			</id-00124>
+			<id-00125>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Playing Card Set (Marked)</name>
-			</id-00033>
-			<id-00034>
+			</id-00125>
+			<id-00126>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [5], Lyrael [5], Fjarnskaggl [10], Jeff [10]</carriedby>
 				<count type="number">30</count>
 				<name type="string">Rations (1 Day)</name>
-			</id-00034>
-			<id-00035>
+			</id-00126>
+			<id-00127>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [10]</carriedby>
 				<count type="number">10</count>
 				<name type="string">Piton</name>
-			</id-00035>
-			<id-00036>
+			</id-00127>
+			<id-00128>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Crowbar</name>
-			</id-00036>
-			<id-00037>
+			</id-00128>
+			<id-00129>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">String (10 Feet)</name>
-			</id-00037>
-			<id-00038>
+			</id-00129>
+			<id-00130>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1], Jeff [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Book</name>
-			</id-00038>
-			<id-00039>
+			</id-00130>
+			<id-00131>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1], Lyrael [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Bedroll</name>
-			</id-00039>
-			<id-00040>
+			</id-00131>
+			<id-00132>
 				<public />
 				<carriedby type="string">Lyrael [1], Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
 				<count type="number">3</count>
 				<name type="string">Waterskin</name>
-			</id-00040>
-			<id-00041>
+			</id-00132>
+			<id-00133>
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Warhammer</name>
-			</id-00041>
-			<id-00042>
+			</id-00133>
+			<id-00134>
 				<public />
 				<carriedby type="string">Lyrael [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Pan Flute</name>
-			</id-00042>
-			<id-00043>
+			</id-00134>
+			<id-00135>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Bell</name>
-			</id-00043>
-			<id-00044>
+			</id-00135>
+			<id-00136>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1], Lyrael [1], Fjarnskaggl [1], Jeff [1]</carriedby>
 				<count type="number">4</count>
 				<name type="string">Backpack (Empty)</name>
-			</id-00044>
-			<id-00045>
+			</id-00136>
+			<id-00137>
 				<public />
 				<carriedby type="string">Lyrael [2]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Clothes, Costume</name>
-			</id-00045>
-			<id-00046>
+			</id-00137>
+			<id-00138>
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Poisoner's Kit</name>
-			</id-00046>
+			</id-00138>
 		</inventorylist>
 		<partyinformation>
 			<public />
