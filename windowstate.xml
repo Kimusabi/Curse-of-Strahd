@@ -74,7 +74,7 @@
 	<window data="encounter.id-00015@DD Curse of Strahd" class="encounter" pos="550,160,950,810" />
 	<window data="image" class="masterindex" pos="525,235,975,735" />
 	<window data="image.id-00008@DD Curse of Strahd" class="imagewindow" pos="305,22,1502,948" />
-	<window data="image.id-00015@DD Curse of Strahd" class="imagewindow" pos="195,0,1305,970" />
+	<window data="image.id-00015@DD Curse of Strahd" class="imagewindow" pos="583,4,1693,974" />
 	<window data="image.id-00021@DD Curse of Strahd" class="imagewindow" pos="371,-4,1366,966" />
 	<window data="image.id-00032@DD Curse of Strahd" class="imagewindow" pos="826,170,1432,1053" />
 	<window data="image.id-00033@DD Curse of Strahd" class="imagewindow" pos="689,170,1569,1053" />
@@ -157,7 +157,6 @@
 	<window data="treasureparcels" class="masterindex" pos="525,235,975,735" />
 
 	<image data="image.id-00008@DD Curse of Strahd" class="imagewindow" control="image" view="-28,0" zoom="1.09485" />
-	<image data="image.id-00015@DD Curse of Strahd" class="imagewindow" control="image" view="0,-396" zoom="1" />
 	<image data="image.id-00021@DD Curse of Strahd" class="imagewindow" control="image" view="0,-348" zoom="1" />
 	<image data="image.id-00210@DD Curse of Strahd" class="imagewindow" control="image" view="0,0" zoom="1.1418" />
 </windowstate>

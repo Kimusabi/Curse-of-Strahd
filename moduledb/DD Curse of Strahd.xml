@@ -315,6 +315,7 @@
 			<id-00015>
 				<image type="image">
 					<bitmap>Map - Death House.jpg</bitmap>
+					<mask>maskedimages/1483162079.png</mask>
 					<gridsize>32</gridsize>
 					<gridoffset>15,11</gridoffset>
 					<gridsnap>on</gridsnap>
