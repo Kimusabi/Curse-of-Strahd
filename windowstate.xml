@@ -45,6 +45,7 @@
 	<window data="charsheet.id-00004.traitlist.id-00001" class="ref_ability" pos="575,310,925,660" />
 	<window data="charsheet.id-00004.traitlist.id-00002" class="ref_ability" pos="575,310,925,660" />
 	<window data="charsheet.id-00004.weaponlist.id-00003" class="char_weapon_editor" pos="575,310,925,660" />
+	<window data="charsheet.id-00005" class="charsheet" pos="1017,400,1542,1000" />
 	<window data="combattracker" class="combattracker_host" pos="389,47,1214,727" />
 	<window data="combattracker.list.id-00006" class="npc" pos="520,210,980,760" />
 	<window data="encounter" class="encounterlist" pos="979,411,1279,811" />
