@@ -251,6 +251,7 @@
 		</category>
 		<category name="Curse of Strahd - Maps" baseicon="8" decalicon="1">
 			<id-00008>
+				<public />
 				<image type="image">
 					<bitmap>Map - Church.jpg</bitmap>
 					<gridsize>32</gridsize>
@@ -307,12 +308,13 @@
 						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>9</idcounter>
+						<idcounter>16</idcounter>
 						<scalelock>10</scalelock>
 					</tokens>
 				</image>
 			</id-00008>
 			<id-00015>
+				<public />
 				<image type="image">
 					<bitmap>Map - Death House.jpg</bitmap>
 					<mask>maskedimages/1483162079.png</mask>
@@ -694,8 +696,30 @@
 						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>2</idcounter>
+						<idcounter>13</idcounter>
 						<scalelock>3.90625</scalelock>
+						<token>
+							<prototype>portrait_id-00001_token</prototype>
+							<id>6</id>
+							<x>640</x>
+							<y>924</y>
+						</token>
+						<token>
+							<prototype>portrait_id-00003_token</prototype>
+							<id>5</id>
+							<x>640</x>
+							<y>892</y>
+							<name>Fabio McSmallfeet</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00004_token</prototype>
+							<id>8</id>
+							<x>640</x>
+							<y>860</y>
+							<name>Lyrael</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
 					</tokens>
 				</image>
 			</id-00015>

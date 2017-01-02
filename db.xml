@@ -210,8 +210,11 @@
 	</calendar>
 	<charsheet>
 		<id-00001>
+			<holder name="Ethan" owner="true" />
 			<abilities>
+				<holder name="Ethan" owner="true" />
 				<charisma>
+					<holder name="Ethan" owner="true" />
 					<bonus type="number">2</bonus>
 					<save type="number">2</save>
 					<savemodifier type="number">0</savemodifier>
@@ -219,6 +222,7 @@
 					<score type="number">14</score>
 				</charisma>
 				<constitution>
+					<holder name="Ethan" owner="true" />
 					<bonus type="number">3</bonus>
 					<save type="number">3</save>
 					<savemodifier type="number">0</savemodifier>
@@ -226,6 +230,7 @@
 					<score type="number">16</score>
 				</constitution>
 				<dexterity>
+					<holder name="Ethan" owner="true" />
 					<bonus type="number">3</bonus>
 					<save type="number">3</save>
 					<savemodifier type="number">0</savemodifier>
@@ -233,6 +238,7 @@
 					<score type="number">16</score>
 				</dexterity>
 				<intelligence>
+					<holder name="Ethan" owner="true" />
 					<bonus type="number">4</bonus>
 					<save type="number">6</save>
 					<savemodifier type="number">0</savemodifier>
@@ -240,6 +246,7 @@
 					<score type="number">18</score>
 				</intelligence>
 				<strength>
+					<holder name="Ethan" owner="true" />
 					<bonus type="number">1</bonus>
 					<save type="number">1</save>
 					<savemodifier type="number">0</savemodifier>
@@ -247,6 +254,7 @@
 					<score type="number">12</score>
 				</strength>
 				<wisdom>
+					<holder name="Ethan" owner="true" />
 					<bonus type="number">2</bonus>
 					<save type="number">4</save>
 					<savemodifier type="number">0</savemodifier>
@@ -255,6 +263,7 @@
 				</wisdom>
 			</abilities>
 			<adventurelist>
+				<holder name="Ethan" owner="true" />
 			</adventurelist>
 			<alignment type="string">Chaotic Neutral</alignment>
 			<background type="string">Sage</background>
@@ -264,12 +273,14 @@
 			</backgroundlink>
 			<bonds type="string">I have an ancient text that holds terrible secrets that must not fall into the wrong hands.</bonds>
 			<classes>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<casterlevelinvmult type="number">1</casterlevelinvmult>
 					<casterpactmagic type="number">0</casterpactmagic>
 					<hddie type="dice">d6</hddie>
 					<hdused type="number">0</hdused>
-					<level type="number">2</level>
+					<level type="number">3</level>
 					<name type="string">Wizard</name>
 					<shortcut type="windowreference">
 						<class>reference_class</class>
@@ -278,32 +289,41 @@
 				</id-00001>
 			</classes>
 			<coins>
+				<holder name="Ethan" owner="true" />
 				<slot1>
+					<holder name="Ethan" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">CP</name>
 				</slot1>
 				<slot2>
+					<holder name="Ethan" owner="true" />
 					<amount type="number">15</amount>
 					<name type="string">SP</name>
 				</slot2>
 				<slot3>
+					<holder name="Ethan" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">EP</name>
 				</slot3>
 				<slot4>
-					<amount type="number">60</amount>
+					<holder name="Ethan" owner="true" />
+					<amount type="number">63</amount>
 					<name type="string">GP</name>
 				</slot4>
 				<slot5>
+					<holder name="Ethan" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">PP</name>
 				</slot5>
 				<slot6>
+					<holder name="Ethan" owner="true" />
 					<amount type="number">0</amount>
 				</slot6>
 			</coins>
 			<defenses>
+				<holder name="Ethan" owner="true" />
 				<ac>
+					<holder name="Ethan" owner="true" />
 					<armor type="number">0</armor>
 					<misc type="number">0</misc>
 					<prof type="number">1</prof>
@@ -313,6 +333,7 @@
 				</ac>
 			</defenses>
 			<encumbrance>
+				<holder name="Ethan" owner="true" />
 				<encumbered type="number">60</encumbered>
 				<encumberedheavy type="number">120</encumberedheavy>
 				<liftpushdrag type="number">360</liftpushdrag>
@@ -322,7 +343,9 @@
 			<exp type="number">350</exp>
 			<expneeded type="number">0</expneeded>
 			<featlist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">War Caster</name>
 					<prerequisite type="string">The ability to cast at least one spell</prerequisite>
@@ -338,7 +361,9 @@
 				</id-00001>
 			</featlist>
 			<featurelist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Researcher</name>
 					<source type="string">Sage</source>
@@ -347,6 +372,7 @@
 					</text>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Spellcasting</name>
@@ -387,6 +413,7 @@
 					</text>
 				</id-00002>
 				<id-00003>
+					<holder name="Ethan" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Arcane Recovery</name>
@@ -397,6 +424,7 @@
 					</text>
 				</id-00003>
 				<id-00004>
+					<holder name="Ethan" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Bladesinging</name>
@@ -417,6 +445,7 @@
 					</text>
 				</id-00004>
 				<id-00005>
+					<holder name="Ethan" owner="true" />
 					<level type="number">2</level>
 					<locked type="number">1</locked>
 					<name type="string">Training in War and Song</name>
@@ -428,6 +457,7 @@
 					</text>
 				</id-00005>
 				<id-00006>
+					<holder name="Ethan" owner="true" />
 					<level type="number">2</level>
 					<locked type="number">1</locked>
 					<name type="string">Bladesong</name>
@@ -449,20 +479,24 @@
 			</featurelist>
 			<flaws type="string">I speak without really thinking through my words, invariably insulting others.</flaws>
 			<hp>
+				<holder name="Ethan" owner="true" />
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<temporary type="number">0</temporary>
-				<total type="number">16</total>
+				<total type="number">23</total>
 				<wounds type="number">0</wounds>
 			</hp>
 			<ideals type="string">Self-Improvement. The goal of a life of study is the betterment of oneself. (Any)</ideals>
 			<initiative>
+				<holder name="Ethan" owner="true" />
 				<misc type="number">0</misc>
 				<temporary type="number">0</temporary>
 				<total type="number">3</total>
 			</initiative>
 			<inventorylist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">25 gp</cost>
 					<count type="number">1</count>
@@ -476,6 +510,7 @@
 					<weight type="number">2</weight>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 sp</cost>
 					<count type="number">1</count>
@@ -489,6 +524,7 @@
 					<weight type="number">4</weight>
 				</id-00002>
 				<id-00003>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">20 gp</cost>
 					<count type="number">1</count>
@@ -503,6 +539,7 @@
 					<weight type="number">3</weight>
 				</id-00003>
 				<id-00004>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">50 gp</cost>
 					<count type="number">1</count>
@@ -517,6 +554,7 @@
 					<weight type="number">3</weight>
 				</id-00004>
 				<id-00005>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 sp</cost>
 					<count type="number">10</count>
@@ -528,6 +566,7 @@
 					<weight type="number">0.02</weight>
 				</id-00005>
 				<id-00006>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -539,6 +578,7 @@
 					<weight type="number">0.05</weight>
 				</id-00006>
 				<id-00007>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">10 gp</cost>
 					<count type="number">1</count>
@@ -550,6 +590,7 @@
 					<weight type="number">0.06</weight>
 				</id-00007>
 				<id-00008>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -561,6 +602,7 @@
 					<weight type="number">0.25</weight>
 				</id-00008>
 				<id-00009>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 cp</cost>
 					<count type="number">1</count>
@@ -572,6 +614,7 @@
 					<weight type="number">0.02</weight>
 				</id-00009>
 				<id-00010>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">25 gp</cost>
 					<count type="number">1</count>
@@ -586,6 +629,7 @@
 					<weight type="number">5</weight>
 				</id-00010>
 				<id-00011>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 gp</cost>
 					<count type="number">1</count>
@@ -597,6 +641,7 @@
 					<weight type="number">5</weight>
 				</id-00011>
 				<id-00012>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 sp</cost>
 					<count type="number">10</count>
@@ -611,6 +656,7 @@
 					<weight type="number">2</weight>
 				</id-00012>
 				<id-00013>
+					<holder name="Ethan" owner="true" />
 					<ac type="number">0</ac>
 					<bonus type="number">0</bonus>
 					<carried type="number">2</carried>
@@ -629,26 +675,33 @@
 				</id-00013>
 			</inventorylist>
 			<languagelist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<name type="string">Dwarvish</name>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<name type="string">Common</name>
 				</id-00002>
 				<id-00003>
+					<holder name="Ethan" owner="true" />
 					<name type="string">Elvish</name>
 				</id-00003>
 				<id-00004>
+					<holder name="Ethan" owner="true" />
 					<name type="string">Giant</name>
 				</id-00004>
 			</languagelist>
-			<level type="number">2</level>
+			<level type="number">3</level>
 			<name type="string">Jeff</name>
 			<perception type="number">12</perception>
 			<perceptionmodifier type="number">0</perceptionmodifier>
 			<personalitytraits type="string">I'm willing to listen to every side of an argument before I make my own judgment.</personalitytraits>
 			<powergroup>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<atkmod type="number">0</atkmod>
 					<atkprof type="number">1</atkprof>
 					<castertype type="string">memorization</castertype>
@@ -661,72 +714,117 @@
 				</id-00001>
 			</powergroup>
 			<powermeta>
+				<holder name="Ethan" owner="true" />
 				<pactmagicslots1>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots1>
 				<pactmagicslots2>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots2>
 				<pactmagicslots3>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots3>
 				<pactmagicslots4>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots4>
 				<pactmagicslots5>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots5>
 				<pactmagicslots6>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots6>
 				<pactmagicslots7>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots7>
 				<pactmagicslots8>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots8>
 				<pactmagicslots9>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots9>
 				<spellslots1>
-					<max type="number">3</max>
+					<holder name="Ethan" owner="true" />
+					<max type="number">4</max>
+					<used type="number">1</used>
 				</spellslots1>
 				<spellslots2>
-					<max type="number">0</max>
+					<holder name="Ethan" owner="true" />
+					<max type="number">2</max>
+					<used type="number">0</used>
 				</spellslots2>
 				<spellslots3>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots3>
 				<spellslots4>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots4>
 				<spellslots5>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots5>
 				<spellslots6>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots6>
 				<spellslots7>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots7>
 				<spellslots8>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots8>
 				<spellslots9>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots9>
 			</powermeta>
+			<powermode type="string">standard</powermode>
 			<powers>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<actions>
+						<holder name="Ethan" owner="true" />
 						<id-00001>
+							<holder name="Ethan" owner="true" />
 							<atktype type="string">ranged</atktype>
 							<order type="number">1</order>
 							<type type="string">cast</type>
 						</id-00001>
 						<id-00002>
+							<holder name="Ethan" owner="true" />
 							<damagelist>
+								<holder name="Ethan" owner="true" />
 								<id-00001>
+									<holder name="Ethan" owner="true" />
 									<bonus type="number">0</bonus>
 									<dice type="dice">d10</dice>
 									<type type="string">fire</type>
@@ -754,8 +852,11 @@
 					<source type="string">Eldritch Knight, Sorcerer, Wizard, Arcane Trickster</source>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<actions>
+						<holder name="Ethan" owner="true" />
 						<id-00001>
+							<holder name="Ethan" owner="true" />
 							<order type="number">1</order>
 							<savetype type="string">dexterity</savetype>
 							<type type="string">cast</type>
@@ -779,10 +880,15 @@
 					<source type="string">Bard, Cleric, Eldritch Knight, Sorcerer, Wizard, Arcane Trickster</source>
 				</id-00002>
 				<id-00003>
+					<holder name="Ethan" owner="true" />
 					<actions>
+						<holder name="Ethan" owner="true" />
 						<id-00001>
+							<holder name="Ethan" owner="true" />
 							<damagelist>
+								<holder name="Ethan" owner="true" />
 								<id-00001>
+									<holder name="Ethan" owner="true" />
 									<bonus type="number">0</bonus>
 									<dice type="dice"></dice>
 									<stat type="string">base</stat>
@@ -793,6 +899,7 @@
 							<type type="string">damage</type>
 						</id-00001>
 						<id-00002>
+							<holder name="Ethan" owner="true" />
 							<apply type="string">roll</apply>
 							<label type="string">DMG: 1d8 fire</label>
 							<order type="number">2</order>
@@ -819,8 +926,11 @@
 					<source type="string">Sorcerer, Warlock, Wizard</source>
 				</id-00003>
 				<id-00004>
+					<holder name="Ethan" owner="true" />
 					<actions>
+						<holder name="Ethan" owner="true" />
 						<id-00001>
+							<holder name="Ethan" owner="true" />
 							<durmod type="number">8</durmod>
 							<durunit type="string">hour</durunit>
 							<label type="string">AC: 3</label>
@@ -845,38 +955,16 @@
 					<school type="string">Abjuration</school>
 					<source type="string">Eldritch Knight, Eldritch Invocations, Sorcerer, Wizard, Arcane Trickster</source>
 				</id-00004>
-				<id-00005>
-					<actions>
-						<id-00001>
-							<durmod type="number">1</durmod>
-							<label type="string">AC: 5</label>
-							<order type="number">1</order>
-							<targeting type="string">self</targeting>
-							<type type="string">effect</type>
-						</id-00001>
-					</actions>
-					<cast type="number">0</cast>
-					<castingtime type="string">1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell</castingtime>
-					<components type="string">V, S</components>
-					<description type="formattedtext">
-						<p>An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.</p>
-					</description>
-					<duration type="string">1 round</duration>
-					<group type="string">Spells</group>
-					<level type="number">1</level>
-					<locked type="number">1</locked>
-					<name type="string">Shield</name>
-					<prepared type="number">0</prepared>
-					<range type="string">Self</range>
-					<ritual type="number">0</ritual>
-					<school type="string">Abjuration</school>
-					<source type="string">Eldritch Knight, Sorcerer, Wizard, Arcane Trickster</source>
-				</id-00005>
 				<id-00006>
+					<holder name="Ethan" owner="true" />
 					<actions>
+						<holder name="Ethan" owner="true" />
 						<id-00001>
+							<holder name="Ethan" owner="true" />
 							<damagelist>
+								<holder name="Ethan" owner="true" />
 								<id-00001>
+									<holder name="Ethan" owner="true" />
 									<bonus type="number">1</bonus>
 									<dice type="dice">d4</dice>
 									<type type="string">force</type>
@@ -905,16 +993,22 @@
 					<source type="string">Eldritch Knight, Sorcerer, Wizard, Arcane Trickster</source>
 				</id-00006>
 				<id-00009>
+					<holder name="Ethan" owner="true" />
 					<actions>
+						<holder name="Ethan" owner="true" />
 						<id-00001>
+							<holder name="Ethan" owner="true" />
 							<onmissdamage type="string">half</onmissdamage>
 							<order type="number">1</order>
 							<savetype type="string">dexterity</savetype>
 							<type type="string">cast</type>
 						</id-00001>
 						<id-00002>
+							<holder name="Ethan" owner="true" />
 							<damagelist>
+								<holder name="Ethan" owner="true" />
 								<id-00001>
+									<holder name="Ethan" owner="true" />
 									<bonus type="number">0</bonus>
 									<dice type="dice">d6,d6,d6</dice>
 									<type type="string">fire</type>
@@ -942,13 +1036,105 @@
 					<school type="string">Evocation</school>
 					<source type="string">Cleric Light Domain, Eldritch Knight, Warlock (Fiend), Monk, Sorcerer, Wizard, Arcane Trickster</source>
 				</id-00009>
+				<id-00011>
+					<holder name="Ethan" owner="true" />
+					<actions>
+						<holder name="Ethan" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S, M (a grasshopper's hind leg)</components>
+					<description type="formattedtext">
+						<p>You touch a creature. The creature's jump distance is tripled until the spell ends.</p>
+					</description>
+					<duration type="string">1 minute</duration>
+					<group type="string">Spells</group>
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Jump</name>
+					<prepared type="number">0</prepared>
+					<range type="string">Touch</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Transmutation</school>
+					<source type="string">Druid, Eldritch Knight, Eldritch Invocations, Ranger, Sorcerer, Wizard, Arcane Trickster</source>
+				</id-00011>
+				<id-00012>
+					<holder name="Ethan" owner="true" />
+					<actions>
+						<holder name="Ethan" owner="true" />
+						<id-00001>
+							<holder name="Ethan" owner="true" />
+							<durmod type="number">1</durmod>
+							<durunit type="string">minute</durunit>
+							<label type="string">GRANTDISATK; (C)</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V</components>
+					<description type="formattedtext">
+						<p>Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight.</p>
+					</description>
+					<duration type="string">Concentration, up to 1 minute</duration>
+					<group type="string">Spells</group>
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Blur</name>
+					<prepared type="number">0</prepared>
+					<range type="string">Self</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Illusion</school>
+					<source type="string">Druid Desert Circle, Eldritch Knight, Sorcerer, Wizard, Arcane Trickster</source>
+				</id-00012>
+				<id-00013>
+					<holder name="Ethan" owner="true" />
+					<actions>
+						<holder name="Ethan" owner="true" />
+						<id-00001>
+							<holder name="Ethan" owner="true" />
+							<damagelist>
+								<holder name="Ethan" owner="true" />
+								<id-00001>
+									<holder name="Ethan" owner="true" />
+									<dice type="dice">d4,d4,d4,d4</dice>
+									<type type="string">slashing</type>
+								</id-00001>
+							</damagelist>
+							<order type="number">1</order>
+							<type type="string">damage</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S, M (a sliver of glass)</components>
+					<description type="formattedtext">
+						<p>You fill the air with spinning daggers in a cube 5 feet on each side, centered on a point you choose within range. A creature takes 4d4 slashing damage when it enters the spell's area for the first time on a turn or starts its turn there.</p>
+						<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.</p>
+					</description>
+					<duration type="string">Concentration, up to 1 minute</duration>
+					<group type="string">Spells</group>
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Cloud of Daggers</name>
+					<prepared type="number">0</prepared>
+					<range type="string">60 feet</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Conjuration</school>
+					<source type="string">Bard, Eldritch Knight, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
+				</id-00013>
 			</powers>
 			<profbonus type="number">2</profbonus>
 			<proficiencylist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<name type="string">Weapon: Daggers, darts, slings, quarterstaffs, light crossbows, rapier</name>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<name type="string">Armour: Light armour</name>
 				</id-00002>
 			</proficiencylist>
@@ -959,7 +1145,9 @@
 			</racelink>
 			<size type="string">Medium</size>
 			<skilllist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Perception</name>
 					<prof type="number">0</prof>
@@ -967,6 +1155,7 @@
 					<total type="number">2</total>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Arcana</name>
 					<prof type="number">1</prof>
@@ -974,6 +1163,7 @@
 					<total type="number">6</total>
 				</id-00002>
 				<id-00003>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">History</name>
 					<prof type="number">1</prof>
@@ -981,6 +1171,7 @@
 					<total type="number">6</total>
 				</id-00003>
 				<id-00004>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Persuasion</name>
 					<prof type="number">0</prof>
@@ -988,6 +1179,7 @@
 					<total type="number">2</total>
 				</id-00004>
 				<id-00005>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Nature</name>
 					<prof type="number">0</prof>
@@ -995,6 +1187,7 @@
 					<total type="number">4</total>
 				</id-00005>
 				<id-00006>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Medicine</name>
 					<prof type="number">0</prof>
@@ -1002,6 +1195,7 @@
 					<total type="number">2</total>
 				</id-00006>
 				<id-00007>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Survival</name>
 					<prof type="number">0</prof>
@@ -1009,6 +1203,7 @@
 					<total type="number">2</total>
 				</id-00007>
 				<id-00008>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Performance</name>
 					<prof type="number">1</prof>
@@ -1016,6 +1211,7 @@
 					<total type="number">4</total>
 				</id-00008>
 				<id-00009>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Acrobatics</name>
 					<prof type="number">0</prof>
@@ -1023,6 +1219,7 @@
 					<total type="number">3</total>
 				</id-00009>
 				<id-00010>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Religion</name>
 					<prof type="number">1</prof>
@@ -1030,6 +1227,7 @@
 					<total type="number">6</total>
 				</id-00010>
 				<id-00011>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Athletics</name>
 					<prof type="number">0</prof>
@@ -1037,6 +1235,7 @@
 					<total type="number">1</total>
 				</id-00011>
 				<id-00012>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Sleight of Hand</name>
 					<prof type="number">0</prof>
@@ -1044,6 +1243,7 @@
 					<total type="number">3</total>
 				</id-00012>
 				<id-00013>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Insight</name>
 					<prof type="number">0</prof>
@@ -1051,6 +1251,7 @@
 					<total type="number">2</total>
 				</id-00013>
 				<id-00014>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Intimidation</name>
 					<prof type="number">0</prof>
@@ -1058,6 +1259,7 @@
 					<total type="number">2</total>
 				</id-00014>
 				<id-00015>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Deception</name>
 					<prof type="number">0</prof>
@@ -1065,6 +1267,7 @@
 					<total type="number">2</total>
 				</id-00015>
 				<id-00016>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Investigation</name>
 					<prof type="number">1</prof>
@@ -1072,6 +1275,7 @@
 					<total type="number">6</total>
 				</id-00016>
 				<id-00017>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Stealth</name>
 					<prof type="number">0</prof>
@@ -1079,6 +1283,7 @@
 					<total type="number">3</total>
 				</id-00017>
 				<id-00018>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Animal Handling</name>
 					<prof type="number">0</prof>
@@ -1087,6 +1292,7 @@
 				</id-00018>
 			</skilllist>
 			<speed>
+				<holder name="Ethan" owner="true" />
 				<armor type="number">0</armor>
 				<base type="number">30</base>
 				<misc type="number">0</misc>
@@ -1094,10 +1300,16 @@
 				<total type="number">30</total>
 			</speed>
 			<temp>
+				<holder name="Ethan" owner="true" />
+				<item>
+					<holder name="Ethan" owner="true" />
+				</item>
 			</temp>
 			<token type="token">portrait_id-00001_token</token>
 			<traitlist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Skills</name>
 					<source type="string">Human-Variant</source>
@@ -1107,6 +1319,7 @@
 					<type type="string">racial</type>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Feat</name>
 					<source type="string">Human-Variant</source>
@@ -1117,12 +1330,16 @@
 				</id-00002>
 			</traitlist>
 			<weaponlist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<attackstat type="string">dexterity</attackstat>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Ethan" owner="true" />
 						<id-00001>
+							<holder name="Ethan" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d8</dice>
 							<stat type="string">dexterity</stat>
@@ -1140,10 +1357,13 @@
 					<type type="number">0</type>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<carried type="number">1</carried>
 					<damagelist>
+						<holder name="Ethan" owner="true" />
 						<id-00001>
+							<holder name="Ethan" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d6</dice>
 							<stat type="string">base</stat>
@@ -1163,8 +1383,11 @@
 			</weaponlist>
 		</id-00001>
 		<id-00002>
+			<holder name="Ethan" owner="true" />
 			<abilities>
+				<holder name="Ethan" owner="true" />
 				<charisma>
+					<holder name="Ethan" owner="true" />
 					<bonus type="number">3</bonus>
 					<save type="number">5</save>
 					<savemodifier type="number">0</savemodifier>
@@ -1172,6 +1395,7 @@
 					<score type="number">17</score>
 				</charisma>
 				<constitution>
+					<holder name="Ethan" owner="true" />
 					<bonus type="number">3</bonus>
 					<save type="number">3</save>
 					<savemodifier type="number">0</savemodifier>
@@ -1179,6 +1403,7 @@
 					<score type="number">17</score>
 				</constitution>
 				<dexterity>
+					<holder name="Ethan" owner="true" />
 					<bonus type="number">0</bonus>
 					<save type="number">0</save>
 					<savemodifier type="number">0</savemodifier>
@@ -1186,6 +1411,7 @@
 					<score type="number">11</score>
 				</dexterity>
 				<intelligence>
+					<holder name="Ethan" owner="true" />
 					<bonus type="number">0</bonus>
 					<save type="number">0</save>
 					<savemodifier type="number">0</savemodifier>
@@ -1193,6 +1419,7 @@
 					<score type="number">11</score>
 				</intelligence>
 				<strength>
+					<holder name="Ethan" owner="true" />
 					<bonus type="number">0</bonus>
 					<save type="number">0</save>
 					<savemodifier type="number">0</savemodifier>
@@ -1200,6 +1427,7 @@
 					<score type="number">11</score>
 				</strength>
 				<wisdom>
+					<holder name="Ethan" owner="true" />
 					<bonus type="number">3</bonus>
 					<save type="number">5</save>
 					<savemodifier type="number">0</savemodifier>
@@ -1208,6 +1436,7 @@
 				</wisdom>
 			</abilities>
 			<adventurelist>
+				<holder name="Ethan" owner="true" />
 			</adventurelist>
 			<alignment type="string">Lawful Good</alignment>
 			<background type="string">Acolyte</background>
@@ -1217,11 +1446,13 @@
 			</backgroundlink>
 			<bonds type="string">Everything I do is for the common people.</bonds>
 			<classes>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<casterlevelinvmult type="number">1</casterlevelinvmult>
 					<hddie type="dice">d8</hddie>
 					<hdused type="number">0</hdused>
-					<level type="number">2</level>
+					<level type="number">3</level>
 					<name type="string">Cleric</name>
 					<shortcut type="windowreference">
 						<class>reference_class</class>
@@ -1230,32 +1461,41 @@
 				</id-00001>
 			</classes>
 			<coins>
+				<holder name="Ethan" owner="true" />
 				<slot1>
+					<holder name="Ethan" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">CP</name>
 				</slot1>
 				<slot2>
+					<holder name="Ethan" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">SP</name>
 				</slot2>
 				<slot3>
+					<holder name="Ethan" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">EP</name>
 				</slot3>
 				<slot4>
+					<holder name="Ethan" owner="true" />
 					<amount type="number">139</amount>
 					<name type="string">GP</name>
 				</slot4>
 				<slot5>
+					<holder name="Ethan" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">PP</name>
 				</slot5>
 				<slot6>
+					<holder name="Ethan" owner="true" />
 					<amount type="number">0</amount>
 				</slot6>
 			</coins>
 			<defenses>
+				<holder name="Ethan" owner="true" />
 				<ac>
+					<holder name="Ethan" owner="true" />
 					<armor type="number">1</armor>
 					<disstealth type="number">0</disstealth>
 					<misc type="number">0</misc>
@@ -1267,18 +1507,22 @@
 			</defenses>
 			<deity type="string">Talos, God of Storms</deity>
 			<encumbrance>
+				<holder name="Ethan" owner="true" />
 				<encumbered type="number">55</encumbered>
 				<encumberedheavy type="number">110</encumberedheavy>
 				<liftpushdrag type="number">330</liftpushdrag>
-				<load type="number">85.02</load>
+				<load type="number">91.02</load>
 				<max type="number">165</max>
 			</encumbrance>
 			<exp type="number">350</exp>
 			<expneeded type="number">0</expneeded>
 			<featlist>
+				<holder name="Ethan" owner="true" />
 			</featlist>
 			<featurelist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Tempest Domain</name>
@@ -1311,6 +1555,7 @@
 					</text>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Wrath of the Storm</name>
@@ -1322,6 +1567,7 @@
 					</text>
 				</id-00002>
 				<id-00003>
+					<holder name="Ethan" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Spellcasting</name>
@@ -1349,6 +1595,7 @@
 					</text>
 				</id-00003>
 				<id-00004>
+					<holder name="Ethan" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">0</locked>
 					<name type="string">Bonus Proficiencies (Tempest)</name>
@@ -1359,6 +1606,7 @@
 					</text>
 				</id-00004>
 				<id-00005>
+					<holder name="Ethan" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Shelter of the Faithful</name>
 					<source type="string">Acolyte</source>
@@ -1368,6 +1616,7 @@
 					</text>
 				</id-00005>
 				<id-00006>
+					<holder name="Ethan" owner="true" />
 					<level type="number">2</level>
 					<locked type="number">1</locked>
 					<name type="string">Channel Divinity</name>
@@ -1383,6 +1632,7 @@
 					</text>
 				</id-00006>
 				<id-00007>
+					<holder name="Ethan" owner="true" />
 					<level type="number">2</level>
 					<locked type="number">1</locked>
 					<name type="string">Channel Divinity: Destructive Wrath</name>
@@ -1395,20 +1645,24 @@
 			</featurelist>
 			<flaws type="string">I am inflexible in my thinking.</flaws>
 			<hp>
+				<holder name="Ethan" owner="true" />
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<temporary type="number">0</temporary>
-				<total type="number">21</total>
+				<total type="number">30</total>
 				<wounds type="number">0</wounds>
 			</hp>
 			<ideals type="string">Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful)</ideals>
 			<initiative>
+				<holder name="Ethan" owner="true" />
 				<misc type="number">0</misc>
 				<temporary type="number">0</temporary>
 				<total type="number">0</total>
 			</initiative>
 			<inventorylist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">15 gp</cost>
 					<count type="number">1</count>
@@ -1422,6 +1676,7 @@
 					<weight type="number">2</weight>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<ac type="number">11</ac>
 					<carried type="number">2</carried>
 					<cost type="string">10 gp</cost>
@@ -1441,6 +1696,7 @@
 					<weight type="number">10</weight>
 				</id-00002>
 				<id-00003>
+					<holder name="Ethan" owner="true" />
 					<ac type="number">2</ac>
 					<carried type="number">2</carried>
 					<cost type="string">10 gp</cost>
@@ -1459,6 +1715,7 @@
 					<weight type="number">6</weight>
 				</id-00003>
 				<id-00004>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -1470,6 +1727,7 @@
 					<weight type="number">7</weight>
 				</id-00004>
 				<id-00005>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 sp</cost>
 					<count type="number">10</count>
@@ -1484,6 +1742,7 @@
 					<weight type="number">2</weight>
 				</id-00005>
 				<id-00006>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 cp</cost>
 					<count type="number">10</count>
@@ -1498,6 +1757,7 @@
 					<weight type="number">1</weight>
 				</id-00006>
 				<id-00007>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 sp</cost>
 					<count type="number">1</count>
@@ -1512,6 +1772,7 @@
 					<weight type="number">1</weight>
 				</id-00007>
 				<id-00008>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 sp</cost>
 					<count type="number">1</count>
@@ -1523,6 +1784,7 @@
 					<weight type="number">5</weight>
 				</id-00008>
 				<id-00009>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 sp</cost>
 					<count type="number">1</count>
@@ -1537,6 +1799,7 @@
 					<weight type="number">1</weight>
 				</id-00009>
 				<id-00010>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -1548,6 +1811,7 @@
 					<weight type="number">10</weight>
 				</id-00010>
 				<id-00011>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 gp</cost>
 					<count type="number">1</count>
@@ -1559,6 +1823,7 @@
 					<weight type="number">5</weight>
 				</id-00011>
 				<id-00012>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 gp</cost>
 					<count type="number">1</count>
@@ -1573,6 +1838,7 @@
 					<weight type="number">1</weight>
 				</id-00012>
 				<id-00013>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">25 gp</cost>
 					<count type="number">1</count>
@@ -1587,6 +1853,7 @@
 					<weight type="number">5</weight>
 				</id-00013>
 				<id-00014>
+					<holder name="Ethan" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">5 gp</cost>
 					<count type="number">1</count>
@@ -1600,6 +1867,7 @@
 					<weight type="number">2</weight>
 				</id-00014>
 				<id-00015>
+					<holder name="Ethan" owner="true" />
 					<ac type="number">0</ac>
 					<bonus type="number">0</bonus>
 					<carried type="number">1</carried>
@@ -1616,97 +1884,300 @@
 					<type type="string">Adventuring Gear</type>
 					<weight type="number">0.02</weight>
 				</id-00015>
+				<id-00016>
+					<holder name="Ethan" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>The deed to a windmill situated in the mountains east of Vallaki.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
+					<locked type="number">1</locked>
+					<name type="string">Windmill Deed</name>
+					<type type="string">Document</type>
+					<weight type="number">0</weight>
+				</id-00016>
+				<id-00017>
+					<holder name="Ethan" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>The shrunken, shriveled head of a halfling.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
+					<locked type="number">1</locked>
+					<name type="string">Shrunken Head</name>
+					<type type="string">Treasure</type>
+					<weight type="number">6</weight>
+				</id-00017>
+				<id-00018>
+					<holder name="Ethan" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">1</carried>
+					<cost type="string">189 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<h>Description</h>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.spiritualweapon@*">Spell: Spiritual Weapon</link>
+							<link class="imagewindow" recordname="reference.imagedata.img_spell_scroll_jpg@*">Image: Spell Scrolls</link>
+						</linklist>
+						<p>This spell scroll bears the words of a single spell, <i>Spiritual Weapon </i>, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.</p>
+						<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the scroll with no other effect.</p>
+						<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>
+						<p>This spell scroll's saving throw DC 13 and attack bonus +5.</p>
+						<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
+					<locked type="number">1</locked>
+					<name type="string">Scroll of Spiritual Weapon</name>
+					<nonid_name type="string">Elegant Scroll</nonid_name>
+					<nonidentified type="string">The materials used in this scroll are of very high quality and the writing is precise and done with a great deal of care and attention to detail.</nonidentified>
+					<properties type="string">Magic</properties>
+					<rarity type="string">Uncommon</rarity>
+					<spells>
+						<holder name="Ethan" owner="true" />
+						<id-00001>
+							<holder name="Ethan" owner="true" />
+							<link type="windowreference">
+								<class>reference_spell</class>
+								<recordname>reference.spelldata.spiritualweapon@*</recordname>
+							</link>
+							<name type="string">Spiritual Weapon</name>
+						</id-00001>
+					</spells>
+					<type type="string">Scroll</type>
+					<weight type="number">0</weight>
+				</id-00018>
+				<id-00019>
+					<holder name="Ethan" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">1</carried>
+					<cost type="string">37 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<h>Description</h>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.bless@*">Spell: Bless</link>
+							<link class="imagewindow" recordname="reference.imagedata.img_spell_scroll_jpg@*">Image: Spell Scrolls</link>
+						</linklist>
+						<p>This spell scroll bears the words of a single spell, <i>Bless </i>, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.</p>
+						<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the scroll with no other effect.</p>
+						<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>
+						<p>This spell scroll's saving throw DC 13 and attack bonus +5.</p>
+						<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
+					<locked type="number">1</locked>
+					<name type="string">Scroll of Bless</name>
+					<nonid_name type="string">Fine Scroll</nonid_name>
+					<nonidentified type="string">The parchment of this scroll is of the finest quality and the writing is careful and delicate.</nonidentified>
+					<properties type="string">Magic</properties>
+					<rarity type="string">Common</rarity>
+					<spells>
+						<holder name="Ethan" owner="true" />
+						<id-00001>
+							<holder name="Ethan" owner="true" />
+							<link type="windowreference">
+								<class>reference_spell</class>
+								<recordname>reference.spelldata.bless@*</recordname>
+							</link>
+							<name type="string">Bless</name>
+						</id-00001>
+					</spells>
+					<type type="string">Scroll</type>
+					<weight type="number">0</weight>
+				</id-00019>
+				<id-00020>
+					<holder name="Ethan" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">1</carried>
+					<cost type="string">63 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<h>Description</h>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.protectionfrompoison@*">Spell: Protection from Poison</link>
+							<link class="imagewindow" recordname="reference.imagedata.img_spell_scroll_jpg@*">Image: Spell Scrolls</link>
+						</linklist>
+						<p>This spell scroll bears the words of a single spell, <i>Protection from Poison </i>, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.</p>
+						<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the scroll with no other effect.</p>
+						<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>
+						<p>This spell scroll's saving throw DC 13 and attack bonus +5.</p>
+						<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
+					<locked type="number">1</locked>
+					<name type="string">Scroll of Protection from Poison</name>
+					<nonid_name type="string">Elegant Scroll</nonid_name>
+					<nonidentified type="string">The materials used in this scroll are of very high quality and the writing is precise and done with a great deal of care and attention to detail.</nonidentified>
+					<properties type="string">Magic</properties>
+					<rarity type="string">Uncommon</rarity>
+					<spells>
+						<holder name="Ethan" owner="true" />
+						<id-00001>
+							<holder name="Ethan" owner="true" />
+							<link type="windowreference">
+								<class>reference_spell</class>
+								<recordname>reference.spelldata.protectionfrompoison@*</recordname>
+							</link>
+							<name type="string">Protection from Poison</name>
+						</id-00001>
+					</spells>
+					<type type="string">Scroll</type>
+					<weight type="number">0</weight>
+				</id-00020>
 			</inventorylist>
 			<languagelist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<name type="string">Common</name>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<name type="string">Dwarvish</name>
 				</id-00002>
 				<id-00003>
+					<holder name="Ethan" owner="true" />
 					<name type="string">Two of your choice</name>
 				</id-00003>
 			</languagelist>
-			<level type="number">2</level>
+			<level type="number">3</level>
 			<name type="string">Fjarnskaggl</name>
 			<perception type="number">13</perception>
 			<perceptionmodifier type="number">0</perceptionmodifier>
 			<personalitytraits type="string">I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.</personalitytraits>
 			<powergroup>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<castertype type="string">memorization</castertype>
 					<name type="string">Spells</name>
 					<stat type="string">wisdom</stat>
 				</id-00001>
 			</powergroup>
 			<powermeta>
+				<holder name="Ethan" owner="true" />
 				<pactmagicslots1>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots1>
 				<pactmagicslots2>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots2>
 				<pactmagicslots3>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots3>
 				<pactmagicslots4>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots4>
 				<pactmagicslots5>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots5>
 				<pactmagicslots6>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots6>
 				<pactmagicslots7>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots7>
 				<pactmagicslots8>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots8>
 				<pactmagicslots9>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots9>
 				<spellslots1>
-					<max type="number">3</max>
+					<holder name="Ethan" owner="true" />
+					<max type="number">4</max>
+					<used type="number">0</used>
 				</spellslots1>
 				<spellslots2>
-					<max type="number">0</max>
+					<holder name="Ethan" owner="true" />
+					<max type="number">2</max>
+					<used type="number">0</used>
 				</spellslots2>
 				<spellslots3>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots3>
 				<spellslots4>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots4>
 				<spellslots5>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots5>
 				<spellslots6>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots6>
 				<spellslots7>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots7>
 				<spellslots8>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots8>
 				<spellslots9>
+					<holder name="Ethan" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots9>
 			</powermeta>
 			<powers>
+				<holder name="Ethan" owner="true" />
 			</powers>
 			<profbonus type="number">2</profbonus>
 			<proficiencylist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<name type="string">Weapon: All simple weapons, battleaxe, handaxe, light hammer, and warhammer.</name>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<name type="string">Armor: Light armor, medium armor, shields</name>
 				</id-00002>
 				<id-00004>
+					<holder name="Ethan" owner="true" />
 					<name type="string">Bonus Proficiencies (Tempest): martial weapons and heavy armor.</name>
 				</id-00004>
 			</proficiencylist>
@@ -1718,7 +2189,9 @@
 			<senses type="string">Darkvision 60</senses>
 			<size type="string">Medium</size>
 			<skilllist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Perception</name>
 					<prof type="number">0</prof>
@@ -1726,6 +2199,7 @@
 					<total type="number">3</total>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Insight</name>
 					<prof type="number">1</prof>
@@ -1733,6 +2207,7 @@
 					<total type="number">5</total>
 				</id-00002>
 				<id-00003>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Medicine</name>
 					<prof type="number">1</prof>
@@ -1740,6 +2215,7 @@
 					<total type="number">5</total>
 				</id-00003>
 				<id-00004>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Religion</name>
 					<prof type="number">1</prof>
@@ -1747,6 +2223,7 @@
 					<total type="number">2</total>
 				</id-00004>
 				<id-00005>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Arcana</name>
 					<prof type="number">0</prof>
@@ -1754,6 +2231,7 @@
 					<total type="number">0</total>
 				</id-00005>
 				<id-00006>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Persuasion</name>
 					<prof type="number">1</prof>
@@ -1761,6 +2239,7 @@
 					<total type="number">5</total>
 				</id-00006>
 				<id-00007>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Nature</name>
 					<prof type="number">0</prof>
@@ -1768,6 +2247,7 @@
 					<total type="number">0</total>
 				</id-00007>
 				<id-00008>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Survival</name>
 					<prof type="number">0</prof>
@@ -1775,6 +2255,7 @@
 					<total type="number">3</total>
 				</id-00008>
 				<id-00009>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Performance</name>
 					<prof type="number">0</prof>
@@ -1782,6 +2263,7 @@
 					<total type="number">3</total>
 				</id-00009>
 				<id-00010>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Acrobatics</name>
 					<prof type="number">0</prof>
@@ -1789,6 +2271,7 @@
 					<total type="number">0</total>
 				</id-00010>
 				<id-00011>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Athletics</name>
 					<prof type="number">0</prof>
@@ -1796,6 +2279,7 @@
 					<total type="number">0</total>
 				</id-00011>
 				<id-00012>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Sleight of Hand</name>
 					<prof type="number">0</prof>
@@ -1803,6 +2287,7 @@
 					<total type="number">0</total>
 				</id-00012>
 				<id-00013>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Intimidation</name>
 					<prof type="number">0</prof>
@@ -1810,6 +2295,7 @@
 					<total type="number">3</total>
 				</id-00013>
 				<id-00014>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Deception</name>
 					<prof type="number">0</prof>
@@ -1817,6 +2303,7 @@
 					<total type="number">3</total>
 				</id-00014>
 				<id-00015>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Investigation</name>
 					<prof type="number">0</prof>
@@ -1824,6 +2311,7 @@
 					<total type="number">0</total>
 				</id-00015>
 				<id-00016>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Stealth</name>
 					<prof type="number">0</prof>
@@ -1831,6 +2319,7 @@
 					<total type="number">0</total>
 				</id-00016>
 				<id-00017>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">History</name>
 					<prof type="number">0</prof>
@@ -1838,6 +2327,7 @@
 					<total type="number">0</total>
 				</id-00017>
 				<id-00018>
+					<holder name="Ethan" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Animal Handling</name>
 					<prof type="number">0</prof>
@@ -1846,6 +2336,7 @@
 				</id-00018>
 			</skilllist>
 			<speed>
+				<holder name="Ethan" owner="true" />
 				<armor type="number">0</armor>
 				<base type="number">25</base>
 				<misc type="number">0</misc>
@@ -1853,10 +2344,22 @@
 				<total type="number">25</total>
 			</speed>
 			<temp>
+				<holder name="Ethan" owner="true" />
+				<item>
+					<holder name="Ethan" owner="true" />
+					<spells>
+						<holder name="Ethan" owner="true" />
+						<id-00001>
+							<holder name="Ethan" owner="true" />
+						</id-00001>
+					</spells>
+				</item>
 			</temp>
 			<token type="token">portrait_id-00002_token</token>
 			<traitlist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Dwarven Resilience</name>
 					<source type="string">Dwarf</source>
@@ -1866,6 +2369,7 @@
 					<type type="string">racial</type>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Stonecunning</name>
 					<source type="string">Dwarf</source>
@@ -1875,6 +2379,7 @@
 					<type type="string">racial</type>
 				</id-00002>
 				<id-00003>
+					<holder name="Ethan" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Dwarven Combat Training</name>
 					<source type="string">Dwarf</source>
@@ -1884,6 +2389,7 @@
 					<type type="string">racial</type>
 				</id-00003>
 				<id-00004>
+					<holder name="Ethan" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Tool Proficiency</name>
 					<source type="string">Dwarf</source>
@@ -1893,6 +2399,7 @@
 					<type type="string">racial</type>
 				</id-00004>
 				<id-00005>
+					<holder name="Ethan" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Dwarven Toughness</name>
 					<source type="string">Hill Dwarf</source>
@@ -1903,11 +2410,15 @@
 				</id-00005>
 			</traitlist>
 			<weaponlist>
+				<holder name="Ethan" owner="true" />
 				<id-00001>
+					<holder name="Ethan" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Ethan" owner="true" />
 						<id-00001>
+							<holder name="Ethan" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d8</dice>
 							<stat type="string">base</stat>
@@ -1925,10 +2436,13 @@
 					<type type="number">0</type>
 				</id-00001>
 				<id-00002>
+					<holder name="Ethan" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Ethan" owner="true" />
 						<id-00001>
+							<holder name="Ethan" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d6</dice>
 							<stat type="string">base</stat>
@@ -1946,10 +2460,13 @@
 					<type type="number">0</type>
 				</id-00002>
 				<id-00003>
+					<holder name="Ethan" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Ethan" owner="true" />
 						<id-00001>
+							<holder name="Ethan" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d6</dice>
 							<stat type="string">base</stat>
@@ -1969,8 +2486,11 @@
 			</weaponlist>
 		</id-00002>
 		<id-00003>
+			<holder name="Jason" owner="true" />
 			<abilities>
+				<holder name="Jason" owner="true" />
 				<charisma>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">3</bonus>
 					<save type="number">3</save>
 					<savemodifier type="number">0</savemodifier>
@@ -1978,6 +2498,7 @@
 					<score type="number">17</score>
 				</charisma>
 				<constitution>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">1</bonus>
 					<save type="number">1</save>
 					<savemodifier type="number">0</savemodifier>
@@ -1985,6 +2506,7 @@
 					<score type="number">13</score>
 				</constitution>
 				<dexterity>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">3</bonus>
 					<save type="number">5</save>
 					<savemodifier type="number">0</savemodifier>
@@ -1992,6 +2514,7 @@
 					<score type="number">17</score>
 				</dexterity>
 				<intelligence>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">1</bonus>
 					<save type="number">3</save>
 					<savemodifier type="number">0</savemodifier>
@@ -1999,6 +2522,7 @@
 					<score type="number">12</score>
 				</intelligence>
 				<strength>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">2</bonus>
 					<save type="number">2</save>
 					<savemodifier type="number">0</savemodifier>
@@ -2006,6 +2530,7 @@
 					<score type="number">14</score>
 				</strength>
 				<wisdom>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">1</bonus>
 					<save type="number">1</save>
 					<savemodifier type="number">0</savemodifier>
@@ -2020,10 +2545,12 @@
 			</backgroundlink>
 			<bonds type="string">A powerful person killed someone I love. Some day soon, I'll have my revenge.</bonds>
 			<classes>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<hddie type="dice">d8</hddie>
 					<hdused type="number">0</hdused>
-					<level type="number">2</level>
+					<level type="number">3</level>
 					<name type="string">Rogue</name>
 					<shortcut type="windowreference">
 						<class>reference_class</class>
@@ -2032,32 +2559,41 @@
 				</id-00001>
 			</classes>
 			<coins>
+				<holder name="Jason" owner="true" />
 				<slot1>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">CP</name>
 				</slot1>
 				<slot2>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">SP</name>
 				</slot2>
 				<slot3>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">EP</name>
 				</slot3>
 				<slot4>
+					<holder name="Jason" owner="true" />
 					<amount type="number">91</amount>
 					<name type="string">GP</name>
 				</slot4>
 				<slot5>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">PP</name>
 				</slot5>
 				<slot6>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 				</slot6>
 			</coins>
 			<defenses>
+				<holder name="Jason" owner="true" />
 				<ac>
+					<holder name="Jason" owner="true" />
 					<armor type="number">1</armor>
 					<disstealth type="number">0</disstealth>
 					<misc type="number">0</misc>
@@ -2068,6 +2604,7 @@
 				</ac>
 			</defenses>
 			<encumbrance>
+				<holder name="Jason" owner="true" />
 				<encumbered type="number">70</encumbered>
 				<encumberedheavy type="number">140</encumberedheavy>
 				<liftpushdrag type="number">420</liftpushdrag>
@@ -2077,9 +2614,12 @@
 			<exp type="number">350</exp>
 			<expneeded type="number">0</expneeded>
 			<featlist>
+				<holder name="Jason" owner="true" />
 			</featlist>
 			<featurelist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">False Identity</name>
 					<source type="string">Charlatan</source>
@@ -2089,6 +2629,7 @@
 					</text>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Thieves' Cant</name>
@@ -2099,6 +2640,7 @@
 					</text>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Sneak Attack</name>
@@ -2110,6 +2652,7 @@
 					</text>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Expertise</name>
@@ -2120,6 +2663,7 @@
 					</text>
 				</id-00004>
 				<id-00005>
+					<holder name="Jason" owner="true" />
 					<level type="number">2</level>
 					<locked type="number">1</locked>
 					<name type="string">Cunning Action</name>
@@ -2128,23 +2672,67 @@
 						<p>Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.</p>
 					</text>
 				</id-00005>
+				<id-00006>
+					<holder name="Jason" owner="true" />
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Assassin</name>
+					<source type="string">Rogue</source>
+					<text type="formattedtext">
+						<p>You focus your training on the grim art of death. Those who adhere to this archetype are diverse: hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.</p>
+						<h>Features</h>
+						<linklist>
+							<link class="reference_classfeature" recordname="reference.classdata.rogue.features.bonusproficiencies3@DD PHB Deluxe">Bonus Proficiencies</link>
+							<link class="reference_classfeature" recordname="reference.classdata.rogue.features.assassinate3@DD PHB Deluxe">Assassinate</link>
+							<link class="reference_classfeature" recordname="reference.classdata.rogue.features.infiltrationexpertise9@DD PHB Deluxe">Infiltration Expertise</link>
+							<link class="reference_classfeature" recordname="reference.classdata.rogue.features.impostor13@DD PHB Deluxe">Impostor</link>
+							<link class="reference_classfeature" recordname="reference.classdata.rogue.features.deathstrike17@DD PHB Deluxe">Death Strike</link>
+						</linklist>
+					</text>
+				</id-00006>
+				<id-00007>
+					<holder name="Jason" owner="true" />
+					<level type="number">3</level>
+					<locked type="number">1</locked>
+					<name type="string">Bonus Proficiencies</name>
+					<source type="string">Rogue</source>
+					<specialization type="string">Assassin</specialization>
+					<text type="formattedtext">
+						<p>When you choose this archetype at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.</p>
+					</text>
+				</id-00007>
+				<id-00008>
+					<holder name="Jason" owner="true" />
+					<level type="number">3</level>
+					<locked type="number">1</locked>
+					<name type="string">Assassinate</name>
+					<source type="string">Rogue</source>
+					<specialization type="string">Assassin</specialization>
+					<text type="formattedtext">
+						<p>Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.</p>
+					</text>
+				</id-00008>
 			</featurelist>
 			<flaws type="string">I can't resist a pretty face.</flaws>
 			<hp>
+				<holder name="Jason" owner="true" />
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<temporary type="number">0</temporary>
-				<total type="number">18</total>
+				<total type="number">27</total>
 				<wounds type="number">0</wounds>
 			</hp>
 			<ideals type="string">Creativity. I never run the same con twice. (Chaotic)</ideals>
 			<initiative>
+				<holder name="Jason" owner="true" />
 				<misc type="number">0</misc>
 				<temporary type="number">0</temporary>
 				<total type="number">3</total>
 			</initiative>
 			<inventorylist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 cp</cost>
 					<count type="number">10</count>
@@ -2156,6 +2744,7 @@
 					<weight type="number">0.25</weight>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 cp</cost>
 					<count type="number">5</count>
@@ -2170,6 +2759,7 @@
 					<weight type="number">0.01</weight>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 sp</cost>
 					<count type="number">2</count>
@@ -2184,6 +2774,7 @@
 					<weight type="number">1</weight>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 sp</cost>
 					<count type="number">1</count>
@@ -2195,6 +2786,7 @@
 					<weight type="number">5</weight>
 				</id-00004>
 				<id-00005>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 sp</cost>
 					<count type="number">1</count>
@@ -2209,6 +2801,7 @@
 					<weight type="number">1</weight>
 				</id-00005>
 				<id-00006>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 gp</cost>
 					<count type="number">1</count>
@@ -2220,6 +2813,7 @@
 					<weight type="number">5</weight>
 				</id-00006>
 				<id-00007>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -2231,6 +2825,7 @@
 					<weight type="number">3</weight>
 				</id-00007>
 				<id-00008>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 cp</cost>
 					<count type="number">1</count>
@@ -2242,6 +2837,7 @@
 					<weight type="number">0.01</weight>
 				</id-00008>
 				<id-00009>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -2256,6 +2852,7 @@
 					<weight type="number">2</weight>
 				</id-00009>
 				<id-00010>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -2267,6 +2864,7 @@
 					<weight type="number">10</weight>
 				</id-00010>
 				<id-00011>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 sp</cost>
 					<count type="number">5</count>
@@ -2281,6 +2879,7 @@
 					<weight type="number">2</weight>
 				</id-00011>
 				<id-00012>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 gp</cost>
 					<count type="number">1</count>
@@ -2295,6 +2894,7 @@
 					<weight type="number">2</weight>
 				</id-00012>
 				<id-00013>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -2306,6 +2906,7 @@
 					<weight type="number">0.05</weight>
 				</id-00013>
 				<id-00014>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 gp</cost>
 					<count type="number">1</count>
@@ -2320,6 +2921,7 @@
 					<weight type="number">5</weight>
 				</id-00014>
 				<id-00015>
+					<holder name="Jason" owner="true" />
 					<ac type="number">11</ac>
 					<carried type="number">2</carried>
 					<cost type="string">10 gp</cost>
@@ -2339,6 +2941,7 @@
 					<weight type="number">10</weight>
 				</id-00015>
 				<id-00016>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">25 gp</cost>
 					<count type="number">1</count>
@@ -2353,6 +2956,7 @@
 					<weight type="number">1</weight>
 				</id-00016>
 				<id-00017>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">25 gp</cost>
 					<count type="number">1</count>
@@ -2367,6 +2971,7 @@
 					<weight type="number">3</weight>
 				</id-00017>
 				<id-00018>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">15 gp</cost>
 					<count type="number">1</count>
@@ -2378,6 +2983,7 @@
 					<weight type="number">6</weight>
 				</id-00018>
 				<id-00019>
+					<holder name="Jason" owner="true" />
 					<ac type="number">0</ac>
 					<bonus type="number">0</bonus>
 					<carried type="number">1</carried>
@@ -2395,6 +3001,7 @@
 					<weight type="number">0</weight>
 				</id-00019>
 				<id-00020>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">50 gp</cost>
 					<count type="number">1</count>
@@ -2409,6 +3016,7 @@
 					<weight type="number">2</weight>
 				</id-00020>
 				<id-00021>
+					<holder name="Jason" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">25 gp</cost>
 					<count type="number">1</count>
@@ -2422,6 +3030,7 @@
 					<weight type="number">2</weight>
 				</id-00021>
 				<id-00022>
+					<holder name="Jason" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">25 gp</cost>
 					<count type="number">1</count>
@@ -2435,6 +3044,7 @@
 					<weight type="number">2</weight>
 				</id-00022>
 				<id-00023>
+					<holder name="Jason" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">2 gp</cost>
 					<count type="number">2</count>
@@ -2448,6 +3058,7 @@
 					<weight type="number">2</weight>
 				</id-00023>
 				<id-00024>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -2459,6 +3070,7 @@
 					<weight type="number">1</weight>
 				</id-00024>
 				<id-00025>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">25 gp</cost>
 					<count type="number">1</count>
@@ -2473,6 +3085,7 @@
 					<weight type="number">1</weight>
 				</id-00025>
 				<id-00026>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 gp</cost>
 					<count type="number">1</count>
@@ -2486,93 +3099,156 @@
 					<type type="string">Adventuring Gear</type>
 					<weight type="number">25</weight>
 				</id-00026>
+				<id-00027>
+					<holder name="Jason" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>A bag full of bat guano.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
+					<locked type="number">1</locked>
+					<name type="string">Bat Guano</name>
+					<type type="string">Treasure</type>
+					<weight type="number">0</weight>
+				</id-00027>
 			</inventorylist>
 			<languagelist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<name type="string">Common</name>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<name type="string">Halfling</name>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<name type="string">Thieves' Cant</name>
 				</id-00003>
 			</languagelist>
-			<level type="number">2</level>
+			<level type="number">3</level>
 			<name type="string">Fabio McSmallfeet</name>
 			<perception type="number">11</perception>
 			<perceptionmodifier type="number">0</perceptionmodifier>
 			<personalitytraits type="string">I fall in and out of love easily, and am always pursuing someone.</personalitytraits>
 			<powermeta>
+				<holder name="Jason" owner="true" />
 				<pactmagicslots1>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots1>
 				<pactmagicslots2>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots2>
 				<pactmagicslots3>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots3>
 				<pactmagicslots4>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots4>
 				<pactmagicslots5>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots5>
 				<pactmagicslots6>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots6>
 				<pactmagicslots7>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots7>
 				<pactmagicslots8>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots8>
 				<pactmagicslots9>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</pactmagicslots9>
 				<spellslots1>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots1>
 				<spellslots2>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots2>
 				<spellslots3>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots3>
 				<spellslots4>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots4>
 				<spellslots5>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots5>
 				<spellslots6>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots6>
 				<spellslots7>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots7>
 				<spellslots8>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots8>
 				<spellslots9>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots9>
 			</powermeta>
 			<powers>
+				<holder name="Jason" owner="true" />
 			</powers>
 			<profbonus type="number">2</profbonus>
 			<proficiencylist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<name type="string">Tool: Disguise kit, forgery kit</name>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<name type="string">Weapon: Simple weapons, hand crossbows, longswords, rapiers, shortswords</name>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<name type="string">Tool: Thieves' tools</name>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<name type="string">Armor: Light armor</name>
 				</id-00004>
 			</proficiencylist>
@@ -2583,7 +3259,9 @@
 			</racelink>
 			<size type="string">Small</size>
 			<skilllist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Perception</name>
 					<prof type="number">0</prof>
@@ -2591,6 +3269,7 @@
 					<total type="number">1</total>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Deception</name>
 					<prof type="number">2</prof>
@@ -2598,6 +3277,7 @@
 					<total type="number">7</total>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Sleight of Hand</name>
 					<prof type="number">1</prof>
@@ -2605,6 +3285,7 @@
 					<total type="number">5</total>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Arcana</name>
 					<prof type="number">0</prof>
@@ -2612,6 +3293,7 @@
 					<total type="number">1</total>
 				</id-00004>
 				<id-00005>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Persuasion</name>
 					<prof type="number">2</prof>
@@ -2619,6 +3301,7 @@
 					<total type="number">7</total>
 				</id-00005>
 				<id-00006>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Nature</name>
 					<prof type="number">0</prof>
@@ -2626,6 +3309,7 @@
 					<total type="number">1</total>
 				</id-00006>
 				<id-00007>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Medicine</name>
 					<prof type="number">0</prof>
@@ -2633,6 +3317,7 @@
 					<total type="number">1</total>
 				</id-00007>
 				<id-00008>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Survival</name>
 					<prof type="number">0</prof>
@@ -2640,6 +3325,7 @@
 					<total type="number">1</total>
 				</id-00008>
 				<id-00009>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Performance</name>
 					<prof type="number">0</prof>
@@ -2647,6 +3333,7 @@
 					<total type="number">3</total>
 				</id-00009>
 				<id-00010>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Acrobatics</name>
 					<prof type="number">1</prof>
@@ -2654,6 +3341,7 @@
 					<total type="number">5</total>
 				</id-00010>
 				<id-00011>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Religion</name>
 					<prof type="number">0</prof>
@@ -2661,6 +3349,7 @@
 					<total type="number">1</total>
 				</id-00011>
 				<id-00012>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Athletics</name>
 					<prof type="number">0</prof>
@@ -2668,6 +3357,7 @@
 					<total type="number">2</total>
 				</id-00012>
 				<id-00013>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Insight</name>
 					<prof type="number">0</prof>
@@ -2675,6 +3365,7 @@
 					<total type="number">1</total>
 				</id-00013>
 				<id-00014>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Intimidation</name>
 					<prof type="number">1</prof>
@@ -2682,6 +3373,7 @@
 					<total type="number">5</total>
 				</id-00014>
 				<id-00015>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Investigation</name>
 					<prof type="number">0</prof>
@@ -2689,6 +3381,7 @@
 					<total type="number">1</total>
 				</id-00015>
 				<id-00016>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Stealth</name>
 					<prof type="number">1</prof>
@@ -2696,6 +3389,7 @@
 					<total type="number">5</total>
 				</id-00016>
 				<id-00017>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">History</name>
 					<prof type="number">0</prof>
@@ -2703,6 +3397,7 @@
 					<total type="number">1</total>
 				</id-00017>
 				<id-00018>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Animal Handling</name>
 					<prof type="number">0</prof>
@@ -2711,6 +3406,7 @@
 				</id-00018>
 			</skilllist>
 			<speed>
+				<holder name="Jason" owner="true" />
 				<armor type="number">0</armor>
 				<base type="number">25</base>
 				<misc type="number">0</misc>
@@ -2718,10 +3414,13 @@
 				<total type="number">25</total>
 			</speed>
 			<temp>
+				<holder name="Jason" owner="true" />
 			</temp>
 			<token type="token">portrait_id-00003_token</token>
 			<traitlist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Lucky</name>
 					<source type="string">Halfling</source>
@@ -2731,6 +3430,7 @@
 					<type type="string">racial</type>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Halfling Nimbleness</name>
 					<source type="string">Halfling</source>
@@ -2740,6 +3440,7 @@
 					<type type="string">racial</type>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Brave</name>
 					<source type="string">Halfling</source>
@@ -2749,6 +3450,7 @@
 					<type type="string">racial</type>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Naturally Stealthy</name>
 					<source type="string">Lightfoot</source>
@@ -2759,12 +3461,16 @@
 				</id-00004>
 			</traitlist>
 			<weaponlist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<attackstat type="string">dexterity</attackstat>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d8</dice>
 							<stat type="string">dexterity</stat>
@@ -2782,11 +3488,14 @@
 					<type type="number">0</type>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<ammo type="number">0</ammo>
 					<attackbonus type="number">0</attackbonus>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d6</dice>
 							<stat type="string">base</stat>
@@ -2804,11 +3513,14 @@
 					<type type="number">1</type>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<attackstat type="string">dexterity</attackstat>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d4</dice>
 							<stat type="string">dexterity</stat>
@@ -2826,11 +3538,14 @@
 					<type type="number">0</type>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<attackstat type="string">dexterity</attackstat>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d4</dice>
 							<stat type="string">dexterity</stat>
@@ -2850,8 +3565,11 @@
 			</weaponlist>
 		</id-00003>
 		<id-00004>
+			<holder name="Jason" owner="true" />
 			<abilities>
+				<holder name="Jason" owner="true" />
 				<charisma>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">3</bonus>
 					<save type="number">5</save>
 					<savemodifier type="number">0</savemodifier>
@@ -2859,6 +3577,7 @@
 					<score type="number">17</score>
 				</charisma>
 				<constitution>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">3</bonus>
 					<save type="number">3</save>
 					<savemodifier type="number">0</savemodifier>
@@ -2866,6 +3585,7 @@
 					<score type="number">16</score>
 				</constitution>
 				<dexterity>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">3</bonus>
 					<save type="number">5</save>
 					<savemodifier type="number">0</savemodifier>
@@ -2873,6 +3593,7 @@
 					<score type="number">16</score>
 				</dexterity>
 				<intelligence>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">2</bonus>
 					<save type="number">2</save>
 					<savemodifier type="number">0</savemodifier>
@@ -2880,6 +3601,7 @@
 					<score type="number">14</score>
 				</intelligence>
 				<strength>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">2</bonus>
 					<save type="number">2</save>
 					<savemodifier type="number">0</savemodifier>
@@ -2887,6 +3609,7 @@
 					<score type="number">14</score>
 				</strength>
 				<wisdom>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">1</bonus>
 					<save type="number">1</save>
 					<savemodifier type="number">0</savemodifier>
@@ -2894,6 +3617,9 @@
 					<score type="number">12</score>
 				</wisdom>
 			</abilities>
+			<adventurelist>
+				<holder name="Jason" owner="true" />
+			</adventurelist>
 			<alignment type="string">Neutral Evil</alignment>
 			<background type="string">Charlatan</background>
 			<backgroundlink type="windowreference">
@@ -2902,11 +3628,14 @@
 			</backgroundlink>
 			<bonds type="string">Somewhere out there, I have a child who doesn't know me. I'm making the world better for him or her.</bonds>
 			<classes>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<casterlevelinvmult type="number">1</casterlevelinvmult>
+					<casterpactmagic type="number">0</casterpactmagic>
 					<hddie type="dice">d8</hddie>
 					<hdused type="number">0</hdused>
-					<level type="number">2</level>
+					<level type="number">3</level>
 					<name type="string">Bard</name>
 					<shortcut type="windowreference">
 						<class>reference_class</class>
@@ -2916,32 +3645,41 @@
 			</classes>
 			<coinother type="string">10 GP</coinother>
 			<coins>
+				<holder name="Jason" owner="true" />
 				<slot1>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">CP</name>
 				</slot1>
 				<slot2>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">SP</name>
 				</slot2>
 				<slot3>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">EP</name>
 				</slot3>
 				<slot4>
+					<holder name="Jason" owner="true" />
 					<amount type="number">15</amount>
 					<name type="string">GP</name>
 				</slot4>
 				<slot5>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">PP</name>
 				</slot5>
 				<slot6>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 				</slot6>
 			</coins>
 			<defenses>
+				<holder name="Jason" owner="true" />
 				<ac>
+					<holder name="Jason" owner="true" />
 					<armor type="number">1</armor>
 					<disstealth type="number">0</disstealth>
 					<misc type="number">0</misc>
@@ -2952,18 +3690,22 @@
 				</ac>
 			</defenses>
 			<encumbrance>
+				<holder name="Jason" owner="true" />
 				<encumbered type="number">70</encumbered>
 				<encumberedheavy type="number">140</encumberedheavy>
 				<liftpushdrag type="number">420</liftpushdrag>
-				<load type="number">68.55</load>
+				<load type="number">73.55</load>
 				<max type="number">210</max>
 			</encumbrance>
-			<exp type="number">350</exp>
+			<exp type="number">900</exp>
 			<expneeded type="number">0</expneeded>
 			<featlist>
+				<holder name="Jason" owner="true" />
 			</featlist>
 			<featurelist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">False Identity</name>
 					<source type="string">Charlatan</source>
@@ -2973,6 +3715,7 @@
 					</text>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Spellcasting</name>
@@ -3002,6 +3745,7 @@
 					</text>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Bardic Inspiration</name>
@@ -3014,6 +3758,7 @@
 					</text>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<level type="number">2</level>
 					<locked type="number">1</locked>
 					<name type="string">Song of Rest</name>
@@ -3024,6 +3769,7 @@
 					</text>
 				</id-00004>
 				<id-00005>
+					<holder name="Jason" owner="true" />
 					<level type="number">2</level>
 					<locked type="number">1</locked>
 					<name type="string">Jack of All Trades</name>
@@ -3032,37 +3778,86 @@
 						<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include that bonus.</p>
 					</text>
 				</id-00005>
+				<id-00007>
+					<holder name="Jason" owner="true" />
+					<level type="number">3</level>
+					<locked type="number">1</locked>
+					<name type="string">Bard College</name>
+					<source type="string">Bard</source>
+					<specializationchoice type="number">1</specializationchoice>
+					<text type="formattedtext">
+						<p>At 3rd level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3rd level, and then again at 6th and 14th level.</p>
+					</text>
+				</id-00007>
+				<id-00008>
+					<holder name="Jason" owner="true" />
+					<level type="number">3</level>
+					<locked type="number">1</locked>
+					<name type="string">Expertise</name>
+					<source type="string">Bard</source>
+					<text type="formattedtext">
+						<p>At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that involves one of the chosen proficiencies.</p>
+						<p>At 10th level, you can choose another two skill proficiencies to gain this benefit.</p>
+					</text>
+				</id-00008>
+				<id-00009>
+					<holder name="Jason" owner="true" />
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">College of Lore</name>
+					<source type="string">Bard</source>
+					<text type="formattedtext">
+						<p>Bards of the College of Lore know something about everything, collecting bits of knowledge from sources as diverse as ancient tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.</p>
+						<p>The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or adviser knows that the bard would rather be honest than politic.</p>
+						<p>The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self important figures of authority.</p>
+						<h>Features</h>
+						<linklist>
+							<link class="reference_classfeature" recordname="reference.classdata.bard.features.bonusproficiencies_lore_3@DD PHB Deluxe">Bonus Proficiencies (Lore)</link>
+							<link class="reference_classfeature" recordname="reference.classdata.bard.features.cuttingwords3@DD PHB Deluxe">Cutting Words</link>
+							<link class="reference_classfeature" recordname="reference.classdata.bard.features.additionalmagicalsecrets6@DD PHB Deluxe">Additional Magical Secrets</link>
+							<link class="reference_classfeature" recordname="reference.classdata.bard.features.peerlessskill14@DD PHB Deluxe">Peerless Skill</link>
+						</linklist>
+					</text>
+				</id-00009>
 			</featurelist>
 			<flaws type="string">I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough.</flaws>
 			<hp>
+				<holder name="Jason" owner="true" />
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
+				<hdmod type="number">0</hdmod>
 				<temporary type="number">0</temporary>
-				<total type="number">19</total>
-				<wounds type="number">0</wounds>
+				<total type="number">27</total>
+				<wounds type="number">9</wounds>
 			</hp>
 			<ideals type="string">Aspiration. I'm determined to make something of myself. (Any)</ideals>
 			<initiative>
+				<holder name="Jason" owner="true" />
 				<misc type="number">0</misc>
 				<temporary type="number">0</temporary>
 				<total type="number">3</total>
 			</initiative>
+			<inspiration type="number">0</inspiration>
 			<inventorylist>
-				<id-00001>
+				<holder name="Jason" owner="true" />
+				<id-00002>
+					<holder name="Jason" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
 					<carried type="number">1</carried>
-					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
 					<description type="formattedtext">
-						<p>As an action, you can spend a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature's walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn't need to make the save.</p>
+						<p>The deed to a house.</p>
 					</description>
 					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
 					<locked type="number">1</locked>
-					<name type="string">Caltrops (20)</name>
-					<subtype type="string">Standard</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">2</weight>
-				</id-00001>
+					<name type="string">House Deed</name>
+					<type type="string">Document</type>
+					<weight type="number">0</weight>
+				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<ac type="number">0</ac>
 					<bonus type="number">0</bonus>
 					<carried type="number">2</carried>
@@ -3082,6 +3877,7 @@
 					<weight type="number">2</weight>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -3093,6 +3889,7 @@
 					<weight type="number">7</weight>
 				</id-00004>
 				<id-00005>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 gp</cost>
 					<count type="number">2</count>
@@ -3104,6 +3901,7 @@
 					<weight type="number">4</weight>
 				</id-00005>
 				<id-00006>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 sp</cost>
 					<count type="number">5</count>
@@ -3118,17 +3916,19 @@
 					<weight type="number">2</weight>
 				</id-00006>
 				<id-00007>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 sp</cost>
 					<count type="number">1</count>
 					<isidentified type="number">1</isidentified>
 					<locked type="number">1</locked>
-					<name type="string">Waterskin</name>
+					<name type="string">Waterskin of vampire blood</name>
 					<subtype type="string">Standard</subtype>
 					<type type="string">Adventuring Gear</type>
 					<weight type="number">5</weight>
 				</id-00007>
 				<id-00008>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">25 gp</cost>
 					<count type="number">2</count>
@@ -3143,6 +3943,7 @@
 					<weight type="number">3</weight>
 				</id-00008>
 				<id-00009>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 cp</cost>
 					<count type="number">5</count>
@@ -3157,6 +3958,7 @@
 					<weight type="number">0.01</weight>
 				</id-00009>
 				<id-00010>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 gp</cost>
 					<count type="number">1</count>
@@ -3168,6 +3970,7 @@
 					<weight type="number">5</weight>
 				</id-00010>
 				<id-00011>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">12 gp</cost>
 					<count type="number">1</count>
@@ -3182,6 +3985,7 @@
 					<weight type="number">2</weight>
 				</id-00011>
 				<id-00012>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 sp</cost>
 					<count type="number">1</count>
@@ -3196,6 +4000,7 @@
 					<weight type="number">0</weight>
 				</id-00012>
 				<id-00013>
+					<holder name="Jason" owner="true" />
 					<ac type="number">11</ac>
 					<carried type="number">2</carried>
 					<cost type="string">10 gp</cost>
@@ -3215,6 +4020,7 @@
 					<weight type="number">10</weight>
 				</id-00013>
 				<id-00014>
+					<holder name="Jason" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">2 gp</cost>
 					<count type="number">1</count>
@@ -3228,6 +4034,7 @@
 					<weight type="number">1</weight>
 				</id-00014>
 				<id-00015>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">15 gp</cost>
 					<count type="number">1</count>
@@ -3239,6 +4046,7 @@
 					<weight type="number">6</weight>
 				</id-00015>
 				<id-00016>
+					<holder name="Jason" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">75 gp</cost>
 					<count type="number">1</count>
@@ -3252,6 +4060,7 @@
 					<weight type="number">3</weight>
 				</id-00016>
 				<id-00017>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -3262,22 +4071,59 @@
 					<type type="string">Adventuring Gear</type>
 					<weight type="number">1.5</weight>
 				</id-00017>
+				<id-00019>
+					<holder name="Jason" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>A folded cloak made from stitched ghoul skin.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
+					<locked type="number">1</locked>
+					<name type="string">Ghastly Cloak</name>
+					<type type="string">Treasure</type>
+					<weight type="number">7</weight>
+				</id-00019>
+				<id-00020>
+					<holder name="Jason" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>An iron pendant adorned with a devil's face.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
+					<locked type="number">1</locked>
+					<name type="string">Devil's Face Pendant</name>
+					<type type="string">Treasure</type>
+					<weight type="number">0</weight>
+				</id-00020>
 			</inventorylist>
 			<languagelist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<name type="string">Common</name>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<name type="string">Infernal</name>
 				</id-00002>
 			</languagelist>
-			<level type="number">2</level>
+			<level type="number">3</level>
 			<name type="string">Lyrael</name>
 			<perception type="number">11</perception>
 			<perceptionmodifier type="number">0</perceptionmodifier>
 			<personalitytraits type="string">I have a joke for every occasion, especially occasions where humor is inappropriate.</personalitytraits>
 			<powergroup>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<atkmod type="number">0</atkmod>
 					<atkprof type="number">1</atkprof>
 					<castertype type="string">memorization</castertype>
@@ -3288,77 +4134,90 @@
 					<stat type="string">charisma</stat>
 					<uses type="number">0</uses>
 				</id-00001>
-				<id-00002>
-					<atkmod type="number">0</atkmod>
-					<atkprof type="number">1</atkprof>
-					<castertype type="string">memorization</castertype>
-					<name type="string">Spells (Bard)</name>
-					<prepared type="number">0</prepared>
-					<savemod type="number">0</savemod>
-					<saveprof type="number">1</saveprof>
-					<stat type="string">charisma</stat>
-					<uses type="number">0</uses>
-				</id-00002>
 			</powergroup>
 			<powermeta>
+				<holder name="Jason" owner="true" />
 				<pactmagicslots1>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots1>
 				<pactmagicslots2>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots2>
 				<pactmagicslots3>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots3>
 				<pactmagicslots4>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots4>
 				<pactmagicslots5>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots5>
 				<pactmagicslots6>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots6>
 				<pactmagicslots7>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots7>
 				<pactmagicslots8>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots8>
 				<pactmagicslots9>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots9>
 				<spellslots1>
-					<max type="number">3</max>
+					<holder name="Jason" owner="true" />
+					<max type="number">4</max>
+					<used type="number">1</used>
 				</spellslots1>
 				<spellslots2>
-					<max type="number">0</max>
+					<holder name="Jason" owner="true" />
+					<max type="number">2</max>
 				</spellslots2>
 				<spellslots3>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots3>
 				<spellslots4>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots4>
 				<spellslots5>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots5>
 				<spellslots6>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots6>
 				<spellslots7>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots7>
 				<spellslots8>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots8>
 				<spellslots9>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots9>
 			</powermeta>
+			<powermode type="string">preparation</powermode>
 			<powers>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<actions>
+						<holder name="Jason" owner="true" />
 					</actions>
 					<cast type="number">0</cast>
 					<castingtime type="string">1 action</castingtime>
@@ -3387,15 +4246,21 @@
 					<source type="string">Cleric</source>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<actions>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<order type="number">1</order>
 							<savetype type="string">wisdom</savetype>
 							<type type="string">cast</type>
 						</id-00001>
 						<id-00002>
+							<holder name="Jason" owner="true" />
 							<damagelist>
+								<holder name="Jason" owner="true" />
 								<id-00001>
+									<holder name="Jason" owner="true" />
 									<bonus type="number">0</bonus>
 									<dice type="dice">d4</dice>
 									<type type="string">psychic</type>
@@ -3423,7 +4288,9 @@
 					<source type="string">Bard</source>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<actions>
+						<holder name="Jason" owner="true" />
 					</actions>
 					<cast type="number">0</cast>
 					<castingtime type="string">1 action</castingtime>
@@ -3445,16 +4312,22 @@
 					<source type="string">Bard, Eldritch Knight, Monk, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
 				</id-00003>
 				<id-00005>
+					<holder name="Jason" owner="true" />
 					<actions>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<onmissdamage type="string">half</onmissdamage>
 							<order type="number">1</order>
 							<savetype type="string">wisdom</savetype>
 							<type type="string">cast</type>
 						</id-00001>
 						<id-00002>
+							<holder name="Jason" owner="true" />
 							<damagelist>
+								<holder name="Jason" owner="true" />
 								<id-00001>
+									<holder name="Jason" owner="true" />
 									<bonus type="number">0</bonus>
 									<dice type="dice">d6,d6,d6</dice>
 									<type type="string">psychic</type>
@@ -3482,8 +4355,11 @@
 					<source type="string">Bard, Warlock (Great Old One)</source>
 				</id-00005>
 				<id-00006>
+					<holder name="Jason" owner="true" />
 					<actions>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<order type="number">1</order>
 							<savetype type="string">dexterity</savetype>
 							<type type="string">cast</type>
@@ -3506,13 +4382,17 @@
 					<source type="string">Bard, Cleric Light Domain, Druid, Warlock (Archfey)</source>
 				</id-00006>
 				<id-00007>
+					<holder name="Jason" owner="true" />
 					<actions>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<order type="number">1</order>
 							<savetype type="string">wisdom</savetype>
 							<type type="string">cast</type>
 						</id-00001>
 						<id-00002>
+							<holder name="Jason" owner="true" />
 							<durmod type="number">1</durmod>
 							<durunit type="string">minute</durunit>
 							<label type="string">Prone; Incapacitated; NOTE: Unable to stand up; NOTE: Save on end of round and damage; (C)</label>
@@ -3538,8 +4418,11 @@
 					<source type="string">Bard, Eldritch Knight, Warlock (Great Old One), Wizard, Arcane Trickster</source>
 				</id-00007>
 				<id-00008>
+					<holder name="Jason" owner="true" />
 					<actions>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<durmod type="number">1</durmod>
 							<durunit type="string">minute</durunit>
 							<label type="string">Unconscious</label>
@@ -3568,10 +4451,15 @@
 					<source type="string">Bard, Eldritch Knight, Warlock (Archfey), Sorcerer, Wizard, Arcane Trickster</source>
 				</id-00008>
 				<id-00009>
+					<holder name="Jason" owner="true" />
 					<actions>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<heallist>
+								<holder name="Jason" owner="true" />
 								<id-00001>
+									<holder name="Jason" owner="true" />
 									<bonus type="number">0</bonus>
 									<dice type="dice">d8</dice>
 									<stat type="string">base</stat>
@@ -3598,19 +4486,140 @@
 					<school type="string">Evocation</school>
 					<source type="string">Bard, Cleric, Cleric Life Domain, Druid, Paladin, Ranger</source>
 				</id-00009>
+				<id-00011>
+					<holder name="Jason" owner="true" />
+					<actions>
+						<holder name="Jason" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<level type="number">0</level>
+					<name type="string">Cutting Words</name>
+					<prepared type="number">0</prepared>
+				</id-00011>
+				<id-00012>
+					<holder name="Jason" owner="true" />
+					<actions>
+						<holder name="Jason" owner="true" />
+						<id-00001>
+							<holder name="Jason" owner="true" />
+							<order type="number">1</order>
+							<savetype type="string">intelligence</savetype>
+							<type type="string">cast</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Jason" owner="true" />
+							<damagelist>
+								<holder name="Jason" owner="true" />
+								<id-00001>
+									<holder name="Jason" owner="true" />
+									<dice type="dice">d6</dice>
+									<type type="string">psychic</type>
+								</id-00001>
+							</damagelist>
+							<order type="number">2</order>
+							<type type="string">damage</type>
+						</id-00002>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S, M (a bit of fleece)</components>
+					<description type="formattedtext">
+						<p>You craft an illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration. This spell has no effect on undead or constructs.</p>
+						<p>The phantasm includes sound, temperature, and other stimuli, also evident only to the creature.</p>
+						<p>The target can use its action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends. While a target is affected by the spell, the target treats the phantasm as if it were real. The target rationalizes any illogical outcomes from interacting with the phantasm. For example, a target attempting to walk across a phantasmal bridge that spans a chasm falls once it steps onto the bridge. If the target survives the fall, it still believes that the bridge exists and comes up with some other explanation for its fall-it was pushed, it slipped, or a strong wind might have knocked it off.</p>
+						<p>An affected target is so convinced of the phantasm's reality that it can even take damage from the illusion. A phantasm created to appear as a creature can attack the target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn the target. Each round on your turn, the phantasm can deal 1d6 psychic damage to the target if it is in the phantasm's area or within 5 feet of the phantasm, provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The target perceives the damage as a type appropriate to the illusion.</p>
+					</description>
+					<duration type="string">Concentration, up to 1 minute</duration>
+					<group type="string">Spells</group>
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Phantasmal Force</name>
+					<prepared type="number">0</prepared>
+					<range type="string">60 feet</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Illusion</school>
+					<source type="string">Bard, Eldritch Knight, Warlock (Archfey), Warlock (Great Old One), Sorcerer, Wizard, Arcane Trickster</source>
+				</id-00012>
+				<id-00013>
+					<holder name="Jason" owner="true" />
+					<actions>
+						<holder name="Jason" owner="true" />
+						<id-00001>
+							<holder name="Jason" owner="true" />
+							<damagelist>
+								<holder name="Jason" owner="true" />
+								<id-00001>
+									<holder name="Jason" owner="true" />
+									<dice type="dice">d8,d8</dice>
+									<type type="string">fire</type>
+								</id-00001>
+							</damagelist>
+							<order type="number">1</order>
+							<type type="string">damage</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Jason" owner="true" />
+							<order type="number">2</order>
+							<savetype type="string">constitution</savetype>
+							<type type="string">cast</type>
+						</id-00002>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S, M (a piece of iron and a flame)</components>
+					<description type="formattedtext">
+						<p>Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.</p>
+						<p>If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.</p>
+						<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.</p>
+					</description>
+					<duration type="string">Concentration, up to 1 minute</duration>
+					<group type="string">Spells</group>
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Heat Metal</name>
+					<prepared type="number">0</prepared>
+					<range type="string">60 feet</range>
+					<school type="string">Transmutation</school>
+					<source type="string">Bard, Druid</source>
+				</id-00013>
+				<id-00014>
+					<holder name="Jason" owner="true" />
+					<actions>
+						<holder name="Jason" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<level type="number">0</level>
+					<name type="string">Helish rebuke</name>
+					<prepared type="number">3</prepared>
+				</id-00014>
+				<id-00015>
+					<holder name="Jason" owner="true" />
+					<actions>
+						<holder name="Jason" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<level type="number">0</level>
+					<name type="string">Bardic Inspiration</name>
+					<prepared type="number">4</prepared>
+				</id-00015>
 			</powers>
 			<profbonus type="number">2</profbonus>
 			<proficiencylist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<name type="string">Tool: Disguise kit, forgery kit</name>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<name type="string">Weapon: Simple weapons, hand crossbows, longswords, rapiers, shortswords</name>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<name type="string">Tool: Three musical instruments - Lutes, Pipes, Drums</name>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<name type="string">Armor: Light armor</name>
 				</id-00004>
 			</proficiencylist>
@@ -3622,7 +4631,9 @@
 			<senses type="string">Darkvision 60</senses>
 			<size type="string">Medium</size>
 			<skilllist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Perception</name>
 					<prof type="number">0</prof>
@@ -3630,6 +4641,7 @@
 					<total type="number">1</total>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Arcana</name>
 					<prof type="number">0</prof>
@@ -3637,13 +4649,15 @@
 					<total type="number">2</total>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Persuasion</name>
-					<prof type="number">0</prof>
+					<prof type="number">1</prof>
 					<stat type="string">charisma</stat>
-					<total type="number">3</total>
+					<total type="number">5</total>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Nature</name>
 					<prof type="number">0</prof>
@@ -3651,6 +4665,7 @@
 					<total type="number">2</total>
 				</id-00004>
 				<id-00005>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Medicine</name>
 					<prof type="number">0</prof>
@@ -3658,6 +4673,7 @@
 					<total type="number">1</total>
 				</id-00005>
 				<id-00006>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Survival</name>
 					<prof type="number">0</prof>
@@ -3665,6 +4681,7 @@
 					<total type="number">1</total>
 				</id-00006>
 				<id-00007>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Performance</name>
 					<prof type="number">1</prof>
@@ -3672,6 +4689,7 @@
 					<total type="number">5</total>
 				</id-00007>
 				<id-00008>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Acrobatics</name>
 					<prof type="number">1</prof>
@@ -3679,6 +4697,7 @@
 					<total type="number">5</total>
 				</id-00008>
 				<id-00009>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Religion</name>
 					<prof type="number">0</prof>
@@ -3686,20 +4705,23 @@
 					<total type="number">2</total>
 				</id-00009>
 				<id-00010>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Athletics</name>
-					<prof type="number">0</prof>
+					<prof type="number">1</prof>
 					<stat type="string">strength</stat>
-					<total type="number">2</total>
+					<total type="number">4</total>
 				</id-00010>
 				<id-00011>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Sleight of Hand</name>
-					<prof type="number">1</prof>
+					<prof type="number">2</prof>
 					<stat type="string">dexterity</stat>
-					<total type="number">5</total>
+					<total type="number">7</total>
 				</id-00011>
 				<id-00012>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Insight</name>
 					<prof type="number">0</prof>
@@ -3707,13 +4729,15 @@
 					<total type="number">1</total>
 				</id-00012>
 				<id-00013>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Intimidation</name>
-					<prof type="number">1</prof>
+					<prof type="number">2</prof>
 					<stat type="string">charisma</stat>
-					<total type="number">5</total>
+					<total type="number">7</total>
 				</id-00013>
 				<id-00014>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Deception</name>
 					<prof type="number">1</prof>
@@ -3721,6 +4745,7 @@
 					<total type="number">5</total>
 				</id-00014>
 				<id-00015>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Investigation</name>
 					<prof type="number">0</prof>
@@ -3728,13 +4753,15 @@
 					<total type="number">2</total>
 				</id-00015>
 				<id-00016>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Stealth</name>
-					<prof type="number">0</prof>
+					<prof type="number">1</prof>
 					<stat type="string">dexterity</stat>
-					<total type="number">3</total>
+					<total type="number">5</total>
 				</id-00016>
 				<id-00017>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">History</name>
 					<prof type="number">0</prof>
@@ -3742,6 +4769,7 @@
 					<total type="number">2</total>
 				</id-00017>
 				<id-00018>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Animal Handling</name>
 					<prof type="number">0</prof>
@@ -3750,6 +4778,7 @@
 				</id-00018>
 			</skilllist>
 			<speed>
+				<holder name="Jason" owner="true" />
 				<armor type="number">0</armor>
 				<base type="number">30</base>
 				<misc type="number">0</misc>
@@ -3757,10 +4786,16 @@
 				<total type="number">30</total>
 			</speed>
 			<temp>
+				<holder name="Jason" owner="true" />
+				<item>
+					<holder name="Jason" owner="true" />
+				</item>
 			</temp>
 			<token type="token">portrait_id-00004_token</token>
 			<traitlist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Infernal Legacy</name>
 					<source type="string">Tiefling</source>
@@ -3770,6 +4805,7 @@
 					<type type="string">racial</type>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Hellish Resistance</name>
 					<source type="string">Tiefling</source>
@@ -3779,13 +4815,28 @@
 					<type type="string">racial</type>
 				</id-00002>
 			</traitlist>
+			<weapon>
+				<holder name="Jason" owner="true" />
+				<critdicebonus>
+					<holder name="Jason" owner="true" />
+				</critdicebonus>
+				<critrange>
+					<holder name="Jason" owner="true" />
+					<melee type="number">20</melee>
+					<ranged type="number">20</ranged>
+				</critrange>
+			</weapon>
 			<weaponlist>
+				<holder name="Jason" owner="true" />
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<attackstat type="string">dexterity</attackstat>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d8</dice>
 							<stat type="string">dexterity</stat>
@@ -3796,6 +4847,7 @@
 					<maxammo type="number">0</maxammo>
 					<name type="string">Rapier</name>
 					<prof type="number">1</prof>
+					<properties type="string">Silvered</properties>
 					<shortcut type="windowreference">
 						<class>item</class>
 						<recordname>....inventorylist.id-00003</recordname>
@@ -3803,11 +4855,14 @@
 					<type type="number">0</type>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<attackstat type="string">dexterity</attackstat>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d4</dice>
 							<stat type="string">dexterity</stat>
@@ -3825,11 +4880,14 @@
 					<type type="number">0</type>
 				</id-00004>
 				<id-00005>
+					<holder name="Jason" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<attackstat type="string">dexterity</attackstat>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d4</dice>
 							<stat type="string">dexterity</stat>
@@ -3844,13 +4902,17 @@
 						<class>item</class>
 						<recordname>....inventorylist.id-00014</recordname>
 					</shortcut>
-					<type type="number">2</type>
+					<type type="number">0</type>
 				</id-00005>
 				<id-00006>
+					<holder name="Jason" owner="true" />
+					<ammo type="number">2</ammo>
 					<attackbonus type="number">0</attackbonus>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d6</dice>
 							<stat type="string">base</stat>
@@ -3870,8 +4932,11 @@
 			</weaponlist>
 		</id-00004>
 		<id-00005>
+			<holder name="Jason" owner="true" />
 			<abilities>
+				<holder name="Jason" owner="true" />
 				<charisma>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">0</bonus>
 					<save type="number">0</save>
 					<savemodifier type="number">0</savemodifier>
@@ -3879,6 +4944,7 @@
 					<score type="number">11</score>
 				</charisma>
 				<constitution>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">3</bonus>
 					<save type="number">5</save>
 					<savemodifier type="number">0</savemodifier>
@@ -3886,6 +4952,7 @@
 					<score type="number">16</score>
 				</constitution>
 				<dexterity>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">2</bonus>
 					<save type="number">2</save>
 					<savemodifier type="number">0</savemodifier>
@@ -3893,6 +4960,7 @@
 					<score type="number">15</score>
 				</dexterity>
 				<intelligence>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">1</bonus>
 					<save type="number">1</save>
 					<savemodifier type="number">0</savemodifier>
@@ -3900,6 +4968,7 @@
 					<score type="number">12</score>
 				</intelligence>
 				<strength>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">4</bonus>
 					<save type="number">6</save>
 					<savemodifier type="number">0</savemodifier>
@@ -3907,6 +4976,7 @@
 					<score type="number">18</score>
 				</strength>
 				<wisdom>
+					<holder name="Jason" owner="true" />
 					<bonus type="number">1</bonus>
 					<save type="number">1</save>
 					<savemodifier type="number">0</savemodifier>
@@ -3915,6 +4985,7 @@
 				</wisdom>
 			</abilities>
 			<adventurelist>
+				<holder name="Jason" owner="true" />
 			</adventurelist>
 			<background type="string">Soldier</background>
 			<backgroundlink type="windowreference">
@@ -3923,7 +4994,9 @@
 			</backgroundlink>
 			<bonds type="string">Those who fight beside me are those worth dying for.</bonds>
 			<classes>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<casterlevelinvmult type="number">0</casterlevelinvmult>
 					<casterpactmagic type="number">0</casterpactmagic>
 					<hddie type="dice">d10</hddie>
@@ -3937,32 +5010,41 @@
 				</id-00001>
 			</classes>
 			<coins>
+				<holder name="Jason" owner="true" />
 				<slot1>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">CP</name>
 				</slot1>
 				<slot2>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">SP</name>
 				</slot2>
 				<slot3>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">EP</name>
 				</slot3>
 				<slot4>
+					<holder name="Jason" owner="true" />
 					<amount type="number">160</amount>
 					<name type="string">GP</name>
 				</slot4>
 				<slot5>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 					<name type="string">PP</name>
 				</slot5>
 				<slot6>
+					<holder name="Jason" owner="true" />
 					<amount type="number">0</amount>
 				</slot6>
 			</coins>
 			<defenses>
+				<holder name="Jason" owner="true" />
 				<ac>
+					<holder name="Jason" owner="true" />
 					<armor type="number">6</armor>
 					<dexbonus type="string">no</dexbonus>
 					<disstealth type="number">1</disstealth>
@@ -3974,6 +5056,7 @@
 				</ac>
 			</defenses>
 			<encumbrance>
+				<holder name="Jason" owner="true" />
 				<encumbered type="number">90</encumbered>
 				<encumberedheavy type="number">180</encumberedheavy>
 				<liftpushdrag type="number">540</liftpushdrag>
@@ -3983,9 +5066,12 @@
 			<exp type="number">0</exp>
 			<expneeded type="number">0</expneeded>
 			<featlist>
+				<holder name="Jason" owner="true" />
 			</featlist>
 			<featurelist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<locked type="number">1</locked>
 					<name type="string">Military Rank</name>
 					<source type="string">Soldier</source>
@@ -3995,6 +5081,7 @@
 					</text>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Second Wind</name>
@@ -4005,6 +5092,7 @@
 					</text>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Fighting Style</name>
@@ -4026,6 +5114,7 @@
 					</text>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<level type="number">2</level>
 					<locked type="number">1</locked>
 					<name type="string">Action Surge</name>
@@ -4036,6 +5125,7 @@
 					</text>
 				</id-00004>
 				<id-00005>
+					<holder name="Jason" owner="true" />
 					<level type="number">1</level>
 					<locked type="number">1</locked>
 					<name type="string">Battle Master</name>
@@ -4053,6 +5143,7 @@
 					</text>
 				</id-00005>
 				<id-00006>
+					<holder name="Jason" owner="true" />
 					<level type="number">3</level>
 					<locked type="number">1</locked>
 					<name type="string">Student of War</name>
@@ -4063,6 +5154,7 @@
 					</text>
 				</id-00006>
 				<id-00007>
+					<holder name="Jason" owner="true" />
 					<level type="number">3</level>
 					<locked type="number">1</locked>
 					<name type="string">Combat Superiority</name>
@@ -4153,18 +5245,24 @@
 			</featurelist>
 			<flaws type="string">I'd rather eat my armor than admit when I'm wrong.</flaws>
 			<hp>
+				<holder name="Jason" owner="true" />
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
 				<temporary type="number">0</temporary>
 				<total type="number">31</total>
 				<wounds type="number">0</wounds>
 			</hp>
 			<ideals type="string">Live and Let Live. Ideals aren't worth killing over or going to war for. (Neutral)</ideals>
 			<initiative>
+				<holder name="Jason" owner="true" />
 				<misc type="number">0</misc>
 				<temporary type="number">0</temporary>
 				<total type="number">2</total>
 			</initiative>
 			<inventorylist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<ac type="number">16</ac>
 					<carried type="number">2</carried>
 					<cost type="string">75 gp</cost>
@@ -4184,6 +5282,7 @@
 					<weight type="number">55</weight>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">15 gp</cost>
 					<count type="number">2</count>
@@ -4197,6 +5296,7 @@
 					<weight type="number">3</weight>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">5 gp</cost>
 					<count type="number">2</count>
@@ -4210,6 +5310,7 @@
 					<weight type="number">2</weight>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 cp</cost>
 					<count type="number">10</count>
@@ -4221,6 +5322,7 @@
 					<weight type="number">0.25</weight>
 				</id-00004>
 				<id-00005>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 sp</cost>
 					<count type="number">10</count>
@@ -4235,6 +5337,7 @@
 					<weight type="number">2</weight>
 				</id-00005>
 				<id-00006>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 sp</cost>
 					<count type="number">1</count>
@@ -4246,6 +5349,7 @@
 					<weight type="number">5</weight>
 				</id-00006>
 				<id-00007>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 gp</cost>
 					<count type="number">1</count>
@@ -4257,6 +5361,7 @@
 					<weight type="number">5</weight>
 				</id-00007>
 				<id-00008>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -4268,6 +5373,7 @@
 					<weight type="number">3</weight>
 				</id-00008>
 				<id-00009>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 cp</cost>
 					<count type="number">10</count>
@@ -4282,6 +5388,7 @@
 					<weight type="number">1</weight>
 				</id-00009>
 				<id-00010>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 sp</cost>
 					<count type="number">1</count>
@@ -4296,6 +5403,7 @@
 					<weight type="number">1</weight>
 				</id-00010>
 				<id-00011>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">2 gp</cost>
 					<count type="number">1</count>
@@ -4310,6 +5418,7 @@
 					<weight type="number">5</weight>
 				</id-00011>
 				<id-00012>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 gp</cost>
 					<count type="number">1</count>
@@ -4321,6 +5430,7 @@
 					<weight type="number">10</weight>
 				</id-00012>
 				<id-00013>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">1 sp</cost>
 					<count type="number">1</count>
@@ -4335,6 +5445,7 @@
 					<weight type="number">0</weight>
 				</id-00013>
 				<id-00014>
+					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
 					<cost type="string">5 sp</cost>
 					<count type="number">1</count>
@@ -4347,84 +5458,112 @@
 				</id-00014>
 			</inventorylist>
 			<languagelist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<name type="string">Common</name>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<name type="string">Choice</name>
 				</id-00002>
 			</languagelist>
 			<level type="number">3</level>
+			<name type="string">Ned Kelly</name>
 			<perception type="number">13</perception>
 			<perceptionmodifier type="number">0</perceptionmodifier>
 			<personalitytraits type="string">I have a crude sense of humor.</personalitytraits>
 			<powermeta>
+				<holder name="Jason" owner="true" />
 				<pactmagicslots1>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots1>
 				<pactmagicslots2>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots2>
 				<pactmagicslots3>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots3>
 				<pactmagicslots4>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots4>
 				<pactmagicslots5>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots5>
 				<pactmagicslots6>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots6>
 				<pactmagicslots7>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots7>
 				<pactmagicslots8>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots8>
 				<pactmagicslots9>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</pactmagicslots9>
 				<spellslots1>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots1>
 				<spellslots2>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots2>
 				<spellslots3>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots3>
 				<spellslots4>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots4>
 				<spellslots5>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots5>
 				<spellslots6>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots6>
 				<spellslots7>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots7>
 				<spellslots8>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots8>
 				<spellslots9>
+					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
 				</spellslots9>
 			</powermeta>
 			<powers>
+				<holder name="Jason" owner="true" />
 			</powers>
 			<profbonus type="number">2</profbonus>
 			<proficiencylist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<name type="string">Tool: One type of gaming set, vehicles (land)</name>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<name type="string">Weapon: Simple weapons, martial weapons</name>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<name type="string">Armor: All armor, shields</name>
 				</id-00003>
 			</proficiencylist>
@@ -4435,7 +5574,9 @@
 			</racelink>
 			<size type="string">Medium</size>
 			<skilllist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Perception</name>
 					<prof type="number">1</prof>
@@ -4443,6 +5584,7 @@
 					<total type="number">3</total>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Athletics</name>
 					<prof type="number">1</prof>
@@ -4450,6 +5592,7 @@
 					<total type="number">6</total>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Intimidation</name>
 					<prof type="number">1</prof>
@@ -4457,6 +5600,7 @@
 					<total type="number">2</total>
 				</id-00003>
 				<id-00004>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Arcana</name>
 					<prof type="number">0</prof>
@@ -4464,6 +5608,7 @@
 					<total type="number">1</total>
 				</id-00004>
 				<id-00005>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Persuasion</name>
 					<prof type="number">0</prof>
@@ -4471,6 +5616,7 @@
 					<total type="number">0</total>
 				</id-00005>
 				<id-00006>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Nature</name>
 					<prof type="number">0</prof>
@@ -4478,6 +5624,7 @@
 					<total type="number">1</total>
 				</id-00006>
 				<id-00007>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Medicine</name>
 					<prof type="number">0</prof>
@@ -4485,6 +5632,7 @@
 					<total type="number">1</total>
 				</id-00007>
 				<id-00008>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Survival</name>
 					<prof type="number">1</prof>
@@ -4492,6 +5640,7 @@
 					<total type="number">3</total>
 				</id-00008>
 				<id-00009>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Performance</name>
 					<prof type="number">0</prof>
@@ -4499,6 +5648,7 @@
 					<total type="number">0</total>
 				</id-00009>
 				<id-00010>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Acrobatics</name>
 					<prof type="number">0</prof>
@@ -4506,6 +5656,7 @@
 					<total type="number">2</total>
 				</id-00010>
 				<id-00011>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Religion</name>
 					<prof type="number">0</prof>
@@ -4513,6 +5664,7 @@
 					<total type="number">1</total>
 				</id-00011>
 				<id-00012>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Sleight of Hand</name>
 					<prof type="number">0</prof>
@@ -4520,6 +5672,7 @@
 					<total type="number">2</total>
 				</id-00012>
 				<id-00013>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Insight</name>
 					<prof type="number">0</prof>
@@ -4527,6 +5680,7 @@
 					<total type="number">1</total>
 				</id-00013>
 				<id-00014>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Deception</name>
 					<prof type="number">0</prof>
@@ -4534,6 +5688,7 @@
 					<total type="number">0</total>
 				</id-00014>
 				<id-00015>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Investigation</name>
 					<prof type="number">0</prof>
@@ -4541,6 +5696,7 @@
 					<total type="number">1</total>
 				</id-00015>
 				<id-00016>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Stealth</name>
 					<prof type="number">0</prof>
@@ -4548,6 +5704,7 @@
 					<total type="number">2</total>
 				</id-00016>
 				<id-00017>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">History</name>
 					<prof type="number">0</prof>
@@ -4555,6 +5712,7 @@
 					<total type="number">1</total>
 				</id-00017>
 				<id-00018>
+					<holder name="Jason" owner="true" />
 					<misc type="number">0</misc>
 					<name type="string">Animal Handling</name>
 					<prof type="number">0</prof>
@@ -4563,6 +5721,7 @@
 				</id-00018>
 			</skilllist>
 			<speed>
+				<holder name="Jason" owner="true" />
 				<armor type="number">0</armor>
 				<base type="number">30</base>
 				<misc type="number">0</misc>
@@ -4570,16 +5729,22 @@
 				<total type="number">30</total>
 			</speed>
 			<temp>
+				<holder name="Jason" owner="true" />
 			</temp>
 			<token type="token">portrait_id-00005_token</token>
 			<traitlist>
+				<holder name="Jason" owner="true" />
 			</traitlist>
 			<weaponlist>
+				<holder name="Jason" owner="true" />
 				<id-00001>
+					<holder name="Jason" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<carried type="number">2</carried>
 					<damagelist>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d8</dice>
 							<stat type="string">base</stat>
@@ -4597,10 +5762,13 @@
 					<type type="number">0</type>
 				</id-00001>
 				<id-00002>
+					<holder name="Jason" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<carried type="number">1</carried>
 					<damagelist>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d6</dice>
 							<stat type="string">base</stat>
@@ -4618,11 +5786,14 @@
 					<type type="number">0</type>
 				</id-00002>
 				<id-00003>
+					<holder name="Jason" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<attackstat type="string">dexterity</attackstat>
 					<carried type="number">1</carried>
 					<damagelist>
+						<holder name="Jason" owner="true" />
 						<id-00001>
+							<holder name="Jason" owner="true" />
 							<bonus type="number">0</bonus>
 							<dice type="dice">d6</dice>
 							<stat type="string">dexterity</stat>
@@ -4684,12 +5855,20 @@
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
 					<public />
+					<id-00003>
+						<public />
+						<duration type="number">0</duration>
+						<init type="number">5</init>
+						<isactive type="number">1</isactive>
+						<isgmonly type="number">0</isgmonly>
+						<label type="string">AC: 3</label>
+					</id-00003>
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">16</hptotal>
+				<hptotal type="number">23</hptotal>
 				<init type="number">3</init>
-				<initresult type="number">16</initresult>
+				<initresult type="number">23</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -4767,9 +5946,9 @@
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">21</hptotal>
+				<hptotal type="number">30</hptotal>
 				<init type="number">0</init>
-				<initresult type="number">18</initresult>
+				<initresult type="number">17</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -4839,7 +6018,7 @@
 				<actions>
 					<public />
 				</actions>
-				<active type="number">0</active>
+				<active type="number">1</active>
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
@@ -4847,9 +6026,9 @@
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">18</hptotal>
+				<hptotal type="number">27</hptotal>
 				<init type="number">3</init>
-				<initresult type="number">9</initresult>
+				<initresult type="number">21</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -4879,6 +6058,8 @@
 					<public />
 				</targets>
 				<token type="token">portrait_id-00003_token</token>
+				<tokenrefid type="string">5</tokenrefid>
+				<tokenrefnode type="string">image.id-00015.image@DD Curse of Strahd</tokenrefnode>
 				<tokenscale type="number">1</tokenscale>
 				<tokenvis type="number">0</tokenvis>
 				<traits>
@@ -4919,7 +6100,7 @@
 				<actions>
 					<public />
 				</actions>
-				<active type="number">1</active>
+				<active type="number">0</active>
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
@@ -4927,9 +6108,9 @@
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">19</hptotal>
+				<hptotal type="number">27</hptotal>
 				<init type="number">3</init>
-				<initresult type="number">13</initresult>
+				<initresult type="number">17</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -4954,20 +6135,99 @@
 				<spells>
 					<public />
 				</spells>
-				<status type="string">Healthy</status>
+				<status type="string">Wounded</status>
 				<targets>
 					<public />
 				</targets>
 				<token type="token">portrait_id-00004_token</token>
+				<tokenrefid type="string">8</tokenrefid>
+				<tokenrefnode type="string">image.id-00015.image@DD Curse of Strahd</tokenrefnode>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">9</wounds>
+			</id-00004>
+			<id-00013>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<score type="number">11</score>
+					</charisma>
+					<constitution>
+						<public />
+						<score type="number">16</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<score type="number">15</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">12</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">18</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">12</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">16</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">31</hptotal>
+				<init type="number">2</init>
+				<initresult type="number">19</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00005</recordname>
+				</link>
+				<name type="string">Ned Kelly</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">30</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<token type="token">portrait_id-00005_token</token>
 				<tokenscale type="number">1</tokenscale>
 				<tokenvis type="number">0</tokenvis>
 				<traits>
 					<public />
 				</traits>
 				<wounds type="number">0</wounds>
-			</id-00004>
+			</id-00013>
 		</list>
-		<round type="number">1</round>
+		<round type="number">3</round>
 	</combattracker>
 	<effects>
 		<public />
@@ -5514,17 +6774,17 @@
 				<ac type="number">13</ac>
 				<chabonus type="number">2</chabonus>
 				<charisma type="number">14</charisma>
-				<classlevel type="string">Wizard 2</classlevel>
+				<classlevel type="string">Wizard 3</classlevel>
 				<conbonus type="number">3</conbonus>
 				<constitution type="number">16</constitution>
 				<dexbonus type="number">3</dexbonus>
 				<dexterity type="number">16</dexterity>
 				<exp type="number">350</exp>
 				<expneeded type="number">0</expneeded>
-				<hd type="number">2</hd>
+				<hd type="number">3</hd>
 				<hdused type="number">0</hdused>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">16</hptotal>
+				<hptotal type="number">23</hptotal>
 				<intbonus type="number">4</intbonus>
 				<intelligence type="number">18</intelligence>
 				<link type="windowreference">
@@ -5548,17 +6808,17 @@
 				<ac type="number">13</ac>
 				<chabonus type="number">3</chabonus>
 				<charisma type="number">17</charisma>
-				<classlevel type="string">Cleric 2</classlevel>
+				<classlevel type="string">Cleric 3</classlevel>
 				<conbonus type="number">3</conbonus>
 				<constitution type="number">17</constitution>
 				<dexbonus type="number">0</dexbonus>
 				<dexterity type="number">11</dexterity>
 				<exp type="number">350</exp>
 				<expneeded type="number">0</expneeded>
-				<hd type="number">2</hd>
+				<hd type="number">3</hd>
 				<hdused type="number">0</hdused>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">21</hptotal>
+				<hptotal type="number">30</hptotal>
 				<intbonus type="number">0</intbonus>
 				<intelligence type="number">11</intelligence>
 				<link type="windowreference">
@@ -5583,17 +6843,17 @@
 				<ac type="number">14</ac>
 				<chabonus type="number">3</chabonus>
 				<charisma type="number">17</charisma>
-				<classlevel type="string">Rogue 2</classlevel>
+				<classlevel type="string">Rogue 3</classlevel>
 				<conbonus type="number">1</conbonus>
 				<constitution type="number">13</constitution>
 				<dexbonus type="number">3</dexbonus>
 				<dexterity type="number">17</dexterity>
 				<exp type="number">350</exp>
 				<expneeded type="number">0</expneeded>
-				<hd type="number">2</hd>
+				<hd type="number">3</hd>
 				<hdused type="number">0</hdused>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">18</hptotal>
+				<hptotal type="number">27</hptotal>
 				<intbonus type="number">1</intbonus>
 				<intelligence type="number">12</intelligence>
 				<link type="windowreference">
@@ -5617,17 +6877,17 @@
 				<ac type="number">14</ac>
 				<chabonus type="number">3</chabonus>
 				<charisma type="number">17</charisma>
-				<classlevel type="string">Bard 2</classlevel>
+				<classlevel type="string">Bard 3</classlevel>
 				<conbonus type="number">3</conbonus>
 				<constitution type="number">16</constitution>
 				<dexbonus type="number">3</dexbonus>
 				<dexterity type="number">16</dexterity>
-				<exp type="number">350</exp>
+				<exp type="number">900</exp>
 				<expneeded type="number">0</expneeded>
-				<hd type="number">2</hd>
+				<hd type="number">3</hd>
 				<hdused type="number">0</hdused>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">19</hptotal>
+				<hptotal type="number">27</hptotal>
 				<intbonus type="number">2</intbonus>
 				<intelligence type="number">14</intelligence>
 				<link type="windowreference">
@@ -5645,8 +6905,40 @@
 				<watchid type="number">0</watchid>
 				<wisbonus type="number">1</wisbonus>
 				<wisdom type="number">12</wisdom>
-				<wounds type="number">0</wounds>
+				<wounds type="number">9</wounds>
 			</id-00004>
+			<id-00005>
+				<public />
+				<ac type="number">16</ac>
+				<chabonus type="number">0</chabonus>
+				<charisma type="number">11</charisma>
+				<classlevel type="string">Fighter 3</classlevel>
+				<conbonus type="number">3</conbonus>
+				<constitution type="number">16</constitution>
+				<dexbonus type="number">2</dexbonus>
+				<dexterity type="number">15</dexterity>
+				<exp type="number">0</exp>
+				<expneeded type="number">0</expneeded>
+				<hd type="number">3</hd>
+				<hdused type="number">0</hdused>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">31</hptotal>
+				<intbonus type="number">1</intbonus>
+				<intelligence type="number">12</intelligence>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00005</recordname>
+				</link>
+				<name type="string">Ned Kelly</name>
+				<perception type="number">13</perception>
+				<race type="string">Human</race>
+				<strbonus type="number">4</strbonus>
+				<strength type="number">18</strength>
+				<token type="token">portrait_id-00005_token</token>
+				<wisbonus type="number">1</wisbonus>
+				<wisdom type="number">12</wisdom>
+				<wounds type="number">0</wounds>
+			</id-00005>
 		</partyinformation>
 		<quests>
 			<public />

@@ -22,5 +22,6 @@
 	</module>
 	<module name="DD PHB Deluxe">
 		<loaded />
+		<allow />
 	</module>
 </modulestate>
