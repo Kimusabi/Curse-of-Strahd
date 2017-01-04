@@ -4315,6 +4315,26 @@
 					<type type="string">Document</type>
 					<weight type="number">0</weight>
 				</id-00002>
+				<id-00003>
+					<holder name="Jason" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">2</carried>
+					<cost type="string">25 gp</cost>
+					<count type="number">1</count>
+					<damage type="string">1d8 piercing</damage>
+					<description type="formattedtext">
+						<p></p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
+					<locked type="number">1</locked>
+					<name type="string">Rapier</name>
+					<properties type="string">Finesse, Silvered</properties>
+					<subtype type="string">Martial Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">2</weight>
+				</id-00003>
 				<id-00004>
 					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
@@ -4542,26 +4562,6 @@
 					<type type="string">Treasure</type>
 					<weight type="number">0</weight>
 				</id-00020>
-				<id-00021>
-					<holder name="Jason" owner="true" />
-					<ac type="number">0</ac>
-					<bonus type="number">0</bonus>
-					<carried type="number">2</carried>
-					<cost type="string">25 gp</cost>
-					<count type="number">1</count>
-					<damage type="string">1d8 piercing</damage>
-					<description type="formattedtext">
-						<p></p>
-					</description>
-					<isidentified type="number">1</isidentified>
-					<istemplate type="number">0</istemplate>
-					<locked type="number">1</locked>
-					<name type="string">Rapier</name>
-					<properties type="string">Finesse, Silvered</properties>
-					<subtype type="string">Martial Weapons</subtype>
-					<type type="string">Weapon</type>
-					<weight type="number">2</weight>
-				</id-00021>
 			</inventorylist>
 			<languagelist>
 				<holder name="Jason" owner="true" />
@@ -4593,117 +4593,117 @@
 					<stat type="string">charisma</stat>
 					<uses type="number">0</uses>
 				</id-00001>
-				<id-00002>
-					<holder name="Jason" owner="true" />
-					<name type="string">Bard Abilities</name>
-				</id-00002>
-				<id-00004>
-					<holder name="Jason" owner="true" />
-					<atkmod type="number">0</atkmod>
-					<atkprof type="number">1</atkprof>
-					<name type="string">Tiefling Racial</name>
-					<prepared type="number">0</prepared>
-					<savemod type="number">0</savemod>
-					<saveprof type="number">1</saveprof>
-					<stat type="string">charisma</stat>
-					<uses type="number">1</uses>
-				</id-00004>
 			</powergroup>
 			<powermeta>
 				<holder name="Jason" owner="true" />
 				<pactmagicslots1>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots1>
 				<pactmagicslots2>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots2>
 				<pactmagicslots3>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots3>
 				<pactmagicslots4>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots4>
 				<pactmagicslots5>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots5>
 				<pactmagicslots6>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots6>
 				<pactmagicslots7>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots7>
 				<pactmagicslots8>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots8>
 				<pactmagicslots9>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots9>
 				<spellslots1>
 					<holder name="Jason" owner="true" />
 					<max type="number">4</max>
-					<used type="number">0</used>
+					<used type="number">1</used>
 				</spellslots1>
 				<spellslots2>
 					<holder name="Jason" owner="true" />
 					<max type="number">2</max>
-					<used type="number">0</used>
 				</spellslots2>
 				<spellslots3>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots3>
 				<spellslots4>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots4>
 				<spellslots5>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots5>
 				<spellslots6>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots6>
 				<spellslots7>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots7>
 				<spellslots8>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots8>
 				<spellslots9>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots9>
 			</powermeta>
+			<powermode type="string">preparation</powermode>
 			<powers>
 				<holder name="Jason" owner="true" />
+				<id-00001>
+					<holder name="Jason" owner="true" />
+					<actions>
+						<holder name="Jason" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V</components>
+					<description type="formattedtext">
+						<p>You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:</p>
+						<list>
+							<li>Your voice booms up to three times as loud as normal for 1 minute.</li>
+							<li>You cause flames to flicker, brighten, dim, or change color for 1 minute.</li>
+							<li>You cause harmless tremors in the ground for 1 minute.</li>
+							<li>You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</li>
+							<li>You instantaneously cause an unlocked door or window to fly open or slam shut.</li>
+							<li>You alter the appearance of your eyes for 1 minute.</li>
+						</list>
+						<p>If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.</p>
+					</description>
+					<duration type="string">Up to 1 minute</duration>
+					<group type="string">Spells</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Thaumaturgy</name>
+					<prepared type="number">0</prepared>
+					<range type="string">30 feet</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Transmutation</school>
+					<source type="string">Cleric</source>
+				</id-00001>
 				<id-00002>
 					<holder name="Jason" owner="true" />
 					<actions>
@@ -4767,31 +4767,9 @@
 					<name type="string">Minor Illusion</name>
 					<prepared type="number">0</prepared>
 					<range type="string">30 feet</range>
-					<ritual type="number">0</ritual>
 					<school type="string">Illusion</school>
 					<source type="string">Bard, Eldritch Knight, Monk, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
 				</id-00003>
-				<id-00004>
-					<holder name="Jason" owner="true" />
-					<actions>
-						<holder name="Jason" owner="true" />
-					</actions>
-					<cast type="number">0</cast>
-					<description type="formattedtext">
-						<p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.</p>
-						<p>Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw that it just made. The creature can wait until after it rolls the die for the ability check, attack roll, or saving throw, but before the DM says whether or not it succeeds or fails before deciding to use the Bardic Inspiration die. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</p>
-						<p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.</p>
-						<p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</p>
-					</description>
-					<group type="string">Bard Abilities</group>
-					<level type="number">0</level>
-					<locked type="number">1</locked>
-					<name type="string">Bardic Inspiration</name>
-					<prepared type="number">3</prepared>
-					<ritual type="number">0</ritual>
-					<source type="string">Bard</source>
-					<usesperiod type="string">enc</usesperiod>
-				</id-00004>
 				<id-00005>
 					<holder name="Jason" owner="true" />
 					<actions>
@@ -4971,44 +4949,11 @@
 					<holder name="Jason" owner="true" />
 					<actions>
 						<holder name="Jason" owner="true" />
-						<id-00001>
-							<holder name="Jason" owner="true" />
-							<onmissdamage type="string">half</onmissdamage>
-							<order type="number">1</order>
-							<savetype type="string">dexterity</savetype>
-							<type type="string">cast</type>
-						</id-00001>
-						<id-00002>
-							<holder name="Jason" owner="true" />
-							<damagelist>
-								<holder name="Jason" owner="true" />
-								<id-00001>
-									<holder name="Jason" owner="true" />
-									<bonus type="number">0</bonus>
-									<dice type="dice">d10,d10</dice>
-									<type type="string">fire</type>
-								</id-00001>
-							</damagelist>
-							<order type="number">2</order>
-							<type type="string">damage</type>
-						</id-00002>
 					</actions>
 					<cast type="number">0</cast>
-					<castingtime type="string">1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see</castingtime>
-					<components type="string">V, S</components>
-					<description type="formattedtext">
-						<p>You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.</p>
-						<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.</p>
-					</description>
-					<duration type="string">Instantaneous</duration>
-					<group type="string">Tiefling Racial</group>
-					<level type="number">1</level>
-					<locked type="number">1</locked>
-					<name type="string">Hellish Rebuke</name>
+					<level type="number">0</level>
+					<name type="string">Cutting Words</name>
 					<prepared type="number">0</prepared>
-					<range type="string">60 feet</range>
-					<school type="string">Evocation</school>
-					<source type="string">Warlock</source>
 				</id-00011>
 				<id-00012>
 					<holder name="Jason" owner="true" />
@@ -5096,36 +5041,25 @@
 					<school type="string">Transmutation</school>
 					<source type="string">Bard, Druid</source>
 				</id-00013>
+				<id-00014>
+					<holder name="Jason" owner="true" />
+					<actions>
+						<holder name="Jason" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<level type="number">0</level>
+					<name type="string">Helish rebuke</name>
+					<prepared type="number">3</prepared>
+				</id-00014>
 				<id-00015>
 					<holder name="Jason" owner="true" />
 					<actions>
 						<holder name="Jason" owner="true" />
 					</actions>
 					<cast type="number">0</cast>
-					<castingtime type="string">1 action</castingtime>
-					<components type="string">V</components>
-					<description type="formattedtext">
-						<p>You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:</p>
-						<list>
-							<li>Your voice booms up to three times as loud as normal for 1 minute.</li>
-							<li>You cause flames to flicker, brighten, dim, or change color for 1 minute.</li>
-							<li>You cause harmless tremors in the ground for 1 minute.</li>
-							<li>You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</li>
-							<li>You instantaneously cause an unlocked door or window to fly open or slam shut.</li>
-							<li>You alter the appearance of your eyes for 1 minute.</li>
-						</list>
-						<p>If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.</p>
-					</description>
-					<duration type="string">Up to 1 minute</duration>
-					<group type="string">Spells</group>
 					<level type="number">0</level>
-					<locked type="number">1</locked>
-					<name type="string">Thaumaturgy</name>
-					<prepared type="number">0</prepared>
-					<range type="string">30 feet</range>
-					<ritual type="number">0</ritual>
-					<school type="string">Transmutation</school>
-					<source type="string">Cleric</source>
+					<name type="string">Bardic Inspiration</name>
+					<prepared type="number">4</prepared>
 				</id-00015>
 			</powers>
 			<profbonus type="number">2</profbonus>
@@ -5312,6 +5246,9 @@
 			</speed>
 			<temp>
 				<holder name="Jason" owner="true" />
+				<item>
+					<holder name="Jason" owner="true" />
+				</item>
 			</temp>
 			<token type="token">portrait_id-00004_token</token>
 			<traitlist>
@@ -5341,8 +5278,6 @@
 				<holder name="Jason" owner="true" />
 				<critdicebonus>
 					<holder name="Jason" owner="true" />
-					<melee type="number">0</melee>
-					<ranged type="number">0</ranged>
 				</critdicebonus>
 				<critrange>
 					<holder name="Jason" owner="true" />
@@ -5352,6 +5287,32 @@
 			</weapon>
 			<weaponlist>
 				<holder name="Jason" owner="true" />
+				<id-00003>
+					<holder name="Jason" owner="true" />
+					<attackbonus type="number">0</attackbonus>
+					<attackstat type="string">dexterity</attackstat>
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="Jason" owner="true" />
+						<id-00001>
+							<holder name="Jason" owner="true" />
+							<bonus type="number">0</bonus>
+							<dice type="dice">d8</dice>
+							<stat type="string">dexterity</stat>
+							<type type="string">piercing</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Rapier</name>
+					<prof type="number">1</prof>
+					<properties type="string">Silvered</properties>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00003</recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00003>
 				<id-00004>
 					<holder name="Jason" owner="true" />
 					<attackbonus type="number">0</attackbonus>
@@ -5427,31 +5388,6 @@
 					</shortcut>
 					<type type="number">1</type>
 				</id-00006>
-				<id-00007>
-					<holder name="Jason" owner="true" />
-					<attackbonus type="number">0</attackbonus>
-					<attackstat type="string">dexterity</attackstat>
-					<carried type="number">2</carried>
-					<damagelist>
-						<holder name="Jason" owner="true" />
-						<id-00001>
-							<holder name="Jason" owner="true" />
-							<bonus type="number">0</bonus>
-							<dice type="dice">d8</dice>
-							<stat type="string">dexterity</stat>
-							<type type="string">piercing, silver</type>
-						</id-00001>
-					</damagelist>
-					<isidentified type="number">1</isidentified>
-					<maxammo type="number">0</maxammo>
-					<name type="string">Rapier</name>
-					<prof type="number">1</prof>
-					<shortcut type="windowreference">
-						<class>item</class>
-						<recordname>....inventorylist.id-00021</recordname>
-					</shortcut>
-					<type type="number">0</type>
-				</id-00007>
 			</weaponlist>
 		</id-00004>
 		<id-00005>
@@ -6410,7 +6346,7 @@
 		<public />
 		<list>
 			<public />
-			<id-00003>
+			<id-00001>
 				<public />
 				<abilities>
 					<public />
@@ -6448,20 +6384,20 @@
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
 					<public />
-					<id-00001>
+					<id-00003>
 						<public />
 						<duration type="number">0</duration>
-						<init type="number">0</init>
+						<init type="number">5</init>
 						<isactive type="number">1</isactive>
 						<isgmonly type="number">0</isgmonly>
 						<label type="string">AC: 3</label>
-					</id-00001>
+					</id-00003>
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">23</hptotal>
 				<init type="number">3</init>
-				<initresult type="number">0</initresult>
+				<initresult type="number">23</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -6491,6 +6427,166 @@
 					<public />
 				</targets>
 				<token type="token">portrait_id-00001_token</token>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">0</wounds>
+			</id-00001>
+			<id-00002>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<score type="number">17</score>
+					</charisma>
+					<constitution>
+						<public />
+						<score type="number">17</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<score type="number">11</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">11</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">11</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">17</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">13</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">30</hptotal>
+				<init type="number">0</init>
+				<initresult type="number">17</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00002</recordname>
+				</link>
+				<name type="string">Fjarnskaggl</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">25</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<targets>
+					<public />
+				</targets>
+				<token type="token">portrait_id-00002_token</token>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">0</wounds>
+			</id-00002>
+			<id-00003>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<score type="number">17</score>
+					</charisma>
+					<constitution>
+						<public />
+						<score type="number">13</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<score type="number">17</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">12</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">14</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">13</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">14</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">27</hptotal>
+				<init type="number">3</init>
+				<initresult type="number">21</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00003</recordname>
+				</link>
+				<name type="string">Fabio McSmallfeet</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">25</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<targets>
+					<public />
+				</targets>
+				<token type="token">portrait_id-00003_token</token>
 				<tokenscale type="number">1</tokenscale>
 				<tokenvis type="number">0</tokenvis>
 				<traits>
@@ -6578,161 +6674,7 @@
 				</traits>
 				<wounds type="number">9</wounds>
 			</id-00004>
-			<id-00005>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<score type="number">17</score>
-					</charisma>
-					<constitution>
-						<public />
-						<score type="number">17</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<score type="number">11</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<score type="number">11</score>
-					</intelligence>
-					<strength>
-						<public />
-						<score type="number">11</score>
-					</strength>
-					<wisdom>
-						<public />
-						<score type="number">17</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">13</ac>
-				<actions>
-					<public />
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">friend</friendfoe>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">30</hptotal>
-				<init type="number">0</init>
-				<initresult type="number">0</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>charsheet</class>
-					<recordname>charsheet.id-00002</recordname>
-				</link>
-				<name type="string">Fjarnskaggl</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<speed type="string">25</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Healthy</status>
-				<token type="token">portrait_id-00002_token</token>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">0</wounds>
-			</id-00005>
-			<id-00006>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<score type="number">17</score>
-					</charisma>
-					<constitution>
-						<public />
-						<score type="number">13</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<score type="number">17</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<score type="number">12</score>
-					</intelligence>
-					<strength>
-						<public />
-						<score type="number">14</score>
-					</strength>
-					<wisdom>
-						<public />
-						<score type="number">13</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">14</ac>
-				<actions>
-					<public />
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">friend</friendfoe>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">27</hptotal>
-				<init type="number">3</init>
-				<initresult type="number">0</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>charsheet</class>
-					<recordname>charsheet.id-00003</recordname>
-				</link>
-				<name type="string">Fabio McSmallfeet</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<speed type="string">25</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Healthy</status>
-				<token type="token">portrait_id-00003_token</token>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">0</wounds>
-			</id-00006>
-			<id-00007>
+			<id-00013>
 				<public />
 				<abilities>
 					<public />
@@ -6775,7 +6717,7 @@
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">31</hptotal>
 				<init type="number">2</init>
-				<initresult type="number">0</initresult>
+				<initresult type="number">19</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -6808,7 +6750,7 @@
 					<public />
 				</traits>
 				<wounds type="number">0</wounds>
-			</id-00007>
+			</id-00013>
 		</list>
 		<round type="number">0</round>
 	</combattracker>
@@ -6973,6 +6915,7 @@
 				<p>----------------------------------------------------------------------------------------------------</p>
 				<p></p>
 				<p>Players moved through the house B-lining for the attic.</p>
+				<p></p>
 				<p></p>
 			</text>
 		</id-00005>
