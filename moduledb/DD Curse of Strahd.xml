@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.2" release="7|CoreRPG:3" integrity="bb68c9109652706aac456416709181fe0d7bb8b3">
+<root version="3.2" release="7|CoreRPG:3" integrity="3ad94620e9cc458d1fa0b66abc1cb77e13d3e585">
 	<battle>
 		<category name="Curse of Strahd - Encounters" baseicon="8" decalicon="1">
 			<id-00025>
@@ -24,6 +24,626 @@
 			</id-00025>
 		</category>
 	</battle>
+	<encounter>
+		<category name="00. Curse of Strahd" baseicon="8" decalicon="1">
+		</category>
+		<category name="01. Chapter 1: Into the Mists" baseicon="8" decalicon="1">
+			<enc_01_02_03treasurelocations>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>The cards of the common deck determine the locations of the Tome of Strahd (card 1), the Holy Symbol of Ravenkind (card 2), and the Sunsword (card 3).</p>
+					<linklist>
+						<link class="item" recordname="item.id-00001@DD Curse of Strahd">Item: Tome of Strahd</link>
+						<link class="item" recordname="item.id-00005@DD Curse of Strahd">Item: Holy Symbol of Ravenkind</link>
+						<link class="item" recordname="item.id-00010@DD Curse of Strahd">Item: Sunsword</link>
+					</linklist>
+					<h>Swords (Spades)</h>
+					<p><b>1 of Swords - Avenger</b></p>
+					<frame>The treasure lies in a dragon's house, in hands once clean and now corrupted.</frame>
+					<p>The treasure is in the possession of Vladimir Horngaard in Argynvostholt (chapter 7, area Q36).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_07_03_q36_dragon_saudiencehall@DD Curse of Strahd">Q36. Dragon's Audience Hall</link>
+					</linklist>
+					<p><b>2 of Swords - Paladin</b></p>
+					<frame>I see a sleeping prince, a servant of light and the brother of darkness. The treasure lies with him.</frame>
+					<p>The treasure lies in Sergei's tomb (chapter 4, area K85).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k85_sergei_stomb@DD Curse of Strahd">K85. Sergei's Tomb</link>
+					</linklist>
+					<p><b>3 of Swords - Soldier</b></p>
+					<frame>Go to the mountains. Climb the white tower guarded by golden knights.</frame>
+					<p>The treasure lies on the rooftop of the Tsolenka Pass guard tower (chapter 9, area T6).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_09_01_t6_guardtowerrooftop@DD Curse of Strahd">T6. Guard Tower Rooftop</link>
+					</linklist>
+					<p><b>4 of Swords - Mercenary</b></p>
+					<frame>The thing you seek lies with the dead, under mountains of gold coins.</frame>
+					<p>The treasure lies in a crypt in Castle Ravenloft (chapter 4, area K84, crypt 31).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k84_31crypt31@DD Curse of Strahd">Crypt 31</link>
+					</linklist>
+					<p><b>5 of Swords - Myrmidon</b></p>
+					<frame>Look for a den of wolves in the hills overlooking a mountain lake. The treasure belongs to Mother Night.</frame>
+					<p>The treasure lies in the shrine of Mother Night in the werewolf den (chapter 15, area Z7).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_15_02_z7_shrineofmothernight@DD Curse of Strahd">Z7. Shrine of Mother Night</link>
+					</linklist>
+					<p><b>6 of Swords - Berserker</b></p>
+					<frame>Find the Mad Dog's crypt. The treasure lies within, beneath blackened bones.</frame>
+					<p>The treasure lies in the crypt of General Kroval &#34;Mad Dog&#34; Grislek (chapter 4, area K84, crypt 38).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k84_38crypt38@DD Curse of Strahd">Crypt 38</link>
+					</linklist>
+					<p><b>7 of Swords - Hooded One</b></p>
+					<frame>I see a faceless god. He awaits you at the end of a long and winding road, deep in the mountains.</frame>
+					<p>The treasure is inside the head of the giant statue in the Amber Temple (chapter 13, area X5a).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_13_01_x5a_godofsecrets@DD Curse of Strahd">X5a. God of Secrets</link>
+					</linklist>
+					<p><b>8 of Swords - Dictator</b></p>
+					<frame>I see a throne fit for a king.</frame>
+					<p>The treasure lies in Castle Ravenloft's audience hall (chapter 4, area K25).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_04_k25_audiencehall@DD Curse of Strahd">K25. Audience Hall</link>
+					</linklist>
+					<p><b>9 of Swords - Torturer</b></p>
+					<frame>There is a town where all is not well. There you will find a house of corruption, and within, a dark room full of still ghosts.</frame>
+					<p>The treasure is hidden in the attic of the burgomaster's mansion in Vallaki (chapter 5, area N3s).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_05_03_n3s_atticstorage@DD Curse of Strahd">N3s. Attic Storage</link>
+					</linklist>
+					<p><b>Master of Swords - Warrior</b></p>
+					<frame>That which you seek lies in the womb of darkness, the devil's lair: the one place to which he must return.</frame>
+					<p>The treasure lies in Strahd's tomb (chapter 4, area K86).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k86_strahd_stomb@DD Curse of Strahd">K86. Strahd's Tomb</link>
+					</linklist>
+					<h>Stars (Clubs)</h>
+					<p><b>1 of Stars - Transmuter</b></p>
+					<frame>Go to a place of dizzying heights, where the stone itself is alive!</frame>
+					<p>The treasure lies in Castle Ravenloft's north tower peak (chapter 4, area K60).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_06_k60_northtowerpeak@DD Curse of Strahd">K60. North Tower Peak</link>
+					</linklist>
+					<p><b>2 of Stars - Diviner</b></p>
+					<frame>Look to the one who sees all. The treasure is hidden in her camp.</frame>
+					<p>The treasure lies in Madam Eva's encampment (chapter 2, area G). If she is the one performing the card reading, she says, &#34;I think the treasure is under my very nose!&#34;</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_02_06_g_tserpoolencampment@DD Curse of Strahd">G. Tser Pool Encampment</link>
+					</linklist>
+					<p><b>3 of Stars - Enchanter</b></p>
+					<frame>I see a kneeling woman - a rose of great beauty plucked too soon. The master of the marsh knows of whom I speak.</frame>
+					<p>The treasure lies under Marina's monument in Berez (chapter 10, area U5). &#34;The master of the marsh&#34; refers to Burgomaster Lazlo Ulrich (area U2), whose ghost can point characters toward the monument.</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_10_02_u5_marina_smonument@DD Curse of Strahd">U5. Marina's Monument</link>
+					</linklist>
+					<p><b>4 of Stars - Abjurer</b></p>
+					<frame>I see a fallen house guarded by a great stone dragon. Look to the highest peak.</frame>
+					<p>The treasure lies in the beacon of Argynvostholt (chapter 7, area Q53). &#34;Great stone dragon&#34; refers to the statue in area Q1.</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_07_03_q53_beaconofargynvostholt@DD Curse of Strahd">Q53. Beacon of Argynvostholt</link>
+					</linklist>
+					<p><b>5 of Stars - Elementalist</b></p>
+					<frame>The treasure is hidden in a small castle beneath a mountain, guarded by amber giants.</frame>
+					<p>The treasure is inside a model of Castle Ravenloft in the Amber Temple (chapter 13, area X20).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_13_01_x20_architect_sroom@DD Curse of Strahd">X20. Architect's Room</link>
+					</linklist>
+					<p><b>6 of Stars - Evoker</b></p>
+					<frame>Search for the crypt of a wizard ordinaire. His staff is the key.</frame>
+					<p>The treasure is hidden in the crypt of Gralmore Nimblenobs (chapter 4, area K84, crypt 37).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k84_37crypt37@DD Curse of Strahd">Crypt 37</link>
+					</linklist>
+					<p><b>7 of Stars - Illusionist</b></p>
+					<frame>A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek.</frame>
+					<p>The treasure lies in Rictavio's carnival wagon (chapter 5, area N5).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_05_03_n5_arasekstockyard@DD Curse of Strahd">N5. Arasek Stockyard</link>
+					</linklist>
+					<p><b>8 of Stars - Necromancer</b></p>
+					<frame>A woman hangs above a roaring fire. Find her, and you will find the treasure.</frame>
+					<p>The treasure lies in Castle Ravenloft's study (chapter 4, area K37).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_05_k37_study@DD Curse of Strahd">K37. Study</link>
+					</linklist>
+					<p><b>9 of Stars - Conjurer</b></p>
+					<frame>I see a dead village, drowned by a river, ruled by one who has brought great evil into the world.</frame>
+					<p>The treasure is in Baba Lysaga's hut (chapter 10, area U3).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_10_02_u3_babalysaga_shut@DD Curse of Strahd">U3. Baba Lysaga's Hut</link>
+					</linklist>
+					<p><b>Master of Stars - Wizard</b></p>
+					<frame>Look for a wizard's tower on a lake. Let the wizard's name and servant guide you to that which you seek.</frame>
+					<p>The treasure lies on the top floor of Van Richten's Tower (chapter 11, area V7).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_11_02_v7_tower_fourthfloor@DD Curse of Strahd">V7. Tower, Fourth Floor</link>
+					</linklist>
+					<h>Coins (Diamonds)</h>
+					<p><b>1 of Coins - Swashbuckler</b></p>
+					<frame>I see the skeleton of a deadly warrior, lying on a bed of stone flanked by gargoyles.</frame>
+					<p>The treasure lies in the crypt of Endorovich (chapter 4, area K84, crypt 7).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k84_07crypt7@DD Curse of Strahd">Crypt 7</link>
+					</linklist>
+					<p><b>2 of Coins - Philanthropist</b></p>
+					<frame>Look to a place where sickness and madness are bred. Where children once cried, the treasure lies still.</frame>
+					<p>The treasure is in the nursery of the Abbey of Saint Markovia (chapter 8, area S23).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_08_02_s23_nursery@DD Curse of Strahd">S23. Nursery</link>
+					</linklist>
+					<p><b>3 of Coins - Trader</b></p>
+					<frame>Look to the wizard of wines! In wood and sand the treasure hides.</frame>
+					<p>The treasure lies in the glassblower's workshop in the Wizard of Wines winery (chapter 12, area W10).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_12_03_w10_glassblower_sworkshop@DD Curse of Strahd">W10. Glassblower's Workshop</link>
+					</linklist>
+					<p><b>4 of Coins - Merchant</b></p>
+					<frame>Seek a cask that once contained the finest wine, of which not a drop remains.</frame>
+					<p>The treasure lies in Castle Ravenloft's wine cellar (chapter 4, area K63).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_07_k63_winecellar@DD Curse of Strahd">K63. Wine Cellar</link>
+					</linklist>
+					<p><b>5 of Coins - Guild Member</b></p>
+					<frame>I see a dark room full of bottles. It is the tomb of a guild member.</frame>
+					<p>The treasure lies in the crypt of Artank Swilovich (chapter 4, area K84, crypt 5).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k84_05crypt5@DD Curse of Strahd">Crypt 5</link>
+					</linklist>
+					<p><b>6 of Coins - Beggar</b></p>
+					<frame>A wounded elf has what you seek. He will part with the treasure to see his dark dreams fulfilled.</frame>
+					<p>The treasure is hidden in Kasimir's hovel (chapter 5, area N9a).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_05_03_n9a_kasimir_shovel@DD Curse of Strahd">N9a. Kasimir's Hovel</link>
+					</linklist>
+					<p><b>7 of Coins - Thief</b></p>
+					<frame>What you seek lies at the crossroads of life and death, among the buried dead.</frame>
+					<p>The treasure is buried in the graveyard at the River Ivlis crossroads (chapter 2, area F).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_02_06_f_riverivliscrossroads@DD Curse of Strahd">F. River Ivlis Crossroads</link>
+					</linklist>
+					<p><b>8 of Coins - Tax Collector</b></p>
+					<frame>The Vistani have what you seek. A missing child holds the key to the treasure's release.</frame>
+					<p>The treasure is hidden in the Vistani treasure wagon (chapter 5, area N9i). &#34;A missing child&#34; refers to Arabelle (see chapter 2, area L).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_05_03_n9i_vistanitreasurewagon@DD Curse of Strahd">N9i. Vistani Treasure Wagon</link>
+					</linklist>
+					<p><b>9 of Coins - Miser</b></p>
+					<frame>Look for a fortress inside a fortress, in a place hidden behind fire.</frame>
+					<p>The treasure lies in Castle Ravenloft's treasury (chapter 4, area K41).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_05_k41_treasury@DD Curse of Strahd">K41. Treasury</link>
+					</linklist>
+					<p><b>Master of Coins - Rogue</b></p>
+					<frame>I see a nest of ravens. There you will find the prize.</frame>
+					<p>The treasure is hidden in the attic of the Blue Water Inn (chapter 5, area N2q).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_05_03_n2q_secretattic@DD Curse of Strahd">N2q. Secret Attic</link>
+					</linklist>
+					<h>Glyphs (Hearts)</h>
+					<p><b>1 of Glyphs - Monk</b></p>
+					<frame>The treasure you seek is hidden behind the sun, in the house of a saint.</frame>
+					<p>The treasure lies in the main hall of the Abbey of Saint Markovia (chapter 8, area S13).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_08_02_s13_mainhall@DD Curse of Strahd">S13. Main Hall</link>
+					</linklist>
+					<p><b>2 of Glyphs - Missionary</b></p>
+					<frame>I see a garden dusted with snow, watched over by a scarecrow with a sackcloth grin. Look not to the garden but to the guardian.</frame>
+					<p>The treasure is hidden inside one of the scarecrows in the garden of the Abbey of Saint Markovia (chapter 8, area S9).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_08_02_s9_gardens@DD Curse of Strahd">S9. Gardens</link>
+					</linklist>
+					<p><b>3 of Glyphs - Healer</b></p>
+					<frame>Look to the west. Find a pool blessed by the light of the white sun.</frame>
+					<p>The treasure lies beneath the gazebo in the Shrine of the White Sun (chapter 8, area S4).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_08_01_s4_poolandshrine@DD Curse of Strahd">S4. Pool and Shrine</link>
+					</linklist>
+					<p><b>4 of Glyphs - Shepherd</b></p>
+					<frame>Find the mother - she who gave birth to evil.</frame>
+					<p>The treasure lies in the tomb of King Barov and Queen Ravenovia (chapter 4, area K88).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k88_tombofkingbarovandqueenravenovia@DD Curse of Strahd">K88. Tomb of King Barov and Queen Ravenovia</link>
+					</linklist>
+					<p><b>5 of Glyphs - Druid</b></p>
+					<frame>An evil tree grows atop a hill of graves where the ancient dead sleep. The ravens can help you find it. Look for the treasure there.</frame>
+					<p>The treasure lies at the base of the Gulthias tree (chapter 14, area Y4). Any wereraven encountered in the wilderness can lead the characters to the location.</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_14_01_y4_gulthiastree@DD Curse of Strahd">Y4. Gulthias Tree</link>
+					</linklist>
+					<p><b>6 of Glyphs - Anarchist</b></p>
+					<frame>I see walls of bones, a chandelier of bones, and a table of bones - all that remains of enemies long forgotten.</frame>
+					<p>The treasure lies in Castle Ravenloft's hall of bones (chapter 4, area K67).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_07_k67_hallofbones@DD Curse of Strahd">K67. Hall of Bones</link>
+					</linklist>
+					<p><b>7 of Glyphs - Charlatan</b></p>
+					<frame>I see a lonely mill on a precipice. The treasure lies within.</frame>
+					<p>The treasure lies in the attic of Old Bonegrinder (chapter 6, area O4).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_06_02_o4_domedattic@DD Curse of Strahd">O4. Domed Attic</link>
+					</linklist>
+					<p><b>8 of Glyphs - Bishop</b></p>
+					<frame>What you seek lies in a pile of treasure, beyond a set of amber doors.</frame>
+					<p>The treasure lies in the sealed treasury of the Amber Temple (chapter 13, area X40).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_13_01_x40_sealedtreasury@DD Curse of Strahd">X40. Sealed Treasury</link>
+					</linklist>
+					<p><b>9 of Glyphs - Traitor</b></p>
+					<frame>Look for a wealthy woman. A staunch ally of the devil, she keeps the treasure under lock and key, with the bones of an ancient enemy.</frame>
+					<p>The treasure is hidden in the master bedroom of Wachterhaus (chapter 5, area N4o).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_05_03_n4o_masterbedroom@DD Curse of Strahd">N4o. Master Bedroom</link>
+					</linklist>
+					<p><b>Master of Glyphs - Priest</b></p>
+					<frame>You will find what you seek in the castle, amid the ruins of a place of supplication.</frame>
+					<p>The treasure lies in Castle Ravenloft's chapel (chapter 4, area K15).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_03_k15_chapel@DD Curse of Strahd">K15. Chapel</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_01_00chapter1introduction@DD Curse of Strahd">Up - Chapter 1</link>
+						<link class="encounter" recordname="encounter.enc_01_02_00fortunesofravenloft@DD Curse of Strahd">Up - Fortunes of Ravenloft</link>
+						<link class="encounter" recordname="encounter.enc_01_02_02cardreading@DD Curse of Strahd">Prev - Card Reading</link>
+						<link class="encounter" recordname="encounter.enc_01_02_04strahd_senemy@DD Curse of Strahd">Next - Strahd's Enemy</link>
+					</linklist>
+				</text>
+			</enc_01_02_03treasurelocations>
+			<enc_01_02_04strahd_senemy>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>Drawn from the high deck, the fourth card in the card reading determines the location of an NPC who can improve the characters' chances of defeating Strahd. (Some cards offer two possible results, A and B; in such a case, you can pick the one you prefer or that better suits the circumstances of the adventure.)</p>
+					<p>Strahd senses that this NPC is a danger to him and tries to eliminate the threat as quickly as possible. This NPC, whoever it ends up being, gains the following additional action:</p>
+					<p><b>Inspire. </b>While within sight of Strahd, this character grants inspiration to one player character he or she can see.</p>
+					<p>Each of the NPCs described in this section has a role to play in the adventure, even if that individual isn't indicated in the card reading. For the one so designated, however, the information in this section regarding the NPC's behavior takes precedence over whatever is said elsewhere in these pages; that NPC is extraordinary.</p>
+					<p><b>Artifact (Joker 1)</b></p>
+					<frame>Look for an entertaining man with a monkey. This man is more than he seems.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.rictavio@DD Curse of Strahd">NPC: Rictavio</link>
+					</linklist>
+					<p>This card refers to Rictavio (see appendix D), who can be found at the Blue Water Inn in Vallaki (chapter 5, area N2). Normally reluctant to accompany the characters, Rictavio changes his tune if the characters tell him about the card reading. He sheds his disguise and introduces himself as Dr. Rudolph van Richten.</p>
+					<p>The characters might think that Gadof Blinsky, the toymaker of Vallaki (area N7), is the figure they seek, because he has a pet monkey. If they speak to him about this possibility, Blinsky jokes that he and the monkey are &#34;old friends,&#34; but if the characters ask him to come with them to fight Strahd, he politely declines. If the characters tell him about the tarokka reading, Blinsky admits that he acquired the monkey from a half-elf carnival ringmaster named Rictavio.</p>
+					<p><b>Beast (Jack of Diamonds)</b></p>
+					<frame>A werewolf holds a secret hatred for your enemy. Use her hatred to your advantage.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00162@DD Curse of Strahd">NPC: Zuleika Toranescu</link>
+					</linklist>
+					<p>This card refers to the werewolf Zuleika Toranescu (see chapter 15, area Z7). She will accompany the characters if they promise to avenge her mate, Emil, by killing the leader of her pack, Kiril Stoyanovich.</p>
+					<p><b>A. Broken One (King of Diamonds)</b></p>
+					<frame>Your greatest ally will be a wizard. His mind is broken, but his spells are strong.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00105@DD Curse of Strahd">NPC: Mad Mage of Mount Baratok</link>
+					</linklist>
+					<p>This card refers to the Mad Mage of Mount Baratok (see chapter 2, area M).</p>
+					<p><b>B. Broken One (King of Diamonds)</b></p>
+					<frame>I see a man of faith whose sanity hangs by a thread. He has lost someone close to him.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00013@DD Curse of Strahd">NPC: Donavich</link>
+					</linklist>
+					<p>This card refers to Donavich, the priest in the village of Barovia (see chapter 3, area E5). He will not accompany the characters until his son, Doru, is dead and buried.</p>
+					<p><b>Darklord (King of Spades)</b></p>
+					<frame>Ah, the worst of all truths: You must face the evil of this land alone!</frame>
+					<p>There is no NPC who can inspire the characters.</p>
+					<p><b>A. Donjon (King of Clubs)</b></p>
+					<frame>Search for a troubled young man surrounded by wealth and madness. His home is his prison.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00168@DD Curse of Strahd">NPC: Victor Vallakovich</link>
+					</linklist>
+					<p>This card refers to Victor Vallakovich (see chapter 5, area N3t). Realizing that the characters are the key to his salvation, he enthusiastically leaves home and accompanies them to Castle Ravenloft.</p>
+					<p><b>B. Donjon (King of Clubs)</b></p>
+					<frame>Find a girl driven to insanity, locked in the heart of her dead father's house. Curing her madness is key to your success.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00169@DD Curse of Strahd">NPC: Stella Wachter</link>
+					</linklist>
+					<p>This card refers to Stella Wachter (see chapter 5, area N4n). She grants the party no benefit unless her madness is cured. With her wits restored, Stella is happy to join the party and leave her rotten family behind.</p>
+					<p><b>Seer (Jack of Clubs)</b></p>
+					<frame>Look for a dusk elf living among the Vistani. He has suffered a great loss and is haunted by dark dreams. Help him, and he will help you in return.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00117@DD Curse of Strahd">NPC: Kasimir Velikov</link>
+					</linklist>
+					<p>This card refers to Kasimir Velikov (see chapter 5, area N9a). The dusk elf accompanies the characters to Castle Ravenloft only after they lead him to the Amber Temple and help him find the means to resurrect his dead sister, Patrina Velikovna.</p>
+					<p><b>A. Ghost (King of Hearts)</b></p>
+					<frame>I see a fallen paladin of a fallen order of knights. He lingers like a ghost in a dead dragon's lair.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00074@DD Curse of Strahd">NPC: Sir Godfrey Gwilym</link>
+					</linklist>
+					<p>This card refers to the revenant Sir Godfrey Gwilym (see chapter 7, area Q37). Although initially unwilling to accompany the characters, he will do so if the characters convince him that the honor of the Order of the Silver Dragon can be restored with his help. Doing this requires a successful DC 15 Charisma (Persuasion) check.</p>
+					<p><b>B. Ghost (King of Hearts)</b></p>
+					<frame>Stir the spirit of the clumsy knight whose crypt lies deep within the castle.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00114@DD Curse of Strahd">NPC: Sir Klutz Tripalotsky</link>
+					</linklist>
+					<p>This card refers to Sir Klutz the phantom warrior (see chapter 4, area K84, crypt 33). If Sir Klutz is Strahd's enemy, then the phantom warrior disappears not after seven days, but only after he or Strahd is reduced to 0 hit points.</p>
+					<p><b>Executioner (Jack of Spades)</b></p>
+					<frame>Seek out the brother of the devil's bride. They call him &#34;the lesser,&#34; but he has a powerful soul.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00001@DD Curse of Strahd">NPC: Ismark the Lesser</link>
+					</linklist>
+					<p>This card refers to Ismark Kolyanovich (see chapter 3, area E2). Ismark won't accompany the characters to Castle Ravenloft until he knows that his sister, Ireena Kolyana, is safe.</p>
+					<p><b>A. Horseman (Joker 2)</b></p>
+					<frame>I see a dead man of noble birth, guarded by his widow. Return life to the dead man's corpse, and he will be your staunch ally.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00170@DD Curse of Strahd">NPC: Nikolai Wachter</link>
+					</linklist>
+					<p>This card refers to Nikolai Wachter the elder, who is dead (see chapter 5, area N4o). If the characters cast a <i>raise dead </i>spell or a <i>resurrection </i>spell on his preserved corpse, Nikolai (LN male human <b>noble </b>) agrees to help the characters once he feels well enough, despite his wife's protests. Although his family has long supported Strahd, Nikolai came to realize toward the end of his life that Strahd must be destroyed to save Barovia.</p>
+					<p>If the characters don't have the means to raise Nikolai from the dead, Rictavio (see appendix D) gives them a <i>spell scroll </i>of <i>raise dead </i>if he learns of their need. If they're staying at the Blue Water Inn, he leaves the scroll in one of their rooms.</p>
+					<p><b>B. Horseman (Joker 2)</b></p>
+					<frame>A man of death named Arrigal will forsake his dark lord to serve your cause. Beware! He has a rotten soul.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00136@DD Curse of Strahd">NPC: Arrigal</link>
+					</linklist>
+					<p>This card refers to the Vistani assassin Arrigal (see chapter 5, area N9c). If the characters mention this card reading to him, he accepts his fate and accompanies them. If the characters succeed in defeating Strahd, Arrigal betrays and attacks them, believing that he is destined to become Barovia's new lord.</p>
+					<p><b>A. Innocent (Queen of Hearts)</b></p>
+					<frame>I see a young man with a kind heart. A mother's boy! He is strong in body but weak of mind. Seek him out in the village of Barovia.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00171@DD Curse of Strahd">NPC: Parriwimple</link>
+					</linklist>
+					<p>This card refers to Parriwimple (see chapter 3, area E1). Although he's a simpleton, he won't travel to Castle Ravenloft without good cause. Characters can manipulate him into going by preying on his good heart. For instance, he might go there to help rescue missing Barovians, or to save the life of Ireena Kolyana, who is very beautiful. The characters must somehow deal with Bildrath, Parriwimple's employer, who won't let the foolish boy go to the castle for any reason.</p>
+					<p><b>B. Innocent (Queen of Hearts)</b></p>
+					<frame>Evil's bride is the one you seek!</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00009@DD Curse of Strahd">NPC: Ireena Kolyana</link>
+					</linklist>
+					<p>This card refers to Ireena Kolyana (see chapter 3, area E4). Her brother, Ismark, opposes the idea of Ireena's being taken to Castle Ravenloft, but she insists on going there once the characters tell her about the card reading. Ireena won't accompany the characters, however, until Kolyan Indirovich's body is laid to rest in the cemetery.</p>
+					<p><b>A. Marionette (Jack of Hearts)</b></p>
+					<frame>What horror is this? I see a man made by a man. Ageless and alone, it haunts the towers of the castle.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.pidlwickii@DD Curse of Strahd">NPC: Pidlwick II</link>
+					</linklist>
+					<p>This card refers to Pidlwick II (see chapter 4, area K59, as well as appendix D).</p>
+					<p><b>B. Marionette (Jack of Hearts)</b></p>
+					<frame>Look for a man of music, a man with two heads. He lives in a place of great hunger and sorrow.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00146@DD Curse of Strahd">NPC: Clovin Belview</link>
+					</linklist>
+					<p>This card refers to Clovin Belview (see chapter 8, area S17), the two-headed mongrelfolk. Clovin serves the Abbot out of fear and a perverse sense of loyalty. His job is to deliver food to the other mongrelfolk, whom he abhors. If the Abbot still lives, Clovin doesn't want to earn his master's ire by attempting to leave, and he refuses to accompany the characters. But if the Abbot dies, Clovin doesn't have any reason to remain in the abbey, so he's willing to come along if he is bribed with wine. Clovin provides no benefit to the party without his viol.</p>
+					<p><b>Mists (Queen of Spades)</b></p>
+					<frame>A Vistana wanders this land alone, searching for her mentor. She does not stay in one place for long. Seek her out at Saint Markovia's abbey, near the mists.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.ezmereldad_avenir@DD Curse of Strahd">NPC: Ezmerelda d'Avenir</link>
+					</linklist>
+					<p>This card refers to Ezmerelda d'Avenir (see appendix D). She can be found in the Abbey of Saint Markovia (see chapter 8, area S19), as well as several other locations throughout Barovia.</p>
+					<p><b>Raven (Queen of Clubs)</b></p>
+					<frame>Find the leader of the feathered ones who live among the vines. Though old, he has one more fight left in him.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00152@DD Curse of Strahd">NPC: Davian Martikov</link>
+					</linklist>
+					<p>This card refers to Davian Martikov (see chapter 12, &#34;The Wizard of Wines&#34;). The old wereraven, realizing that he has a chance to end Strahd's tyranny, leaves his vineyard and winery in the capable hands of his sons, Adrian and Elvir. But before he travels to Castle Ravenloft to face Strahd, Davian insists on reconciling with his third son, Urwin Martikov (see chapter 5, area N2).</p>
+					<p><b>A. Tempter (Queen of Diamonds)</b></p>
+					<frame>I see a child - a Vistana. You must hurry, for her fate hangs in the balance. Find her at the lake!</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00172@DD Curse of Strahd">NPC: Arabelle</link>
+					</linklist>
+					<p>This card refers to Arabelle (see chapter 2, area L). She gladly joins the party. But if she returns to her camp (chapter 5, area N9), her father, Luvash, refuses to let her leave.</p>
+					<p><b>B. Tempter (Queen of Diamonds)</b></p>
+					<frame>I hear a wedding bell, or perhaps a death knell. It calls thee to a mountainside abbey, wherein you will find a woman who is more than the sum of her parts.</frame>
+					<linklist>
+						<link class="npc" recordname="npc.id-00173@DD Curse of Strahd">NPC: Vasilka</link>
+					</linklist>
+					<p>This card refers to Vasilka the flesh golem (see chapter 8, area S13).</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_01_00chapter1introduction@DD Curse of Strahd">Up - Chapter 1</link>
+						<link class="encounter" recordname="encounter.enc_01_02_00fortunesofravenloft@DD Curse of Strahd">Up - Fortunes of Ravenloft</link>
+						<link class="encounter" recordname="encounter.enc_01_02_03treasurelocations@DD Curse of Strahd">Prev - Treasure Locations</link>
+						<link class="encounter" recordname="encounter.enc_01_02_05strahd_slocationinthecastle@DD Curse of Strahd">Next - Strahd's Location in the Castle</link>
+					</linklist>
+				</text>
+			</enc_01_02_04strahd_senemy>
+			<enc_01_02_05strahd_slocationinthecastle>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>Drawn from the high deck, the fifth card in the card reading determines the location of the final showdown with Strahd - the place in Castle Ravenloft where the characters are sure to find him. The first time the characters arrive at the foretold location, Strahd is there, provided he hasn't been forced back into his coffin.</p>
+					<p><b>Artifact (Joker 1)</b></p>
+					<frame>He lurks in the darkness where the morning light once shone - a sacred place.</frame>
+					<p>Strahd faces the characters in the chapel (area K15).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_03_k15_chapel@DD Curse of Strahd">K15. Chapel</link>
+					</linklist>
+					<p><b>Beast (Jack of Diamonds)</b></p>
+					<frame>The beast sits on his dark throne.</frame>
+					<p>Strahd faces the characters in the audience hall (area K25).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_04_k25_audiencehall@DD Curse of Strahd">K25. Audience Hall</link>
+					</linklist>
+					<p><b>Broken One (King of Diamonds)</b></p>
+					<frame>He haunts the tomb of the man he envied above all.</frame>
+					<p>Strahd faces the characters in Sergei's tomb (area K85).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k85_sergei_stomb@DD Curse of Strahd">K85. Sergei's Tomb</link>
+					</linklist>
+					<p><b>Darklord (King of Spades)</b></p>
+					<frame>He lurks in the depths of darkness, in the one place to which he must return.</frame>
+					<p>Strahd faces the characters in his tomb (area K86).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k86_strahd_stomb@DD Curse of Strahd">K86. Strahd's Tomb</link>
+					</linklist>
+					<p><b>Donjon (King of Clubs)</b></p>
+					<frame>He lurks in a hall of bones, in the dark pits of his castle.</frame>
+					<p>Strahd faces the characters in the hall of bones (area K67).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_07_k67_hallofbones@DD Curse of Strahd">K67. Hall of Bones</link>
+					</linklist>
+					<p><b>Seer (Jack of Clubs)</b></p>
+					<frame>He waits for you in a place of wisdom, warmth, and despair. Great secrets are there.</frame>
+					<p>Strahd faces the characters in the study (area K37).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_05_k37_study@DD Curse of Strahd">K37. Study</link>
+					</linklist>
+					<p><b>Ghost (King of Hearts)</b></p>
+					<frame>Look to the father's tomb.</frame>
+					<p>Strahd faces the characters in the tomb of King Barov and Queen Ravenovia (area K88).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k88_tombofkingbarovandqueenravenovia@DD Curse of Strahd">K88. Tomb of King Barov and Queen Ravenovia</link>
+					</linklist>
+					<p><b>Executioner (Jack of Spades)</b></p>
+					<frame>I see a dark figure on a balcony, looking down upon this tortured land with a twisted smile.</frame>
+					<p>Strahd faces the characters at the overlook (area K6).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_02_k6_overlook@DD Curse of Strahd">K6. Overlook</link>
+					</linklist>
+					<p><b>Horseman (Joker 2)</b></p>
+					<frame>He lurks in the one place to which he must return - a place of death.</frame>
+					<p>Strahd faces the characters in his tomb (area K86).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k86_strahd_stomb@DD Curse of Strahd">K86. Strahd's Tomb</link>
+					</linklist>
+					<p><b>Innocent (Queen of Hearts)</b></p>
+					<frame>He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.</frame>
+					<p>Strahd faces the characters in Sergei's tomb (area K85).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k85_sergei_stomb@DD Curse of Strahd">K85. Sergei's Tomb</link>
+					</linklist>
+					<p><b>Marionette (Jack of Hearts)</b></p>
+					<frame>Look to great heights. Find the beating heart of the castle. He waits nearby.</frame>
+					<p>Strahd faces the characters in the north tower peak (area K60).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_06_k60_northtowerpeak@DD Curse of Strahd">K60. North Tower Peak</link>
+					</linklist>
+					<p><b>Mists (Queen of Spades)</b></p>
+					<frame>The cards can't see where the evil lurks. The mists obscure all!</frame>
+					<p>The card offers no clue about where the final showdown with Strahd will occur. It can happen anywhere you like in Castle Ravenloft. Alternatively, Madam Eva tells the characters to return to her after at least three days, and she will consult the cards again for them, but only to discern the location of their enemy.</p>
+					<p><b>Raven (Queen of Clubs)</b></p>
+					<frame>Look to the mother's tomb.</frame>
+					<p>Strahd faces the characters in the tomb of King Barov and Queen Ravenovia (area K88).</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_08_k88_tombofkingbarovandqueenravenovia@DD Curse of Strahd">K88. Tomb of King Barov and Queen Ravenovia</link>
+					</linklist>
+					<p><b>Tempter (Queen of Diamonds)</b></p>
+					<frame>I see a secret place - a vault of temptation hidden behind a woman of great beauty. The evil waits atop his tower of treasure.</frame>
+					<p>Strahd confronts the characters in the treasury (area K41). &#34;A woman of great beauty&#34; refers to the portrait of Tatyana hanging in the castle's study (area K37), which contains a secret door that leads to the treasury.</p>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_04_05_k41_treasury@DD Curse of Strahd">K41. Treasury</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_01_00chapter1introduction@DD Curse of Strahd">Up - Chapter 1</link>
+						<link class="encounter" recordname="encounter.enc_01_02_00fortunesofravenloft@DD Curse of Strahd">Up - Fortunes of Ravenloft</link>
+						<link class="encounter" recordname="encounter.enc_01_02_04strahd_senemy@DD Curse of Strahd">Prev - Strahd's Enemy</link>
+					</linklist>
+				</text>
+			</enc_01_02_05strahd_slocationinthecastle>
+		</category>
+		<category name="02. Chapter 2: The Lands of Barovia" baseicon="8" decalicon="1">
+			<enc_02_03barovians>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00031@DD Curse of Strahd">Portrait: Barovians</link>
+					</linklist>
+					<p>After his armies occupied the valley and slew its inhabitants, Strahd repopulated the area with human subjects drawn from his other conquered lands. As a result, Barovians have a wide variety of ethnic backgrounds.</p>
+					<p>Barovians are deeply invested in their homes and their traditions. They are wary of strange peoples and customs. The way Barovians deal with strangers can be unsettling to those newcomers. Barovians have a tendency to stare openly, in silence, thereby expressing their disapproval of anything that isn't familiar to them. Barovians aren't talkative with strangers, to the extent of being pointedly rude. Most Barovians have violent tempers that boil up through their customary silence when they are provoked. They also have a social cohesiveness (thrust upon them by their weird circumstances) that can make them act together against outsiders if a Barovian is mistreated.</p>
+					<p>Barovians were a happy people once, but their history and current conditions aren't pleasant. If one manages to win the trust of a Barovian, one has a friend for life and a stalwart ally.</p>
+					<p>Barovian children aren't happy children. They are raised in a culture of fear and told time and again not to wander too far from their homes or enter the woods. They experience little hope or joy, and they are taught to fear the devil Strahd above all.</p>
+					<p>Barovian adults eke out modest livings. With no new wealth pouring into the valley, they trade in old coins that bear the profile of their dark lord, Strahd, as he looked when he was alive. They hide their precious baubles in their houses and dress plainly outdoors, so as not to attract the attention of Strahd or his spies.</p>
+					<p>Barovians live within a closed ecosystem. Every Barovian adult is expected to learn a trade or serve a function. Barovians stitch their own clothing, craft their own furniture, grow their own food, and make their own wine. With fewer than three thousand people living in the entire valley, finding the perfect mate isn't easy, so Barovians have learned to settle for what they can get.</p>
+					<h>Souls and Shells</h>
+					<p>Barovians are made of flesh and blood. They are born, they live, they age, and they die. But not all of them - only about one in every ten - have souls.</p>
+					<p>When a being with a soul dies in Barovia, that soul remains trapped in Strahd's domain until it is reincarnated in a newborn. It can take decades for a bodiless soul to find a host, and Barovians who share the same soul over generations tend to look alike. That is why Ireena Kolyana looks exactly like Strahd's beloved Tatyana - both women were born with the same soul.</p>
+					<p>Strahd needs loyal subjects to feed his ego. Barovians without souls are empty shells created by his consciousness to fill out the local population. Although they are physically indistinguishable from Barovians with souls, they tend to be bereft of charm and imagination and to be more compliant and depressed than the others. They dress in drab clothing, whereas Barovians who have souls wear clothes with a splash of color or individuality.</p>
+					<p>A Barovian woman, soulless or not, can give birth. A child born in Barovia might have a soul even if one or both parents do not. Conversely, the child of two parents with souls isn't certain to have a soul of its own. Barovians without souls are maudlin folk who experience fear but neither laugh nor cry.</p>
+					<p>Ireena Kolyana and her brother Ismark both have souls, as do all Vistani. Which Barovians have souls and which don't is left up to you.</p>
+					<p>Strahd periodically feeds on the blood of Barovians who have souls, but he can't draw nourishment from the blood of the soulless. He can tell at a glance whether a Barovian has a soul or is merely a shell.</p>
+					<h>Barovian Names</h>
+					<p>You can use the following lists to create Barovian NPC names on the fly.</p>
+					<p>Male Names: Alek, Andrej, Anton, Balthazar, Bogan, Boris, Dargos, Darzin, Dragomir, Emeric, Falkon, Frederich, Franz, Gargosh, Gorek, Grygori, Hans, Harkus, Ivan, Jirko, Kobal, Korga, Krystofor, Lazlo, Livius, Marek, Miroslav, Nikolaj, Nimir, Oleg, Radovan, Radu, Seraz, Sergei, Stefan, Tural, Valentin, Vasily, Vladislav, Waltar, Yesper, Zsolt</p>
+					<p>Female Names: Alana, Clavdia, Danya, Dezdrelda, Diavola, Dorina, Drasha, Drilvia, Elisabeta, Fatima, Grilsha, Isabella, Ivana, Jarzinka, Kala, Katerina, Kereza, Korina, Lavinia, Magda, Marta, Mathilda, Minodora, Mirabel, Miruna, Nimira, Nyanka, Olivenka, Ruxandra, Sorina, Tereska, Valentina, Vasha, Victoria, Wensencia, Zondra</p>
+					<p>Family Names: Alastroi, Antonovich/Antonova, Barthos, Belasco, Cantemir, Dargovich/Dargova, Diavolov, Diminski, Dilisnya, Drazkoi, Garvinski, Grejenko, Groza, Grygorovich/Grygorova, Ivanovich/Ivanova, Janek, Karushkin, Konstantinovich/Konstantinova, Krezkov/Krezkova, Krykski, Lansten, Lazarescu, Lukresh, Lipsiege, Martikov/ Martikova, Mironovich/Mironovna, Moldovar, Nikolovich/ Nikolova, Nimirovich/Nimirova, Oronovich/Oronova, Petrovich/Petrovna, Polensky, Radovich/Radova, Rilsky, Stefanovich/Stefanova, Strazni, Swilovich/Swilova, Taltos, Targolov/Targolova, Tyminski, Ulbrek, Ulrich, Vadu, Voltanescu, Zalenski, Zalken</p>
+					<p>If Strahd is defeated, the fog that surrounds Barovia fades away, allowing the inhabitants of the valley to leave if they wish. Only those who have souls, however, can truly leave this place. Soulless Barovians cease to exist as soon as they exit the valley.</p>
+					<h>Barovians and Nonhumans</h>
+					<p>Barovians are human. Although they know that dwarves, elves, halflings and other civilized races exist, few living Barovians have seen such &#34;creatures,&#34; let alone interacted with them.</p>
+					<p>Aside from the secretive dusk elves of Vallaki (see chapter 5), the only nonhumans most Barovians are familiar with are the adventurers that Strahd has lured to his dark realm. Barovians thus react to nonhuman characters the same way most humans in the real world would react to elf, dwarf, or half-orc adventurers suddenly walking the streets. Most such outsiders are scorned, feared, or shunned.</p>
+					<h>Barovian Lore</h>
+					<p>Typical Barovians know certain facts, or have certain beliefs, about their existence and their surroundings. This common lore is summarized here. Characters can learn this information after earning a Barovian's trust.</p>
+					<p><b>The Devil Strahd</b></p>
+					<p>About Strahd and vampires, the Barovians believe the following:</p>
+					<list>
+						<li>Strahd von Zarovich is a vampire, and he dwells in Castle Ravenloft. No one is welcome at the castle.</li>
+						<li>The devil Strahd is a curse placed on the land because of a forgotten sin of the Barovians' ancestors. (This is untrue, but Barovians believe it nonetheless.)</li>
+						<li>A vampire must rest in its coffin during the day. At night, it can summon wolves and vermin to do its bidding. A vampire can transform into a bat, a wolf, or a cloud of mist. In its humanoid form, it can dominate you with its powerful gaze.</li>
+						<li>A vampire can't enter a residence without an invitation from one of the occupants.</li>
+						<li>Running water burns a vampire like acid, and sunlight causes a vampire to burst into flame.</li>
+					</list>
+					<p><b>The Land of Barovia</b></p>
+					<p>Barovians know the following facts about their homeland:</p>
+					<list>
+						<li>Anyone who attempts to leave the land of Barovia begins to choke on the fog. Those who don't turn back perish.</li>
+						<li>Many strangers have been drawn to Barovia over the years, but they all die or disappear before long.</li>
+						<li>Wolves, dire wolves, and werewolves prowl the Svalich Woods, and hungry bats fill the skies at night.</li>
+						<li>The village of Barovia sits at the east end of the valley. Its burgomaster is named Kolyan Indirovich.</li>
+						<li>The town of Vallaki lies in the heart of the valley. Its burgomaster is named Baron Vargas Vallakovich.</li>
+						<li>The fortified village of Krezk lies at the west end of the valley and is built around an old abbey. The village burgomaster is named Dmitri Krezkov.</li>
+						<li>Wine is the lifeblood of Barovia - for some, it is the only reason to keep living. Barovian taverns get their wine from the Wizard of Wines winery near Krezk.</li>
+						<li>A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's.</li>
+					</list>
+					<p><b>Barovian Calendar</b></p>
+					<p>Barovia has its own calendar, and Barovians are accustomed to measuring the passage of time in &#34;moons&#34; instead of months. As a measurement of time, each moon begins on the first night of a full moon and lasts a full lunar cycle. A year consists of twelve moons, or twelve lunar cycles.</p>
+					<p>Strahd was born in 306. In 346, he inherited his father's crown, lands, and army. Strahd conquered the valley in 347, finished construction of Castle Ravenloft in 350, and died and became a vampire in 351. The current year is 735.</p>
+					<p><b>Beliefs and Superstitions</b></p>
+					<p>Barovians have deep-rooted religious beliefs and superstitions that they pass down from one generation to the next:</p>
+					<list>
+						<li>Two divine forces watch over the Barovian people: the Morninglord and Mother Night.</li>
+						<li>Before the curse of Strahd befell the land, the Morninglord watched over the Barovian people from sunrise until sundown. Now, the sun has not shone unobscured for centuries, and the Morninglord no longer answers their prayers.</li>
+						<li>The presence of Mother Night is felt most strongly between dusk and dawn, although nighttime prayers to her go unanswered. It is widely believed that she has forsaken the Barovian people and sent the devil Strahd to punish them for their ancestors' offenses.</li>
+						<li>Spirits drift along the Old Svalich Road toward Castle Ravenloft in the dead of night. These phantoms are all that remain of Strahd's enemies, and this damnable fate awaits anyone who opposes him.</li>
+						<li>The Vistani serve the devil Strahd. They alone are allowed to leave Barovia.</li>
+						<li>Never harm a raven, lest ill fortune befall you!</li>
+					</list>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_02_00chapter2introduction@DD Curse of Strahd">Up - Chapter 2</link>
+						<link class="encounter" recordname="encounter.enc_02_02alterationstomagic@DD Curse of Strahd">Prev - Alterations to Magic</link>
+						<link class="encounter" recordname="encounter.enc_02_04vistani@DD Curse of Strahd">Next - Vistani</link>
+					</linklist>
+				</text>
+			</enc_02_03barovians>
+		</category>
+		<category name="03. Chapter 3: The Village of Barovia" baseicon="8" decalicon="1">
+		</category>
+		<category name="04. Chapter 4: Castle Ravenloft" baseicon="8" decalicon="1">
+		</category>
+		<category name="05. Chapter 5: The Town of Vallaki" baseicon="8" decalicon="1">
+		</category>
+		<category name="06. Chapter 6: Old Bonegrinder" baseicon="8" decalicon="1">
+		</category>
+		<category name="07. Chapter 7: Argynvostholt" baseicon="8" decalicon="1">
+		</category>
+		<category name="08. Chapter 8: The Village of Krezk" baseicon="8" decalicon="1">
+		</category>
+		<category name="09. Chapter 9: Tsolenka Pass" baseicon="8" decalicon="1">
+		</category>
+		<category name="10. Chapter 10: The Ruins of Berez" baseicon="8" decalicon="1">
+		</category>
+		<category name="11. Chapter 11: Van Richten's Tower" baseicon="8" decalicon="1">
+		</category>
+		<category name="12. Chapter 12: The Wizard of Wines" baseicon="8" decalicon="1">
+		</category>
+		<category name="13. Chapter 13: The Amber Temple" baseicon="8" decalicon="1">
+		</category>
+		<category name="14. Chapter 14: Yester Hill" baseicon="8" decalicon="1">
+		</category>
+		<category name="15. Chapter 15: Werewolf Den" baseicon="8" decalicon="1">
+		</category>
+		<category name="16. Epilogue" baseicon="8" decalicon="1">
+		</category>
+		<category name="17. Appendix A: Character Options" baseicon="8" decalicon="1">
+		</category>
+		<category name="18. Appendix B: Death House" baseicon="8" decalicon="1">
+		</category>
+		<category name="19. Appendix C: Treasures" baseicon="8" decalicon="1">
+		</category>
+		<category name="20. Appendix D: Monsters and NPCs" baseicon="8" decalicon="1">
+		</category>
+		<category name="21. Appendix E: The Tarokka Deck" baseicon="8" decalicon="1">
+		</category>
+		<category name="22. Appendix F: Handouts" baseicon="8" decalicon="1">
+		</category>
+	</encounter>
 	<image>
 		<category name="Curse of Strahd - DM Maps" baseicon="8" decalicon="1">
 			<id-00046>
@@ -704,25 +1324,113 @@
 							<x>640</x>
 							<y>924</y>
 						</token>
+					</tokens>
+				</image>
+			</id-00015>
+			<id-00017>
+				<public />
+				<image type="image">
+					<bitmap>Map - Old Bonegrinder.jpg</bitmap>
+					<mask>maskedimages/1486190647.png</mask>
+					<gridsize>32</gridsize>
+					<gridoffset>17,24</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>431</x>
+							<y>336</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_06_02_o1_groundfloor@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>52</x>
+							<y>507</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_06_02_00areasofthewindmill@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>688</x>
+							<y>337</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_06_02_o2_bonemill@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>429</x>
+							<y>44</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_06_02_o3_bedroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>689</x>
+							<y>50</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_06_02_o4_domedattic@DD Curse of Strahd</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>6</idcounter>
+						<scalelock>10</scalelock>
+						<token>
+							<prototype>tokens/campaign/Morgantha.png@DD Curse of Strahd</prototype>
+							<id>1</id>
+							<x>610</x>
+							<y>585</y>
+							<name>Morgantha</name>
+							<unmodifiable />
+							<targets>3</targets>
+						</token>
+						<token>
+							<prototype>portrait_id-00001_token</prototype>
+							<id>5</id>
+							<x>578</x>
+							<y>521</y>
+							<scale>2.56</scale>
+							<name>Jeff</name>
+							<visibilitylocked>on</visibilitylocked>
+							<targets>1</targets>
+						</token>
 						<token>
 							<prototype>portrait_id-00003_token</prototype>
-							<id>5</id>
-							<x>640</x>
-							<y>892</y>
+							<id>6</id>
+							<x>450</x>
+							<y>457</y>
+							<scale>2.56</scale>
 							<name>Fabio McSmallfeet</name>
+							<visibilitylocked>on</visibilitylocked>
+							<targets>1</targets>
+						</token>
+						<token>
+							<prototype>portrait_id-00005_token</prototype>
+							<id>2</id>
+							<x>578</x>
+							<y>585</y>
+							<scale>2.56</scale>
+							<name>Ned Kelly</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00002_token</prototype>
+							<id>3</id>
+							<x>546</x>
+							<y>521</y>
+							<scale>2.56</scale>
+							<name>Fjarnskaggl</name>
 							<visibilitylocked>on</visibilitylocked>
 						</token>
 						<token>
 							<prototype>portrait_id-00004_token</prototype>
-							<id>8</id>
-							<x>640</x>
-							<y>860</y>
+							<id>4</id>
+							<x>610</x>
+							<y>553</y>
+							<scale>2.56</scale>
 							<name>Lyrael</name>
 							<visibilitylocked>on</visibilitylocked>
+							<targets>4</targets>
 						</token>
 					</tokens>
 				</image>
-			</id-00015>
+				<locked type="number">0</locked>
+			</id-00017>
 			<id-00021>
 				<image type="image">
 					<bitmap>Map - Village of Barovia.jpg</bitmap>
