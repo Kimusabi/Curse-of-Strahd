@@ -22,12 +22,18 @@
 					</npclist>
 				</category>
 			</id-00025>
+			<id-00026>
+				<locked type="number">1</locked>
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00026>
 		</category>
 	</battle>
 	<encounter>
 		<category name="00. Curse of Strahd" baseicon="8" decalicon="1">
 		</category>
 		<category name="01. Chapter 1: Into the Mists" baseicon="8" decalicon="1">
+<<<<<<< HEAD
 			<enc_01_02_03treasurelocations>
 				<locked type="number">1</locked>
 				<text type="formattedtext">
@@ -602,6 +608,10 @@
 					</linklist>
 				</text>
 			</enc_02_03barovians>
+=======
+		</category>
+		<category name="02. Chapter 2: The Lands of Barovia" baseicon="8" decalicon="1">
+>>>>>>> origin/master
 		</category>
 		<category name="03. Chapter 3: The Village of Barovia" baseicon="8" decalicon="1">
 		</category>
@@ -634,6 +644,43 @@
 		<category name="17. Appendix A: Character Options" baseicon="8" decalicon="1">
 		</category>
 		<category name="18. Appendix B: Death House" baseicon="8" decalicon="1">
+<<<<<<< HEAD
+=======
+			<enc_18_02roseandthorn>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<p>The characters are pulled into Strahd's domain by the mists of Ravenloft. Forced to follow a lonely road (area A), they eventually arrive at the village of Barovia (area E). Once they reach the village, read:</p>
+					<frame>The gravel road leads to a village, its tall houses dark as tombstones. Nestled among these solemn dwellings are a handful of closed-up shops. Even the tavern is shut tight.&#13;&#13;A soft whimpering draws your eye toward a pair of children standing in the middle of an otherwise lifeless street.</frame>
+					<p>The children are ten-year-old Rosavalda (&#34;Rose&#34;) and her seven-year-old brother, Thornboldt (&#34;Thorn&#34;). Thorn is weeping and clutching a stuffed doll. Rose is trying to hush the boy.</p>
+					<p>If the characters approach the children or call out to them, add the following:</p>
+					<frame>After shushing the boy, the girl turns to you and says, &#34;There's a monster in our house!&#34; She then points to a tall brick row house that has seen better days. Its windows are dark. It has a gated portico on the ground floor, and the rusty gate is slightly ajar. The houses on either side are abandoned, their windows and doors boarded up.</frame>
+					<p>Characters who question the children learn the following information:</p>
+					<list>
+						<li>The children don't know what the &#34;monster&#34; looks like, but they've heard its terrible howls.</li>
+						<li>Their parents (Gustav and Elisabeth Durst) keep the monster trapped in the basement.</li>
+						<li>There's a baby (Walter) in the third-floor nursery. (Untrue, but the children believe it.)</li>
+					</list>
+					<p>Rose and Thorn say that they won't go back in the house until they know the monster is gone. They can be convinced to wait in the portico (area 1A) while the characters search the house. Although they appear to be flesh-and-blood children, Rose and Thorn are actually illusions created by the house to lure the characters inside. The children don't know that they're illusions but vanish if attacked or forced into the house.</p>
+					<p>The children died of starvation centuries ago after their insane parents locked them in the attic and forgot about them. They were too young and innocent to understand that their parents were guilty of heinous crimes. Their parents told them stories about a monster in the basement to keep the children from going down to the dungeon level. The &#34;terrible howls&#34; they heard were actually the screams of the cult's victims.</p>
+					<h>The Mists</h>
+					<p>Characters who remain outside the house can see the mists close in around them, swallowing up the rest of the village. As more buildings disappear into the mists, the characters are left with little choice but to seek refuge in the house. The mists stop short of entering the house but engulf anyone outside (see chapter 2, &#34;The Lands of Barovia,&#34; for information on the mists' effect).</p>
+					<h>Death House's Features</h>
+					<p>Death House is aware of its surroundings and all creatures within it. Its goal is to continue the work of the cult by luring visitors to their doom. Various important features of the house are summarized here.</p>
+					<p>The house has four stories (including the attic), with two balconies on the third floor - one facing the front of the house, the other facing the back. The house has wooden floors throughout, and all windows have hinges that allow them to swing outward.</p>
+					<p>The rooms on the first and second floors are free of dust and signs of age. The floorboards and wall panels are well oiled, the drapes and wallpaper haven't faded, and the furniture looks new. No effort has been made to preserve the contents of the third floor or the attic. These areas are dusty and drafty, everything within them is old and draped in cobwebs, and the floorboards groan underfoot.</p>
+					<p>Ceilings vary in height by floor. The first floor has 10-foot-high ceilings, the second floor has 12-foot-high ceilings, the third floor has 8-foot-high ceilings, and the attic has 13-foot-high ceilings.</p>
+					<p>None of the rooms in the house are lit when the characters arrive, although most areas contain working oil lamps or fireplaces.</p>
+					<p>Characters can burn the house to the ground if they want, but any destruction to the house is temporary. After 1d10 days, the house begins to repair itself. Ashes sweep together to form blackened timbers, which then turn back into a sturdy wooden frame around which walls begin to materialize. Destroyed furnishings are likewise repaired. It takes 2d6 hours for the house to complete its resurrection. Items taken from the house aren't replaced, nor are undead that are destroyed. The dungeon level isn't considered part of the house and can't repair itself in this fashion.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_01history@DD Curse of Strahd">Prev - History</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Next - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_02roseandthorn>
+>>>>>>> origin/master
 		</category>
 		<category name="19. Appendix C: Treasures" baseicon="8" decalicon="1">
 		</category>
@@ -851,6 +898,386 @@
 					</shortcuts>
 				</image>
 			</id-00046>
+			<id-00060>
+				<image type="image">
+					<bitmap>DM Map - Death House.jpg</bitmap>
+					<shortcuts>
+						<shortcut>
+							<x>445</x>
+							<y>64</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>141</x>
+							<y>888</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_03_denofwolves@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>88</x>
+							<y>745</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_05_diningroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>284</x>
+							<y>814</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_06_upperhall@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>277</x>
+							<y>731</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_08_library@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>340</x>
+							<y>701</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_09_secretroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>295</x>
+							<y>886</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_10_conservatory@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>131</x>
+							<y>518</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_11_balcony@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>78</x>
+							<y>924</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00004@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>81</x>
+							<y>879</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00005@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>108</x>
+							<y>811</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00006@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>109</x>
+							<y>768</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00007@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>164</x>
+							<y>744</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00008@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>162</x>
+							<y>695</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00009@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>340</x>
+							<y>759</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00010@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>306</x>
+							<y>765</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00011@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>99</x>
+							<y>445</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00012@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>128</x>
+							<y>479</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00013@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>176</x>
+							<y>427</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00014@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>142</x>
+							<y>603</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00015@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>80</x>
+							<y>580</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00016@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>78</x>
+							<y>623</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00017@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>75</x>
+							<y>513</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_13_bathroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>75</x>
+							<y>545</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_14_storageroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>320</x>
+							<y>490</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_16_attichall@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>321</x>
+							<y>620</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_17_sparebedroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>266</x>
+							<y>550</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_18_storageroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>263</x>
+							<y>460</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_19_sparebedroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>306</x>
+							<y>427</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_20_children_sroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>244</x>
+							<y>506</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_21_secretstairs@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>526</x>
+							<y>172</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_22_dungeonlevelaccess@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>529</x>
+							<y>241</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23_familycrypts@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>587</x>
+							<y>241</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23_familycrypts@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>610</x>
+							<y>128</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23a_emptycrypt@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>609</x>
+							<y>170</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23b_walter_scrypt@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>611</x>
+							<y>216</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23c_gustav_scrypt@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>609</x>
+							<y>257</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23d_elisabeth_scrypt@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>505</x>
+							<y>216</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23e_rose_scrypt@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>506</x>
+							<y>257</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23f_thorn_scrypt@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>592</x>
+							<y>150</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23_familycrypts@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>450</x>
+							<y>151</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_24_cultinitiates_quarters@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>340</x>
+							<y>241</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_25_wellandcultistquarters@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>350</x>
+							<y>195</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00018@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>310</x>
+							<y>194</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00019@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>307</x>
+							<y>260</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00020@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>307</x>
+							<y>304</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00021@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>355</x>
+							<y>308</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00022@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>477</x>
+							<y>322</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_26_hiddenspikedpit@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>522</x>
+							<y>300</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_27_dininghall@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>614</x>
+							<y>305</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_28_larder@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>528</x>
+							<y>370</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_29_ghoulishencounter@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>441</x>
+							<y>409</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_30_stairsdown@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>436</x>
+							<y>344</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_35_reliquary@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>614</x>
+							<y>436</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_31_darklord_sshrine@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>630</x>
+							<y>327</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_32_hiddentrapdoor@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>565</x>
+							<y>481</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_33_cultleaders_den@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>460</x>
+							<y>483</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_34_cultleaders_quarters@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>527</x>
+							<y>610</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_35_reliquary@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>436</x>
+							<y>673</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_30_stairsdown@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>460</x>
+							<y>765</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_36_prison@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>549</x>
+							<y>699</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_37_portcullis@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>582</x>
+							<y>773</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_38_ritualchamber@DD Curse of Strahd</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+				<locked type="number">1</locked>
+			</id-00060>
 		</category>
 		<category name="Curse of Strahd - Handouts" baseicon="8" decalicon="1">
 			<id-00207>
@@ -1318,6 +1745,7 @@
 					<tokens>
 						<idcounter>13</idcounter>
 						<scalelock>3.90625</scalelock>
+<<<<<<< HEAD
 						<token>
 							<prototype>portrait_id-00001_token</prototype>
 							<id>6</id>
@@ -1427,6 +1855,8 @@
 							<visibilitylocked>on</visibilitylocked>
 							<targets>4</targets>
 						</token>
+=======
+>>>>>>> origin/master
 					</tokens>
 				</image>
 				<locked type="number">0</locked>

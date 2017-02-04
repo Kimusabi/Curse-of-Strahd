@@ -3,126 +3,20 @@
 	<battle>
 		<category name="Curse of Strahd - Encounters" baseicon="0" decalicon="0">
 			<id-00001>
-<<<<<<< HEAD
-				<cr type="string">5</cr>
-				<exp type="number">1400</exp>
-				<generated type="number">0</generated>
-				<locked type="number">1</locked>
-				<name type="string">02.05.23 Werewolves</name>
-				<npclist>
-					<id-00001>
-						<count type="number">2</count>
-						<link type="windowreference">
-							<class>npc</class>
-							<recordname>npc.id-00024@DD Curse of Strahd</recordname>
-						</link>
-						<maplink>
-							<id-00001>
-								<imageref type="windowreference">
-									<class></class>
-									<recordname></recordname>
-								</imageref>
-								<imagex type="number">0</imagex>
-								<imagey type="number">0</imagey>
-							</id-00001>
-							<id-00002>
-								<imageref type="windowreference">
-									<class></class>
-									<recordname></recordname>
-								</imageref>
-								<imagex type="number">0</imagex>
-								<imagey type="number">0</imagey>
-							</id-00002>
-						</maplink>
-						<name type="string">Werewolf</name>
-						<token type="token">tokens/campaign/werewolf.png@DD Curse of Strahd</token>
-					</id-00001>
-				</npclist>
-			</id-00001>
-			<id-00002>
-				<cr type="string">3</cr>
-				<exp type="number">600</exp>
-				<generated type="number">0</generated>
-				<locked type="number">1</locked>
-				<name type="string">02.05.06 1d6 Dire Wolves</name>
-				<npclist>
-					<id-00001>
-						<count type="number">3</count>
-						<link type="windowreference">
-							<class>npc</class>
-							<recordname>npc.id-00021@DD Curse of Strahd</recordname>
-						</link>
-						<maplink>
-							<id-00001>
-								<imageref type="windowreference">
-									<class></class>
-									<recordname></recordname>
-								</imageref>
-								<imagex type="number">0</imagex>
-								<imagey type="number">0</imagey>
-							</id-00001>
-							<id-00002>
-								<imageref type="windowreference">
-									<class></class>
-									<recordname></recordname>
-								</imageref>
-								<imagex type="number">0</imagex>
-								<imagey type="number">0</imagey>
-							</id-00002>
-							<id-00003>
-								<imageref type="windowreference">
-									<class></class>
-									<recordname></recordname>
-								</imageref>
-								<imagex type="number">0</imagex>
-								<imagey type="number">0</imagey>
-							</id-00003>
-						</maplink>
-						<name type="string">Dire Wolf</name>
-						<token type="token">tokens/campaign/D.png@DD Curse of Strahd</token>
-					</id-00001>
-				</npclist>
-			</id-00002>
-			<id-00003>
-				<cr type="string">2</cr>
-				<exp type="number">450</exp>
-				<generated type="number">0</generated>
-				<locked type="number">1</locked>
-				<name type="string">02.05.03 1d4 Berserkers</name>
-=======
 				<cr type="string">6</cr>
 				<exp type="number">1800</exp>
 				<locked type="number">1</locked>
 				<name type="string">03.02.E5g Donavich and Doru</name>
->>>>>>> origin/master
 				<npclist>
 					<id-00001>
 						<count type="number">1</count>
 						<link type="windowreference">
 							<class>npc</class>
-<<<<<<< HEAD
-							<recordname>npc.id-00023@DD Curse of Strahd</recordname>
-=======
 							<recordname>npc.id-00011@DD Curse of Strahd</recordname>
->>>>>>> origin/master
 						</link>
 						<maplink>
 							<id-00001>
 								<imageref type="windowreference">
-<<<<<<< HEAD
-									<class></class>
-									<recordname></recordname>
-								</imageref>
-								<imagex type="number">0</imagex>
-								<imagey type="number">0</imagey>
-							</id-00001>
-						</maplink>
-						<name type="string">Berserker</name>
-						<token type="token">tokens/campaign/B.png@DD Curse of Strahd</token>
-					</id-00001>
-				</npclist>
-			</id-00003>
-=======
 									<class>imagewindow</class>
 									<recordname>image.id-00008.image@DD Curse of Strahd</recordname>
 								</imageref>
@@ -135,7 +29,6 @@
 					</id-00001>
 				</npclist>
 			</id-00001>
->>>>>>> origin/master
 		</category>
 	</battle>
 	<calendar>
@@ -479,11 +372,7 @@
 				<load type="number">45.58</load>
 				<max type="number">180</max>
 			</encumbrance>
-<<<<<<< HEAD
-			<exp type="number">1730</exp>
-=======
 			<exp type="number">1260</exp>
->>>>>>> origin/master
 			<expneeded type="number">2700</expneeded>
 			<featlist>
 				<holder name="Ethan" owner="true" />
@@ -906,7 +795,7 @@
 				<spellslots1>
 					<holder name="Ethan" owner="true" />
 					<max type="number">4</max>
-					<used type="number">0</used>
+					<used type="number">1</used>
 				</spellslots1>
 				<spellslots2>
 					<holder name="Ethan" owner="true" />
@@ -1023,19 +912,14 @@
 					<source type="string">Bard, Cleric, Eldritch Knight, Sorcerer, Wizard, Arcane Trickster</source>
 				</id-00002>
 				<id-00003>
-					<public />
 					<holder name="Ethan" owner="true" />
 					<actions>
-						<public />
 						<holder name="Ethan" owner="true" />
 						<id-00001>
-							<public />
 							<holder name="Ethan" owner="true" />
 							<damagelist>
-								<public />
 								<holder name="Ethan" owner="true" />
 								<id-00001>
-									<public />
 									<holder name="Ethan" owner="true" />
 									<bonus type="number">0</bonus>
 									<dice type="dice"></dice>
@@ -1047,7 +931,6 @@
 							<type type="string">damage</type>
 						</id-00001>
 						<id-00002>
-							<public />
 							<holder name="Ethan" owner="true" />
 							<apply type="string">roll</apply>
 							<label type="string">DMG: 1d8 fire</label>
@@ -1664,11 +1547,7 @@
 				<load type="number">89.77</load>
 				<max type="number">165</max>
 			</encumbrance>
-<<<<<<< HEAD
-			<exp type="number">1730</exp>
-=======
 			<exp type="number">1260</exp>
->>>>>>> origin/master
 			<expneeded type="number">2700</expneeded>
 			<featlist>
 				<holder name="Ethan" owner="true" />
@@ -3191,11 +3070,7 @@
 				<load type="number">104.61</load>
 				<max type="number">210</max>
 			</encumbrance>
-<<<<<<< HEAD
-			<exp type="number">1730</exp>
-=======
 			<exp type="number">1260</exp>
->>>>>>> origin/master
 			<expneeded type="number">2700</expneeded>
 			<featlist>
 				<holder name="Jason" owner="true" />
@@ -4073,7 +3948,7 @@
 				</id-00001>
 				<id-00002>
 					<holder name="Jason" owner="true" />
-					<ammo type="number">1</ammo>
+					<ammo type="number">0</ammo>
 					<attackbonus type="number">0</attackbonus>
 					<carried type="number">2</carried>
 					<damagelist>
@@ -4204,7 +4079,6 @@
 			<adventurelist>
 				<holder name="Jason" owner="true" />
 			</adventurelist>
-			<age type="string">27</age>
 			<alignment type="string">Neutral Evil</alignment>
 			<background type="string">Charlatan</background>
 			<backgroundlink type="windowreference">
@@ -4219,7 +4093,7 @@
 					<casterlevelinvmult type="number">1</casterlevelinvmult>
 					<casterpactmagic type="number">0</casterpactmagic>
 					<hddie type="dice">d8</hddie>
-					<hdused type="number">1</hdused>
+					<hdused type="number">0</hdused>
 					<level type="number">3</level>
 					<name type="string">Bard</name>
 					<shortcut type="windowreference">
@@ -4279,14 +4153,10 @@
 				<encumbered type="number">70</encumbered>
 				<encumberedheavy type="number">140</encumberedheavy>
 				<liftpushdrag type="number">420</liftpushdrag>
-				<load type="number">74.3</load>
+				<load type="number">73.55</load>
 				<max type="number">210</max>
 			</encumbrance>
-<<<<<<< HEAD
-			<exp type="number">1730</exp>
-=======
 			<exp type="number">1260</exp>
->>>>>>> origin/master
 			<expneeded type="number">2700</expneeded>
 			<featlist>
 				<holder name="Jason" owner="true" />
@@ -4410,7 +4280,6 @@
 				</id-00009>
 			</featurelist>
 			<flaws type="string">I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough.</flaws>
-			<gender type="string">Female</gender>
 			<hp>
 				<holder name="Jason" owner="true" />
 				<deathsavefail type="number">0</deathsavefail>
@@ -4418,7 +4287,7 @@
 				<hdmod type="number">0</hdmod>
 				<temporary type="number">0</temporary>
 				<total type="number">27</total>
-				<wounds type="number">0</wounds>
+				<wounds type="number">9</wounds>
 			</hp>
 			<ideals type="string">Aspiration. I'm determined to make something of myself. (Any)</ideals>
 			<initiative>
@@ -4430,14 +4299,6 @@
 			<inspiration type="number">0</inspiration>
 			<inventorylist>
 				<holder name="Jason" owner="true" />
-				<id-00001>
-					<holder name="Jason" owner="true" />
-					<carried type="number">1</carried>
-					<count type="number">1</count>
-					<isidentified type="number">1</isidentified>
-					<name type="string">Direwoolf pelt</name>
-					<weight type="number">0.75</weight>
-				</id-00001>
 				<id-00002>
 					<holder name="Jason" owner="true" />
 					<ac type="number">0</ac>
@@ -4454,6 +4315,26 @@
 					<type type="string">Document</type>
 					<weight type="number">0</weight>
 				</id-00002>
+				<id-00003>
+					<holder name="Jason" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">2</carried>
+					<cost type="string">25 gp</cost>
+					<count type="number">1</count>
+					<damage type="string">1d8 piercing</damage>
+					<description type="formattedtext">
+						<p></p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
+					<locked type="number">1</locked>
+					<name type="string">Rapier</name>
+					<properties type="string">Finesse, Silvered</properties>
+					<subtype type="string">Martial Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">2</weight>
+				</id-00003>
 				<id-00004>
 					<holder name="Jason" owner="true" />
 					<carried type="number">1</carried>
@@ -4625,17 +4506,11 @@
 				</id-00015>
 				<id-00016>
 					<holder name="Jason" owner="true" />
-					<ac type="number">0</ac>
-					<bonus type="number">0</bonus>
 					<carried type="number">2</carried>
 					<cost type="string">75 gp</cost>
 					<count type="number">1</count>
 					<damage type="string">1d6 piercing</damage>
-					<description type="formattedtext">
-						<p></p>
-					</description>
 					<isidentified type="number">1</isidentified>
-					<istemplate type="number">0</istemplate>
 					<locked type="number">1</locked>
 					<name type="string">Crossbow, Hand</name>
 					<properties type="string">Ammunition (range 30/120), light, loading</properties>
@@ -4655,13 +4530,6 @@
 					<type type="string">Adventuring Gear</type>
 					<weight type="number">1.5</weight>
 				</id-00017>
-				<id-00018>
-					<holder name="Jason" owner="true" />
-					<carried type="number">1</carried>
-					<count type="number">1</count>
-					<isidentified type="number">1</isidentified>
-					<name type="string">Hearth stone</name>
-				</id-00018>
 				<id-00019>
 					<holder name="Jason" owner="true" />
 					<ac type="number">0</ac>
@@ -4694,26 +4562,6 @@
 					<type type="string">Treasure</type>
 					<weight type="number">0</weight>
 				</id-00020>
-				<id-00021>
-					<holder name="Jason" owner="true" />
-					<ac type="number">0</ac>
-					<bonus type="number">0</bonus>
-					<carried type="number">2</carried>
-					<cost type="string">25 gp</cost>
-					<count type="number">1</count>
-					<damage type="string">1d8 piercing</damage>
-					<description type="formattedtext">
-						<p></p>
-					</description>
-					<isidentified type="number">1</isidentified>
-					<istemplate type="number">0</istemplate>
-					<locked type="number">1</locked>
-					<name type="string">Rapier</name>
-					<properties type="string">Finesse, Silvered</properties>
-					<subtype type="string">Martial Weapons</subtype>
-					<type type="string">Weapon</type>
-					<weight type="number">2</weight>
-				</id-00021>
 			</inventorylist>
 			<languagelist>
 				<holder name="Jason" owner="true" />
@@ -4728,7 +4576,6 @@
 			</languagelist>
 			<level type="number">3</level>
 			<name type="string">Lyrael</name>
-			<notes type="string">Sunlight sword\nReligious symbol:\nAlly:\nEnemy:\nHistory:</notes>
 			<perception type="number">11</perception>
 			<perceptionmodifier type="number">0</perceptionmodifier>
 			<personalitytraits type="string">I have a joke for every occasion, especially occasions where humor is inappropriate.</personalitytraits>
@@ -4746,121 +4593,117 @@
 					<stat type="string">charisma</stat>
 					<uses type="number">0</uses>
 				</id-00001>
-				<id-00002>
-					<holder name="Jason" owner="true" />
-					<name type="string">Bard Abilities</name>
-				</id-00002>
-				<id-00004>
-					<holder name="Jason" owner="true" />
-					<atkmod type="number">0</atkmod>
-					<atkprof type="number">1</atkprof>
-					<name type="string">Tiefling Racial</name>
-					<prepared type="number">0</prepared>
-					<savemod type="number">0</savemod>
-					<saveprof type="number">1</saveprof>
-					<stat type="string">charisma</stat>
-					<uses type="number">1</uses>
-				</id-00004>
 			</powergroup>
 			<powermeta>
 				<holder name="Jason" owner="true" />
 				<pactmagicslots1>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots1>
 				<pactmagicslots2>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots2>
 				<pactmagicslots3>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots3>
 				<pactmagicslots4>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots4>
 				<pactmagicslots5>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots5>
 				<pactmagicslots6>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots6>
 				<pactmagicslots7>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots7>
 				<pactmagicslots8>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots8>
 				<pactmagicslots9>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots9>
 				<spellslots1>
 					<holder name="Jason" owner="true" />
 					<max type="number">4</max>
-					<used type="number">0</used>
+					<used type="number">1</used>
 				</spellslots1>
 				<spellslots2>
 					<holder name="Jason" owner="true" />
 					<max type="number">2</max>
-					<used type="number">0</used>
 				</spellslots2>
 				<spellslots3>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots3>
 				<spellslots4>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots4>
 				<spellslots5>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots5>
 				<spellslots6>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots6>
 				<spellslots7>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots7>
 				<spellslots8>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots8>
 				<spellslots9>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots9>
 			</powermeta>
-<<<<<<< HEAD
-			<powermode type="string">combat</powermode>
-=======
->>>>>>> origin/master
+			<powermode type="string">preparation</powermode>
 			<powers>
 				<holder name="Jason" owner="true" />
+				<id-00001>
+					<holder name="Jason" owner="true" />
+					<actions>
+						<holder name="Jason" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V</components>
+					<description type="formattedtext">
+						<p>You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:</p>
+						<list>
+							<li>Your voice booms up to three times as loud as normal for 1 minute.</li>
+							<li>You cause flames to flicker, brighten, dim, or change color for 1 minute.</li>
+							<li>You cause harmless tremors in the ground for 1 minute.</li>
+							<li>You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</li>
+							<li>You instantaneously cause an unlocked door or window to fly open or slam shut.</li>
+							<li>You alter the appearance of your eyes for 1 minute.</li>
+						</list>
+						<p>If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.</p>
+					</description>
+					<duration type="string">Up to 1 minute</duration>
+					<group type="string">Spells</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Thaumaturgy</name>
+					<prepared type="number">0</prepared>
+					<range type="string">30 feet</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Transmutation</school>
+					<source type="string">Cleric</source>
+				</id-00001>
 				<id-00002>
 					<holder name="Jason" owner="true" />
 					<actions>
@@ -4924,31 +4767,9 @@
 					<name type="string">Minor Illusion</name>
 					<prepared type="number">0</prepared>
 					<range type="string">30 feet</range>
-					<ritual type="number">0</ritual>
 					<school type="string">Illusion</school>
 					<source type="string">Bard, Eldritch Knight, Monk, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
 				</id-00003>
-				<id-00004>
-					<holder name="Jason" owner="true" />
-					<actions>
-						<holder name="Jason" owner="true" />
-					</actions>
-					<cast type="number">0</cast>
-					<description type="formattedtext">
-						<p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.</p>
-						<p>Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw that it just made. The creature can wait until after it rolls the die for the ability check, attack roll, or saving throw, but before the DM says whether or not it succeeds or fails before deciding to use the Bardic Inspiration die. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</p>
-						<p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.</p>
-						<p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</p>
-					</description>
-					<group type="string">Bard Abilities</group>
-					<level type="number">0</level>
-					<locked type="number">1</locked>
-					<name type="string">Bardic Inspiration</name>
-					<prepared type="number">3</prepared>
-					<ritual type="number">0</ritual>
-					<source type="string">Bard</source>
-					<usesperiod type="string">enc</usesperiod>
-				</id-00004>
 				<id-00005>
 					<holder name="Jason" owner="true" />
 					<actions>
@@ -5128,44 +4949,11 @@
 					<holder name="Jason" owner="true" />
 					<actions>
 						<holder name="Jason" owner="true" />
-						<id-00001>
-							<holder name="Jason" owner="true" />
-							<onmissdamage type="string">half</onmissdamage>
-							<order type="number">1</order>
-							<savetype type="string">dexterity</savetype>
-							<type type="string">cast</type>
-						</id-00001>
-						<id-00002>
-							<holder name="Jason" owner="true" />
-							<damagelist>
-								<holder name="Jason" owner="true" />
-								<id-00001>
-									<holder name="Jason" owner="true" />
-									<bonus type="number">0</bonus>
-									<dice type="dice">d10,d10</dice>
-									<type type="string">fire</type>
-								</id-00001>
-							</damagelist>
-							<order type="number">2</order>
-							<type type="string">damage</type>
-						</id-00002>
 					</actions>
 					<cast type="number">0</cast>
-					<castingtime type="string">1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see</castingtime>
-					<components type="string">V, S</components>
-					<description type="formattedtext">
-						<p>You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.</p>
-						<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.</p>
-					</description>
-					<duration type="string">Instantaneous</duration>
-					<group type="string">Tiefling Racial</group>
-					<level type="number">1</level>
-					<locked type="number">1</locked>
-					<name type="string">Hellish Rebuke</name>
+					<level type="number">0</level>
+					<name type="string">Cutting Words</name>
 					<prepared type="number">0</prepared>
-					<range type="string">60 feet</range>
-					<school type="string">Evocation</school>
-					<source type="string">Warlock</source>
 				</id-00011>
 				<id-00012>
 					<holder name="Jason" owner="true" />
@@ -5253,46 +5041,25 @@
 					<school type="string">Transmutation</school>
 					<source type="string">Bard, Druid</source>
 				</id-00013>
+				<id-00014>
+					<holder name="Jason" owner="true" />
+					<actions>
+						<holder name="Jason" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<level type="number">0</level>
+					<name type="string">Helish rebuke</name>
+					<prepared type="number">3</prepared>
+				</id-00014>
 				<id-00015>
 					<holder name="Jason" owner="true" />
 					<actions>
 						<holder name="Jason" owner="true" />
 					</actions>
 					<cast type="number">0</cast>
-<<<<<<< HEAD
-					<description type="formattedtext">
-						<p></p>
-					</description>
 					<level type="number">0</level>
 					<name type="string">Bardic Inspiration</name>
 					<prepared type="number">4</prepared>
-					<ritual type="number">0</ritual>
-=======
-					<castingtime type="string">1 action</castingtime>
-					<components type="string">V</components>
-					<description type="formattedtext">
-						<p>You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:</p>
-						<list>
-							<li>Your voice booms up to three times as loud as normal for 1 minute.</li>
-							<li>You cause flames to flicker, brighten, dim, or change color for 1 minute.</li>
-							<li>You cause harmless tremors in the ground for 1 minute.</li>
-							<li>You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.</li>
-							<li>You instantaneously cause an unlocked door or window to fly open or slam shut.</li>
-							<li>You alter the appearance of your eyes for 1 minute.</li>
-						</list>
-						<p>If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.</p>
-					</description>
-					<duration type="string">Up to 1 minute</duration>
-					<group type="string">Spells</group>
-					<level type="number">0</level>
-					<locked type="number">1</locked>
-					<name type="string">Thaumaturgy</name>
-					<prepared type="number">0</prepared>
-					<range type="string">30 feet</range>
-					<ritual type="number">0</ritual>
-					<school type="string">Transmutation</school>
-					<source type="string">Cleric</source>
->>>>>>> origin/master
 				</id-00015>
 			</powers>
 			<profbonus type="number">2</profbonus>
@@ -5479,6 +5246,9 @@
 			</speed>
 			<temp>
 				<holder name="Jason" owner="true" />
+				<item>
+					<holder name="Jason" owner="true" />
+				</item>
 			</temp>
 			<token type="token">portrait_id-00004_token</token>
 			<traitlist>
@@ -5508,8 +5278,6 @@
 				<holder name="Jason" owner="true" />
 				<critdicebonus>
 					<holder name="Jason" owner="true" />
-					<melee type="number">0</melee>
-					<ranged type="number">0</ranged>
 				</critdicebonus>
 				<critrange>
 					<holder name="Jason" owner="true" />
@@ -5519,6 +5287,32 @@
 			</weapon>
 			<weaponlist>
 				<holder name="Jason" owner="true" />
+				<id-00003>
+					<holder name="Jason" owner="true" />
+					<attackbonus type="number">0</attackbonus>
+					<attackstat type="string">dexterity</attackstat>
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="Jason" owner="true" />
+						<id-00001>
+							<holder name="Jason" owner="true" />
+							<bonus type="number">0</bonus>
+							<dice type="dice">d8</dice>
+							<stat type="string">dexterity</stat>
+							<type type="string">piercing</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Rapier</name>
+					<prof type="number">1</prof>
+					<properties type="string">Silvered</properties>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00003</recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00003>
 				<id-00004>
 					<holder name="Jason" owner="true" />
 					<attackbonus type="number">0</attackbonus>
@@ -5571,7 +5365,7 @@
 				</id-00005>
 				<id-00006>
 					<holder name="Jason" owner="true" />
-					<ammo type="number">7</ammo>
+					<ammo type="number">2</ammo>
 					<attackbonus type="number">0</attackbonus>
 					<carried type="number">2</carried>
 					<damagelist>
@@ -5594,31 +5388,6 @@
 					</shortcut>
 					<type type="number">1</type>
 				</id-00006>
-				<id-00007>
-					<holder name="Jason" owner="true" />
-					<attackbonus type="number">0</attackbonus>
-					<attackstat type="string">dexterity</attackstat>
-					<carried type="number">2</carried>
-					<damagelist>
-						<holder name="Jason" owner="true" />
-						<id-00001>
-							<holder name="Jason" owner="true" />
-							<bonus type="number">0</bonus>
-							<dice type="dice">d8</dice>
-							<stat type="string">dexterity</stat>
-							<type type="string">piercing, silver</type>
-						</id-00001>
-					</damagelist>
-					<isidentified type="number">1</isidentified>
-					<maxammo type="number">0</maxammo>
-					<name type="string">Rapier</name>
-					<prof type="number">1</prof>
-					<shortcut type="windowreference">
-						<class>item</class>
-						<recordname>....inventorylist.id-00021</recordname>
-					</shortcut>
-					<type type="number">0</type>
-				</id-00007>
 			</weaponlist>
 		</id-00004>
 		<id-00005>
@@ -5753,11 +5522,7 @@
 				<load type="number">129.5</load>
 				<max type="number">270</max>
 			</encumbrance>
-<<<<<<< HEAD
-			<exp type="number">1730</exp>
-=======
 			<exp type="number">1260</exp>
->>>>>>> origin/master
 			<expneeded type="number">2700</expneeded>
 			<featlist>
 				<holder name="Jason" owner="true" />
@@ -5942,7 +5707,6 @@
 				<holder name="Jason" owner="true" />
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
-				<hdmod type="number">0</hdmod>
 				<temporary type="number">0</temporary>
 				<total type="number">31</total>
 				<wounds type="number">0</wounds>
@@ -6193,92 +5957,74 @@
 				<pactmagicslots1>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots1>
 				<pactmagicslots2>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots2>
 				<pactmagicslots3>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots3>
 				<pactmagicslots4>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots4>
 				<pactmagicslots5>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots5>
 				<pactmagicslots6>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots6>
 				<pactmagicslots7>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots7>
 				<pactmagicslots8>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots8>
 				<pactmagicslots9>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</pactmagicslots9>
 				<spellslots1>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots1>
 				<spellslots2>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots2>
 				<spellslots3>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots3>
 				<spellslots4>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots4>
 				<spellslots5>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots5>
 				<spellslots6>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots6>
 				<spellslots7>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots7>
 				<spellslots8>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots8>
 				<spellslots9>
 					<holder name="Jason" owner="true" />
 					<max type="number">0</max>
-					<used type="number">0</used>
 				</spellslots9>
 			</powermeta>
 			<powermode type="string">standard</powermode>
@@ -6596,13 +6342,11 @@
 			</weaponlist>
 		</id-00005>
 	</charsheet>
-	<class>
-	</class>
 	<combattracker>
 		<public />
 		<list>
 			<public />
-			<id-00003>
+			<id-00001>
 				<public />
 				<abilities>
 					<public />
@@ -6640,24 +6384,20 @@
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
 					<public />
-					<id-00001>
+					<id-00003>
 						<public />
 						<duration type="number">0</duration>
-						<init type="number">0</init>
+						<init type="number">5</init>
 						<isactive type="number">1</isactive>
 						<isgmonly type="number">0</isgmonly>
 						<label type="string">AC: 3</label>
-					</id-00001>
+					</id-00003>
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">23</hptotal>
 				<init type="number">3</init>
-<<<<<<< HEAD
-				<initresult type="number">10</initresult>
-=======
-				<initresult type="number">0</initresult>
->>>>>>> origin/master
+				<initresult type="number">23</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -6685,15 +6425,169 @@
 				<status type="string">Healthy</status>
 				<targets>
 					<public />
-					<id-00006>
-						<public />
-						<noderef type="string">combattracker.list.id-00011</noderef>
-					</id-00006>
 				</targets>
 				<token type="token">portrait_id-00001_token</token>
-				<tokenrefid type="string">5</tokenrefid>
-				<tokenrefnode type="string">image.id-00017.image@DD Curse of Strahd</tokenrefnode>
-				<tokenscale type="number">2.56</tokenscale>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">0</wounds>
+			</id-00001>
+			<id-00002>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<score type="number">17</score>
+					</charisma>
+					<constitution>
+						<public />
+						<score type="number">17</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<score type="number">11</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">11</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">11</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">17</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">13</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">30</hptotal>
+				<init type="number">0</init>
+				<initresult type="number">17</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00002</recordname>
+				</link>
+				<name type="string">Fjarnskaggl</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">25</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<targets>
+					<public />
+				</targets>
+				<token type="token">portrait_id-00002_token</token>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">0</wounds>
+			</id-00002>
+			<id-00003>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<score type="number">17</score>
+					</charisma>
+					<constitution>
+						<public />
+						<score type="number">13</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<score type="number">17</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">12</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">14</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">13</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">14</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">27</hptotal>
+				<init type="number">3</init>
+				<initresult type="number">21</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00003</recordname>
+				</link>
+				<name type="string">Fabio McSmallfeet</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">25</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<targets>
+					<public />
+				</targets>
+				<token type="token">portrait_id-00003_token</token>
+				<tokenscale type="number">1</tokenscale>
 				<tokenvis type="number">0</tokenvis>
 				<traits>
 					<public />
@@ -6733,7 +6627,7 @@
 				<actions>
 					<public />
 				</actions>
-				<active type="number">1</active>
+				<active type="number">0</active>
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
@@ -6741,15 +6635,9 @@
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-<<<<<<< HEAD
-				<hptotal type="number">30</hptotal>
-				<init type="number">0</init>
-				<initresult type="number">19</initresult>
-=======
 				<hptotal type="number">27</hptotal>
 				<init type="number">3</init>
 				<initresult type="number">17</initresult>
->>>>>>> origin/master
 				<innatespells>
 					<public />
 				</innatespells>
@@ -6778,597 +6666,14 @@
 				<targets>
 					<public />
 				</targets>
-<<<<<<< HEAD
-				<token type="token">portrait_id-00002_token</token>
-				<tokenrefid type="string">3</tokenrefid>
-				<tokenrefnode type="string">image.id-00017.image@DD Curse of Strahd</tokenrefnode>
-				<tokenscale type="number">2.56</tokenscale>
-=======
 				<token type="token">portrait_id-00004_token</token>
 				<tokenscale type="number">1</tokenscale>
->>>>>>> origin/master
 				<tokenvis type="number">0</tokenvis>
 				<traits>
 					<public />
 				</traits>
 				<wounds type="number">9</wounds>
 			</id-00004>
-			<id-00005>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<score type="number">17</score>
-					</charisma>
-					<constitution>
-						<public />
-						<score type="number">17</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<score type="number">11</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<score type="number">11</score>
-					</intelligence>
-					<strength>
-						<public />
-						<score type="number">11</score>
-					</strength>
-					<wisdom>
-						<public />
-						<score type="number">17</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">13</ac>
-				<actions>
-					<public />
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">friend</friendfoe>
-				<hptemp type="number">0</hptemp>
-<<<<<<< HEAD
-				<hptotal type="number">27</hptotal>
-				<init type="number">3</init>
-				<initresult type="number">4</initresult>
-=======
-				<hptotal type="number">30</hptotal>
-				<init type="number">0</init>
-				<initresult type="number">0</initresult>
->>>>>>> origin/master
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>charsheet</class>
-					<recordname>charsheet.id-00002</recordname>
-				</link>
-				<name type="string">Fjarnskaggl</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<speed type="string">25</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Healthy</status>
-<<<<<<< HEAD
-				<targets>
-					<public />
-					<id-00003>
-						<public />
-						<noderef type="string">combattracker.list.id-00011</noderef>
-					</id-00003>
-				</targets>
-				<token type="token">portrait_id-00003_token</token>
-				<tokenrefid type="string">6</tokenrefid>
-				<tokenrefnode type="string">image.id-00017.image@DD Curse of Strahd</tokenrefnode>
-				<tokenscale type="number">2.56</tokenscale>
-=======
-				<token type="token">portrait_id-00002_token</token>
-				<tokenscale type="number">1</tokenscale>
->>>>>>> origin/master
-				<tokenvis type="number">0</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">0</wounds>
-			</id-00005>
-			<id-00006>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<score type="number">17</score>
-					</charisma>
-					<constitution>
-						<public />
-						<score type="number">13</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<score type="number">17</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<score type="number">12</score>
-					</intelligence>
-					<strength>
-						<public />
-						<score type="number">14</score>
-					</strength>
-					<wisdom>
-						<public />
-						<score type="number">13</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">14</ac>
-				<actions>
-					<public />
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">friend</friendfoe>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">27</hptotal>
-				<init type="number">3</init>
-<<<<<<< HEAD
-				<initresult type="number">18</initresult>
-=======
-				<initresult type="number">0</initresult>
->>>>>>> origin/master
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>charsheet</class>
-					<recordname>charsheet.id-00003</recordname>
-				</link>
-				<name type="string">Fabio McSmallfeet</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<speed type="string">25</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Healthy</status>
-<<<<<<< HEAD
-				<targets>
-					<public />
-					<id-00022>
-						<public />
-						<noderef type="string">combattracker.list.id-00004</noderef>
-					</id-00022>
-				</targets>
-				<token type="token">portrait_id-00004_token</token>
-				<tokenrefid type="string">4</tokenrefid>
-				<tokenrefnode type="string">image.id-00017.image@DD Curse of Strahd</tokenrefnode>
-				<tokenscale type="number">2.56</tokenscale>
-=======
-				<token type="token">portrait_id-00003_token</token>
-				<tokenscale type="number">1</tokenscale>
->>>>>>> origin/master
-				<tokenvis type="number">0</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">0</wounds>
-<<<<<<< HEAD
-			</id-00004>
-			<id-00010>
-=======
-			</id-00006>
-			<id-00007>
->>>>>>> origin/master
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<bonus type="number">2</bonus>
-						<score type="number">14</score>
-					</charisma>
-					<constitution>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">11</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<bonus type="number">2</bonus>
-						<score type="number">15</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<bonus type="number">1</bonus>
-						<score type="number">13</score>
-					</intelligence>
-					<strength>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</strength>
-					<wisdom>
-						<public />
-						<bonus type="number">2</bonus>
-						<score type="number">15</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">12</ac>
-				<actions>
-					<public />
-					<id-00001>
-						<public />
-						<desc type="string">The wereraven makes two weapon attacks, one of which can be with its hand crossbow.</desc>
-						<name type="string">Multiattack (Human or Hybrid Form Only)</name>
-						<value type="string">Multiattack (human or hybrid form only)</value>
-					</id-00001>
-					<id-00002>
-						<public />
-						<desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage in raven form, or 4 (1d4 + 2) piercing damage in hybrid form. If the target is a humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</desc>
-						<name type="string">Beak (Raven or Hybrid Form Only)</name>
-						<value type="string">Beak (raven or hybrid form only) [M] [ATK: +4] [DMG: 1 piercing] [DMG: 1d4+2 piercing] [SAVEVS: constitution 10] [EFF: Cursed]</value>
-					</id-00002>
-					<id-00003>
-						<public />
-						<desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</desc>
-						<name type="string">Shortsword (Humanoid or Hybrid Form Only)</name>
-						<value type="string">Shortsword (humanoid or hybrid form only) [M] [ATK: +4] [DMG: 1d6+2 piercing]</value>
-					</id-00003>
-					<id-00004>
-						<public />
-						<desc type="string">Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</desc>
-						<name type="string">Hand Crossbow (Humanoid or Hybrid Form Only)</name>
-						<value type="string">Hand crossbow (humanoid or hybrid form only) [R] [ATK: +4] [DMG: 1d6+2 piercing]</value>
-					</id-00004>
-				</actions>
-				<active type="number">0</active>
-				<alignment type="string">lawful good</alignment>
-				<cr type="string">2</cr>
-				<damageimmunities type="string">bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</damageimmunities>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-					<id-00001>
-						<public />
-						<duration type="number">0</duration>
-						<init type="number">0</init>
-						<isactive type="number">1</isactive>
-						<isgmonly type="number">1</isgmonly>
-						<label type="string">IMMUNE: bludgeoning, piercing, slashing, !magic, !silver</label>
-					</id-00001>
-				</effects>
-				<friendfoe type="string">foe</friendfoe>
-				<hd type="string">(7d8)</hd>
-				<hp type="number">31</hp>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">31</hptotal>
-				<init type="number">2</init>
-<<<<<<< HEAD
-				<initresult type="number">21</initresult>
-=======
-				<initresult type="number">0</initresult>
->>>>>>> origin/master
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<languages type="string">Common (can't speak in raven form)</languages>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>npc</class>
-					<recordname></recordname>
-				</link>
-				<locked type="number">1</locked>
-				<name type="string">Wereraven</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<senses type="string">passive Perception 16</senses>
-				<size type="string">Medium</size>
-				<skills type="string">Insight +4, Perception +6</skills>
-				<space type="number">5</space>
-				<speed type="string">30 ft. (fly 50 ft. in raven and hybrid forms)</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Healthy</status>
-				<text type="formattedtext">
-					<p>Wereravens are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.</p>
-					<p>In their human and hybrid forms, wereravens favor light weapons. They are reluctant to make bite attacks in raven form for fear of spreading their curse to those who don't deserve it or who would abuse it.</p>
-					<p><b><i>A Kindness of Wereravens. </i></b>Wereravens refer to their tightly knit groups as kindnesses. A kindness of were-ravens usually numbers between seven and twelve individuals. Not surprisingly, wereravens get along well with ravens and often hide in plain sight among them.</p>
-					<p><b><i>Charitable Collectors. </i></b>Wereravens like to collect shiny trinkets and precious baubles. They are fond of sharing their wealth with those in need and, in their humanoid forms, modestly give money to charity. They take steps to keep magic items out of evil hands by stashing them in secret hiding places.</p>
-					<p><b><i>Characters as Wereravens. </i></b>The <i>Monster Manual </i>has rules for characters afflicted with lycanthropy. The following text applies to wereraven characters specifically.</p>
-					<p>A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the wereraven's bite are based on whichever is higher of the character's Strength and Dexterity. The bite of a wereraven in raven form deals 1 piercing damage (no ability modifier applies to this damage) and carries the curse of lycanthropy; see the &#34;Player Characters as Lycanthropes&#34; sidebar in the lycanthropes entry in the <i>Monster Manual </i>for details.</p>
-				</text>
-				<token type="token">tokens/campaign/Raven.png@DD Curse of Strahd</token>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
-				<traits>
-					<public />
-					<id-00001>
-						<public />
-						<desc type="string">The wereraven can use its action to polymorph into a raven-humanoid hybrid or into a raven, or back into its human form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its human form if it dies.</desc>
-						<name type="string">Shapechanger</name>
-						<value type="string">Shapechanger</value>
-					</id-00001>
-					<id-00002>
-						<public />
-						<desc type="string">The wereraven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</desc>
-						<name type="string">Mimicry</name>
-						<value type="string">Mimicry</value>
-					</id-00002>
-				</traits>
-				<type type="string">humanoid (human, shapechanger)</type>
-				<wounds type="number">0</wounds>
-<<<<<<< HEAD
-				<xp type="number">450</xp>
-			</id-00010>
-			<id-00011>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<bonus type="number">3</bonus>
-						<score type="number">16</score>
-					</charisma>
-					<constitution>
-						<public />
-						<bonus type="number">3</bonus>
-						<score type="number">16</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<bonus type="number">2</bonus>
-						<score type="number">15</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<bonus type="number">3</bonus>
-						<score type="number">16</score>
-					</intelligence>
-					<strength>
-						<public />
-						<bonus type="number">4</bonus>
-						<score type="number">18</score>
-					</strength>
-					<wisdom>
-						<public />
-						<bonus type="number">2</bonus>
-						<score type="number">14</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">17</ac>
-				<actext type="string">(natural armor)</actext>
-				<actions>
-					<public />
-					<id-00001>
-						<public />
-						<desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.</desc>
-						<name type="string">Claws (Hag Form Only)</name>
-						<value type="string">Claws (hag form only) [M] [ATK: +7] [DMG: 2d8+4 slashing]</value>
-					</id-00001>
-					<id-00002>
-						<public />
-						<desc type="string">The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.</desc>
-						<name type="string">Change Shape</name>
-						<value type="string">Change shape</value>
-					</id-00002>
-					<id-00003>
-						<public />
-						<desc type="string">The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.</desc>
-						<name type="string">Etherealness</name>
-						<value type="string">Etherealness</value>
-					</id-00003>
-					<id-00004>
-						<public />
-						<desc type="string">While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the greater restoration spell or similar magic.</desc>
-						<name type="string">Nightmare Haunting (1/Day)</name>
-						<value type="string">Nightmare haunting (1/day)</value>
-					</id-00004>
-				</actions>
-				<active type="number">0</active>
-				<alignment type="string">neutral evil</alignment>
-				<conditionimmunities type="string">charmed</conditionimmunities>
-				<cr type="string">5</cr>
-				<damageresistances type="string">cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered</damageresistances>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-					<id-00001>
-						<public />
-						<duration type="number">0</duration>
-						<init type="number">0</init>
-						<isactive type="number">1</isactive>
-						<isgmonly type="number">1</isgmonly>
-						<label type="string">RESIST: cold, fire; RESIST: bludgeoning, piercing, slashing, !magic, !silver; IMMUNE: charmed; NOTE: Magic Resist</label>
-					</id-00001>
-				</effects>
-				<friendfoe type="string">foe</friendfoe>
-				<hd type="string">(15d8 + 45)</hd>
-				<hp type="number">112</hp>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">112</hptotal>
-				<init type="number">2</init>
-				<initresult type="number">14</initresult>
-				<innatespells>
-					<public />
-					<id-00001>
-						<public />
-						<desc type="string">Level: 1 (Ritual)\nCasting Time: 1 action\nComponents: V, S\nDuration: Concentration, up to 10 minutes\nRange: Self\nFor the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</desc>
-						<name type="string">Detect Magic (At will)</name>
-						<value type="string">Detect magic (at will)</value>
-					</id-00001>
-					<id-00002>
-						<public />
-						<desc type="string">Level: 1\nCasting Time: 1 action\nComponents: V, S\nDuration: Instantaneous\nRange: 120 feet\nYou create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.</desc>
-						<name type="string">Magic Missile (At will)</name>
-						<value type="string">Magic missile (at will) [DMG: 1d4+1 force]</value>
-					</id-00002>
-					<id-00003>
-						<public />
-						<desc type="string">Level: 7\nCasting Time: 1 action\nComponents: V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)\nDuration: Instantaneous\nRange: Touch\nYou and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as the City of Brass on the Elemental Plane of Fire or the palace of Dispater on the second level of the Nine Hells, and you appear in or near that destination. If you are trying to reach the City of Brass, for example, you might arrive in its Street of Steel, before its Gate of Ashes, or looking at the city from across the Sea of Fire, at the DM's discretion. Alternatively, if you know the sigil sequence of a teleportation circle on another plane of existence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle. You can use this spell to banish an unwilling creature to another plane. Choose a creature within your reach and make a melee spell attack (+6 to hit) against it. On a hit, the creature must make a DC 14 Charisma saving throw. If the creature fails this save, it is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence.</desc>
-						<name type="string">Plane Shift (2/day)</name>
-						<value type="string">Plane shift (2/day) [M] [ATK: +6] [SAVEVS: charisma 14]</value>
-					</id-00003>
-					<id-00004>
-						<public />
-						<desc type="string">Level: 2\nCasting Time: 1 action\nComponents: V, S\nDuration: Concentration, up to 1 minute\nRange: 60 feet\nA black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack (+6 to hit) against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends. At the end of each of the target's turns, it can make a DC 14 Constitution saving throw against the spell. On a success, the spell ends.</desc>
-						<name type="string">Ray of Enfeeblement (2/day)</name>
-						<value type="string">Ray of enfeeblement (2/day) [R] [ATK: +6] [SAVEVS: constitution 14]</value>
-					</id-00004>
-					<id-00005>
-						<public />
-						<desc type="string">Level: 1\nCasting Time: 1 action\nComponents: V, S, M (a pinch of fine sand, rose petals, or a cricket)\nDuration: 1 minute\nRange: 90 feet\nThis spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected. Undead and creatures immune to being charmed aren't affected by this spell. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.</desc>
-						<name type="string">Sleep (2/day)</name>
-						<value type="string">Sleep (2/day) [EFF: Unconscious; (C) (D:1 MIN)]</value>
-					</id-00005>
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<languages type="string">Abyssal, Common, Infernal, Primordial</languages>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>npc</class>
-					<recordname></recordname>
-				</link>
-				<locked type="number">1</locked>
-				<name type="string">Morgantha</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<senses type="string">darkvision 120 ft., passive Perception 16</senses>
-				<size type="string">Medium</size>
-				<skills type="string">Deception +7, Insight +6, Perception +6, Stealth +6</skills>
-				<space type="number">5</space>
-				<speed type="string">30 ft.</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Dying</status>
-				<targets>
-					<public />
-					<id-00008>
-						<public />
-						<noderef type="string">combattracker.list.id-00002</noderef>
-					</id-00008>
-				</targets>
-				<text type="formattedtext">
-					<h>Morgantha</h>
-					<linklist>
-						<link class="imagewindow" recordname="image.id-00102@DD Curse of Strahd">Portrait: Morgantha</link>
-						<link class="encounter" recordname="encounter.enc_03_03specialevents@DD Curse of Strahd">Bio: Chapter 3 Special Events</link>
-						<link class="encounter" recordname="encounter.enc_06_02_o2_bonemill@DD Curse of Strahd">Appears: O2. Bone Mill</link>
-					</linklist>
-					<h>Night Hag</h>
-					<linklist>
-						<link class="imagewindow" recordname="image.id-00217@DD Curse of Strahd">Image: Night Hag</link>
-					</linklist>
-					<p>Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals.</p>
-					<p>Night hags were once creatures of the Feywild, but their foulness saw them exiled to Hades long ago, where they degenerated into fiends. The night hags have long since spread across the Lower Planes.</p>
-					<p><b><i>Soulmongers. </i></b>While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with truesight can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag (see the &#34;Night Hag Items&#34; sidebar) for transport to Hades.</p>
-					<p><b><i>Covens. </i></b>A night hag that is part of a coven (see the &#34;Hag Covens&#34; sidebar) has a challenge rating of 7 (2,900 XP).</p>
-					<p><b>Night Hag Items</b></p>
-					<p>A night hag carries two very rare magic items that she must craft for herself. If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort.</p>
-					<p><b><i>Heartstone. </i></b>This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.</p>
-					<p><b><i>Soul Bag. </i></b>When an evil humanoid dies as a result of a night hag's Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).</p>
-					<h>Hags</h>
-					<p>Hags represent all that is evil and cruel. Though they resemble withered crones, there is nothing mortal about these monstrous creatures, whose forms reflect only the wickedness in their hearts.</p>
-					<p><b><i>Faces of Evil. </i></b>Ancient beings with origins in the Feywild, hags are cankers on the mortal world. Their withered faces are framed by long, frayed hair, horrid moles and warts dot their blotchy skin, and their long, skinny fingers are tipped by claws that can slice open flesh with a touch. Their simple clothes are always tattered and filthy.</p>
-					<p>All hags possess magical powers, and some have an affinity for spellcasting. They can alter their forms or curse their foes, and their arrogance inspires them to view their magic as a challenge to the magic of the gods, whom they blaspheme at every opportunity.</p>
-					<p><b>Hag Covens</b></p>
-					<p>When hags must work together, they form covens, in spite of their selfish natures. A coven is made up of hags of any type, all of whom are equals within the group. However, each of the hags continues to desire more personal power.</p>
-					<p>A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.</p>
-					<p><b><i>Shared Spellcasting. </i></b>While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:</p>
-					<p>1st level (4 slots): <i>identify, ray of sickness</i></p>
-					<p>2nd level (3 slots): <i>hold person, locate object</i></p>
-					<p>3rd level (3 slots): <i>bestow curse, counterspell, lightning bolt</i></p>
-					<p>4th level (3 slots): <i>phantasmal killer, polymorph</i></p>
-					<p>5th level (2 slots): <i>contact other plane, scrying</i></p>
-					<p>6th level (1 slot): <i>eyebite</i></p>
-					<p>For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.</p>
-					<p><b><i>Hag Eye. </i></b>A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.</p>
-					<p>A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.</p>
-					<p>Hags name themselves in darkly whimsical ways, claiming monikers such as Black Morwen, Peggy Pigknuckle, Grandmother Titchwillow, Nanna Shug,Rotten Ethel, or Auntie Wormtooth.</p>
-					<p><b><i>Monstrous Motherhood. </i></b>Hags propagate by snatching and devouring human infants. After stealing a baby from its cradle or its mother's womb, the hag consumes the poor child. A week later, the hag gives birth to a daughter who looks human until her thirteenth birthday, whereupon the child transforms into the spitting image of her hag mother.</p>
-					<p>Hags sometimes raise the daughters they spawn, creating covens. A hag might also return the child to its grieving parents, only to watch from the shadows as the child grows up to become a horror.</p>
-					<p><b><i>Dark Bargains. </i></b>Arrogant to a fault, hags believe themselves to be the most cunning of creatures, and they treat all others as inferior. Even so, a hag is open to dealing with mortals as long as those mortals show the proper respect and deference. Over their long lives, hags accumulate much knowledge of local lore, dark creatures, and magic, which they are pleased to sell.</p>
-					<p>Hags enjoy watching mortals bring about their own downfall, and a bargain with a hag is always dangerous. The terms of such bargains typically involve demands to compromise principles or give up something dear-especially if the thing lost diminishes or negates the knowledge gained through the bargain.</p>
-					<p><b><i>A Foul Nature. </i></b>Hags love the macabre and festoon their garb with dead things and accentuate their appearance with bones, bits of flesh, and filth. They nurture blemishes and pick at wounds to produce weeping, suppurating flesh. Attractive creatures evoke disgust in a hag, which might &#34;help&#34; such creatures by disfiguring or transforming them.</p>
-					<p>This embrace of the disturbing and unpleasant extends to all aspects of a hag's life. A hag might fly in a magical giant's skull, landing it on a tree shaped to resemble an enormous headless body. Another might travel with a menagerie of monsters and slaves kept in cages, and disguised by illusions to lure unwary creatures close. Hags sharpen their teeth on millstones and spin cloth from the intestines of their victims,reacting with glee to the horror their actions invoke.</p>
-					<p><b><i>Dark Sorority. </i></b>Hags maintain contact with each other and share knowledge. Through such contacts, it is likely that any given hag knows of every other hag in existence. Hags don't like each other, but they abide by an ageless code of conduct. Hags announce their presence before crossing into another hag's territory, bring gifts when entering another hag's dwelling, and break no oaths given to other hags-as long as the oath isn't given with the fingers crossed.</p>
-					<p>Some humanoids make the mistake of thinking that the hags' rules of conduct apply to all creatures. When confronted by such an individual, a hag might find it amusing to string the fool along for a while before teaching it a permanent lesson.</p>
-					<p><b><i>Dark Lairs. </i></b>Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and gloomy swamps. In time, the landscape around a hag's lair reflects the creature's noxiousness, such that the land itself can attack and kill trespassers. Trees twisted by darkness attack passersby, while vines snake through the undergrowth to snare and drag off creatures one at a time. Foul stinking fogs turn the air to poison, and conceal pools of quicksand and sinkholes that consume unwary wanderers.</p>
-				</text>
-				<token type="token">tokens/campaign/Morgantha.png@DD Curse of Strahd</token>
-				<tokenrefid type="string">1</tokenrefid>
-				<tokenrefnode type="string">image.id-00017.image@DD Curse of Strahd</tokenrefnode>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">1</tokenvis>
-				<traits>
-					<public />
-					<id-00001>
-						<public />
-						<desc type="string">The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:\n At will: detect magic, magic missile\n2/day each: plane shift (self only), ray of enfeeblement, sleep</desc>
-						<name type="string">Innate Spellcasting</name>
-						<value type="string">Innate spellcasting</value>
-					</id-00001>
-					<id-00002>
-						<public />
-						<desc type="string">The hag has advantage on saving throws against spells and other magical effects.</desc>
-						<name type="string">Magic Resistance</name>
-						<value type="string">Magic Resistance</value>
-					</id-00002>
-				</traits>
-				<type type="string">fiend</type>
-				<wounds type="number">113</wounds>
-				<xp type="number">1800</xp>
-			</id-00011>
 			<id-00013>
 				<public />
 				<abilities>
@@ -7412,7 +6717,7 @@
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">31</hptotal>
 				<init type="number">2</init>
-				<initresult type="number">21</initresult>
+				<initresult type="number">19</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -7438,13 +6743,8 @@
 					<public />
 				</spells>
 				<status type="string">Healthy</status>
-				<targets>
-					<public />
-				</targets>
 				<token type="token">portrait_id-00005_token</token>
-				<tokenrefid type="string">2</tokenrefid>
-				<tokenrefnode type="string">image.id-00017.image@DD Curse of Strahd</tokenrefnode>
-				<tokenscale type="number">2.56</tokenscale>
+				<tokenscale type="number">1</tokenscale>
 				<tokenvis type="number">0</tokenvis>
 				<traits>
 					<public />
@@ -7452,12 +6752,7 @@
 				<wounds type="number">0</wounds>
 			</id-00013>
 		</list>
-		<round type="number">6</round>
-=======
-			</id-00007>
-		</list>
 		<round type="number">0</round>
->>>>>>> origin/master
 	</combattracker>
 	<effects>
 		<public />
@@ -7566,28 +6861,6 @@
 				<p>The group has been hired before because of the groups overall good performance as a comedy group.</p>
 			</text>
 		</id-00001>
-		<id-00002>
-			<locked type="number">1</locked>
-			<name type="string">Session 3 (04/02/17)</name>
-			<text type="formattedtext">
-				<p>The party left the village of Barovia and moved westward.</p>
-				<p>The party have had their future read by Madame Eva.</p>
-				<p>See Tarokka Readings Powerpoint.</p>
-				<p>The party encountered a pair of trappers (who are werewolves in disguise) see below:</p>
-				<linklist>
-					<link class="battle" recordname="battle.id-00001">02.05.23 Werewolves</link>
-				</linklist>
-				<p>Their names are:</p>
-				<p>Male: Andrej</p>
-				<p>Female: Alana</p>
-				<p>The party ventured further to the west and came across the old bone grinder.</p>
-				<p>Encountered Morgantha and eventually killed her.</p>
-				<linklist>
-					<link class="battle" recordname="battle.id-00189@DD Curse of Strahd">06.02.O2 Morgantha</link>
-				</linklist>
-				<p>After hearing her sisters the party fled back to the gatehouse closer to Castle Ravenloft.</p>
-			</text>
-		</id-00002>
 		<id-00003>
 			<locked type="number">1</locked>
 			<name type="string">Session 1 (10/12/16)</name>
@@ -7643,6 +6916,7 @@
 				<p></p>
 				<p>Players moved through the house B-lining for the attic.</p>
 				<p></p>
+				<p></p>
 			</text>
 		</id-00005>
 		<id-00006>
@@ -7673,24 +6947,11 @@
 		<checkselected type="string">Strength</checkselected>
 		<coinlist>
 			<public />
-<<<<<<< HEAD
-			<id-00003>
-=======
 			<id-00005>
->>>>>>> origin/master
 				<public />
 				<amount type="number">15</amount>
 				<carriedby type="string">Jeff [15]</carriedby>
 				<name type="string">SP</name>
-<<<<<<< HEAD
-			</id-00003>
-			<id-00004>
-				<public />
-				<amount type="number">468</amount>
-				<carriedby type="string">Fjarnskaggl [139], Jeff [63], Ned Kelly [160], Fabio McSmallfeet [91], Lyrael [15]</carriedby>
-				<name type="string">GP</name>
-			</id-00004>
-=======
 			</id-00005>
 			<id-00006>
 				<public />
@@ -7698,7 +6959,6 @@
 				<carriedby type="string">Fjarnskaggl [159], Jeff [63], Ned Kelly [160], Fabio McSmallfeet [91], Lyrael [15]</carriedby>
 				<name type="string">GP</name>
 			</id-00006>
->>>>>>> origin/master
 		</coinlist>
 		<encounters>
 			<public />
@@ -7791,69 +7051,10 @@
 			</id-00001>
 			<id-00002>
 				<public />
-<<<<<<< HEAD
-				<cr type="string">3</cr>
-				<exp type="number">600</exp>
-				<generated type="number">0</generated>
-				<locked type="number">1</locked>
-				<name type="string">02.05.06 1d6 Dire Wolves</name>
-				<npclist>
-					<public />
-					<id-00001>
-						<public />
-						<count type="number">3</count>
-						<link type="windowreference">
-							<class>npc</class>
-							<recordname>npc.id-00021@DD Curse of Strahd</recordname>
-						</link>
-						<maplink>
-							<public />
-							<id-00001>
-								<public />
-								<imageref type="windowreference">
-									<class></class>
-									<recordname></recordname>
-								</imageref>
-								<imagex type="number">0</imagex>
-								<imagey type="number">0</imagey>
-							</id-00001>
-							<id-00002>
-								<public />
-								<imageref type="windowreference">
-									<class></class>
-									<recordname></recordname>
-								</imageref>
-								<imagex type="number">0</imagex>
-								<imagey type="number">0</imagey>
-							</id-00002>
-							<id-00003>
-								<public />
-								<imageref type="windowreference">
-									<class></class>
-									<recordname></recordname>
-								</imageref>
-								<imagex type="number">0</imagex>
-								<imagey type="number">0</imagey>
-							</id-00003>
-						</maplink>
-						<name type="string">Dire Wolf</name>
-						<token type="token">tokens/campaign/D.png@DD Curse of Strahd</token>
-					</id-00001>
-				</npclist>
-				<xpawarded type="number">1</xpawarded>
-			</id-00002>
-			<id-00003>
-				<public />
-				<cr type="string">5</cr>
-				<exp type="number">1800</exp>
-				<locked type="number">1</locked>
-				<name type="string">06.02.O2 Morgantha</name>
-=======
 				<cr type="string">6</cr>
 				<exp type="number">1800</exp>
 				<locked type="number">1</locked>
 				<name type="string">03.02.E5g Donavich and Doru</name>
->>>>>>> origin/master
 				<npclist>
 					<public />
 					<id-00001>
@@ -7861,11 +7062,7 @@
 						<count type="number">1</count>
 						<link type="windowreference">
 							<class>npc</class>
-<<<<<<< HEAD
-							<recordname>npc.id-00038@DD Curse of Strahd</recordname>
-=======
 							<recordname>npc.id-00011@DD Curse of Strahd</recordname>
->>>>>>> origin/master
 						</link>
 						<maplink>
 							<public />
@@ -7873,20 +7070,6 @@
 								<public />
 								<imageref type="windowreference">
 									<class>imagewindow</class>
-<<<<<<< HEAD
-									<recordname>image.id-00017.image@DD Curse of Strahd</recordname>
-								</imageref>
-								<imagex type="number">706</imagex>
-								<imagey type="number">457</imagey>
-							</id-00001>
-						</maplink>
-						<name type="string">Morgantha</name>
-						<token type="token">tokens/campaign/Morgantha.png@DD Curse of Strahd</token>
-					</id-00001>
-				</npclist>
-				<xpawarded type="number">1</xpawarded>
-			</id-00003>
-=======
 									<recordname>image.id-00008.image@DD Curse of Strahd</recordname>
 								</imageref>
 								<imagex type="number">620</imagex>
@@ -7899,7 +7082,6 @@
 				</npclist>
 				<xpawarded type="number">1</xpawarded>
 			</id-00002>
->>>>>>> origin/master
 		</encounters>
 		<hiderollresults type="number">0</hiderollresults>
 		<image type="image">
@@ -7909,19 +7091,11 @@
 		</image>
 		<inventorylist>
 			<public />
-<<<<<<< HEAD
-			<id-00064>
-=======
 			<id-00125>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Ball Bearings (1,000)</name>
-<<<<<<< HEAD
-			</id-00064>
-			<id-00065>
-=======
 			</id-00125>
 			<id-00126>
 				<public />
@@ -7936,73 +7110,28 @@
 				<name type="string">Devil's Face Pendant</name>
 			</id-00127>
 			<id-00128>
->>>>>>> origin/master
 				<public />
-				<carriedby type="string">Jeff [1]</carriedby>
+				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
-<<<<<<< HEAD
-				<name type="string">Quarterstaff</name>
-			</id-00065>
-			<id-00066>
-				<public />
-				<carriedby type="string">Lyrael [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Devil's Face Pendant</name>
-			</id-00066>
-			<id-00067>
-				<public />
-				<carriedby type="string">Lyrael [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Hearth stone</name>
-			</id-00067>
-			<id-00068>
-				<public />
-				<carriedby type="string">Lyrael [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Direwoolf pelt</name>
-			</id-00068>
-			<id-00069>
-=======
 				<name type="string">Shortbow</name>
 			</id-00128>
 			<id-00129>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Warhammer</name>
-<<<<<<< HEAD
-			</id-00069>
-			<id-00070>
-=======
 			</id-00129>
 			<id-00130>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Lyrael [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Dice Set (Weighted)</name>
-<<<<<<< HEAD
-			</id-00070>
-			<id-00071>
-=======
 			</id-00130>
 			<id-00131>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Ned Kelly [1], Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
 				<count type="number">3</count>
 				<name type="string">Tinderbox</name>
-<<<<<<< HEAD
-			</id-00071>
-			<id-00072>
-				<public />
-				<carriedby type="string">Jeff [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Spellbook</name>
-			</id-00072>
-			<id-00073>
-=======
 			</id-00131>
 			<id-00132>
 				<public />
@@ -8011,43 +7140,22 @@
 				<name type="string">Quarterstaff</name>
 			</id-00132>
 			<id-00133>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Bat Guano</name>
-<<<<<<< HEAD
-			</id-00073>
-			<id-00074>
-=======
 			</id-00133>
 			<id-00134>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Knife (Small)</name>
-<<<<<<< HEAD
-			</id-00074>
-			<id-00075>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [1], Lyrael [2]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Disguise Kit</name>
-			</id-00075>
-			<id-00076>
-=======
 			</id-00134>
 			<id-00135>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Lyrael [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Crossbow Bolts (20)</name>
-<<<<<<< HEAD
-			</id-00076>
-			<id-00077>
-=======
 			</id-00135>
 			<id-00136>
 				<public />
@@ -8056,32 +7164,16 @@
 				<name type="string">Disguise Kit</name>
 			</id-00136>
 			<id-00137>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Lyrael [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Crossbow, Hand</name>
-<<<<<<< HEAD
-			</id-00077>
-			<id-00078>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Playing Card Set (Marked)</name>
-			</id-00078>
-			<id-00079>
-=======
 			</id-00137>
 			<id-00138>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Lyrael [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Pan Flute</name>
-<<<<<<< HEAD
-			</id-00079>
-			<id-00080>
-=======
 			</id-00138>
 			<id-00139>
 				<public />
@@ -8090,43 +7182,22 @@
 				<name type="string">Scroll of Bless</name>
 			</id-00139>
 			<id-00140>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [5], Lyrael [5]</carriedby>
 				<count type="number">10</count>
 				<name type="string">Candle</name>
-<<<<<<< HEAD
-			</id-00080>
-			<id-00081>
-=======
 			</id-00140>
 			<id-00141>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Amulet</name>
-<<<<<<< HEAD
-			</id-00081>
-			<id-00082>
-				<public />
-				<carriedby type="string">Fjarnskaggl [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Scroll of Bless</name>
-			</id-00082>
-			<id-00083>
-=======
 			</id-00141>
 			<id-00142>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1], Lyrael [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Clothes, Fine</name>
-<<<<<<< HEAD
-			</id-00083>
-			<id-00084>
-=======
 			</id-00142>
 			<id-00143>
 				<public />
@@ -8135,65 +7206,34 @@
 				<name type="string">Playing Card Set (Marked)</name>
 			</id-00143>
 			<id-00144>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Lyrael [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">House Deed</name>
-<<<<<<< HEAD
-			</id-00084>
-			<id-00085>
-=======
 			</id-00144>
 			<id-00145>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Mess Kit</name>
-<<<<<<< HEAD
-			</id-00085>
-			<id-00086>
-=======
 			</id-00145>
 			<id-00146>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Bag (Sand)</name>
-<<<<<<< HEAD
-			</id-00086>
-			<id-00087>
-=======
 			</id-00146>
 			<id-00147>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Ned Kelly [1], Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
 				<count type="number">3</count>
 				<name type="string">Rope, Hempen (50 Feet)</name>
-<<<<<<< HEAD
-			</id-00087>
-			<id-00088>
-=======
 			</id-00147>
 			<id-00148>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Ink Pen</name>
-<<<<<<< HEAD
-			</id-00088>
-			<id-00089>
-				<public />
-				<carriedby type="string">Fjarnskaggl [10], Ned Kelly [10]</carriedby>
-				<count type="number">20</count>
-				<name type="string">Torch</name>
-			</id-00089>
-			<id-00090>
-=======
 			</id-00148>
 			<id-00149>
 				<public />
@@ -8202,38 +7242,16 @@
 				<name type="string">Torch</name>
 			</id-00149>
 			<id-00150>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Ned Kelly [1], Jeff [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Clothes, Common</name>
-<<<<<<< HEAD
-			</id-00090>
-			<id-00091>
-=======
 			</id-00150>
 			<id-00151>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Lyrael [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Ghastly Cloak</name>
-<<<<<<< HEAD
-			</id-00091>
-			<id-00092>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Shortbow</name>
-			</id-00092>
-			<id-00093>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Bell</name>
-			</id-00093>
-			<id-00094>
-=======
 			</id-00151>
 			<id-00152>
 				<public />
@@ -8248,21 +7266,10 @@
 				<name type="string">Acid (Vial)</name>
 			</id-00153>
 			<id-00154>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Scroll of Protection from Poison</name>
-<<<<<<< HEAD
-			</id-00094>
-			<id-00095>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Acid (Vial)</name>
-			</id-00095>
-			<id-00096>
-=======
 			</id-00154>
 			<id-00155>
 				<public />
@@ -8271,98 +7278,52 @@
 				<name type="string">String (10 Feet)</name>
 			</id-00155>
 			<id-00156>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Ned Kelly [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Chain Mail</name>
-<<<<<<< HEAD
-			</id-00096>
-			<id-00097>
-=======
 			</id-00156>
 			<id-00157>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Scroll of Spiritual Weapon</name>
-<<<<<<< HEAD
-			</id-00097>
-			<id-00098>
-=======
 			</id-00157>
 			<id-00158>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [2]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Oil (Flask)</name>
-<<<<<<< HEAD
-			</id-00098>
-			<id-00099>
-=======
 			</id-00158>
 			<id-00159>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Ned Kelly [1], Fjarnskaggl [1], Fabio McSmallfeet [1]</carriedby>
 				<count type="number">3</count>
 				<name type="string">Waterskin</name>
-<<<<<<< HEAD
-			</id-00099>
-			<id-00100>
-=======
 			</id-00159>
 			<id-00160>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Hunting Trap</name>
-<<<<<<< HEAD
-			</id-00100>
-			<id-00101>
-=======
 			</id-00160>
 			<id-00161>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Lantern, Hooded</name>
-<<<<<<< HEAD
-			</id-00101>
-			<id-00102>
-=======
 			</id-00161>
 			<id-00162>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Windmill Deed</name>
-<<<<<<< HEAD
-			</id-00102>
-			<id-00103>
-=======
 			</id-00162>
 			<id-00163>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Ink (1-ounce Bottle)</name>
-<<<<<<< HEAD
-			</id-00103>
-			<id-00104>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">String (10 Feet)</name>
-			</id-00104>
-			<id-00105>
-=======
 			</id-00163>
 			<id-00164>
 				<public />
@@ -8371,43 +7332,22 @@
 				<name type="string">Piton</name>
 			</id-00164>
 			<id-00165>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Lyrael [1], Fabio McSmallfeet [1], Jeff [1]</carriedby>
 				<count type="number">3</count>
 				<name type="string">Rapier</name>
-<<<<<<< HEAD
-			</id-00105>
-			<id-00106>
-=======
 			</id-00165>
 			<id-00166>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [2], Lyrael [1]</carriedby>
 				<count type="number">3</count>
 				<name type="string">Dagger</name>
-<<<<<<< HEAD
-			</id-00106>
-			<id-00107>
-=======
 			</id-00166>
 			<id-00167>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Orb</name>
-<<<<<<< HEAD
-			</id-00107>
-			<id-00108>
-				<public />
-				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Arrows (20)</name>
-			</id-00108>
-			<id-00109>
-=======
 			</id-00167>
 			<id-00168>
 				<public />
@@ -8416,32 +7356,16 @@
 				<name type="string">Bell</name>
 			</id-00168>
 			<id-00169>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fjarnskaggl [1], Ned Kelly [2]</carriedby>
 				<count type="number">3</count>
 				<name type="string">Handaxe</name>
-<<<<<<< HEAD
-			</id-00109>
-			<id-00110>
-=======
 			</id-00169>
 			<id-00170>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Thieves' Tools</name>
-<<<<<<< HEAD
-			</id-00110>
-			<id-00111>
-				<public />
-				<carriedby type="string">Ned Kelly [10], Fabio McSmallfeet [10]</carriedby>
-				<count type="number">20</count>
-				<name type="string">Piton</name>
-			</id-00111>
-			<id-00112>
-=======
 			</id-00170>
 			<id-00171>
 				<public />
@@ -8450,171 +7374,95 @@
 				<name type="string">Dart</name>
 			</id-00171>
 			<id-00172>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Ned Kelly [2]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Longsword</name>
-<<<<<<< HEAD
-			</id-00112>
-			<id-00113>
-=======
 			</id-00172>
 			<id-00173>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Ned Kelly [1], Fabio McSmallfeet [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Crowbar</name>
-<<<<<<< HEAD
-			</id-00113>
-			<id-00114>
-=======
 			</id-00173>
 			<id-00174>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Lyrael [5], Fabio McSmallfeet [5], Ned Kelly [10], Fjarnskaggl [10], Jeff [10]</carriedby>
 				<count type="number">40</count>
 				<name type="string">Rations (1 Day)</name>
-<<<<<<< HEAD
-			</id-00114>
-			<id-00115>
-=======
 			</id-00174>
 			<id-00175>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Ned Kelly [1], Fabio McSmallfeet [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Hammer</name>
-<<<<<<< HEAD
-			</id-00115>
-			<id-00116>
-=======
 			</id-00175>
 			<id-00176>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fjarnskaggl [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Shrunken Head</name>
-<<<<<<< HEAD
-			</id-00116>
-			<id-00117>
-=======
 			</id-00176>
 			<id-00177>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Ned Kelly [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Dice Set</name>
-<<<<<<< HEAD
-			</id-00117>
-			<id-00118>
-=======
 			</id-00177>
 			<id-00178>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fjarnskaggl [1], Jeff [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Book</name>
-<<<<<<< HEAD
-			</id-00118>
-			<id-00119>
-=======
 			</id-00178>
 			<id-00179>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Lyrael [1], Fabio McSmallfeet [1], Fjarnskaggl [1]</carriedby>
 				<count type="number">3</count>
 				<name type="string">Leather</name>
-<<<<<<< HEAD
-			</id-00119>
-			<id-00120>
-=======
 			</id-00179>
 			<id-00180>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Jeff [1]</carriedby>
 				<count type="number">1</count>
-<<<<<<< HEAD
-				<name type="string">Shield</name>
-			</id-00120>
-			<id-00121>
-=======
 				<name type="string">Spellbook</name>
 			</id-00180>
 			<id-00181>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Lyrael [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Waterskin of vampire blood</name>
-<<<<<<< HEAD
-			</id-00121>
-			<id-00122>
-=======
 			</id-00181>
 			<id-00182>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fjarnskaggl [1], Lyrael [1]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Bedroll</name>
-<<<<<<< HEAD
-			</id-00122>
-			<id-00123>
-=======
 			</id-00182>
 			<id-00183>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fjarnskaggl [1], Jeff [10]</carriedby>
 				<count type="number">11</count>
 				<name type="string">Parchment (One Sheet)</name>
-<<<<<<< HEAD
-			</id-00123>
-			<id-00124>
-=======
 			</id-00183>
 			<id-00184>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Lyrael [1], Fabio McSmallfeet [1], Ned Kelly [1], Fjarnskaggl [1], Jeff [1]</carriedby>
 				<count type="number">5</count>
 				<name type="string">Backpack (Empty)</name>
-<<<<<<< HEAD
-			</id-00124>
-			<id-00125>
-=======
 			</id-00184>
 			<id-00185>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Lyrael [2]</carriedby>
 				<count type="number">2</count>
 				<name type="string">Clothes, Costume</name>
-<<<<<<< HEAD
-			</id-00125>
-			<id-00126>
-=======
 			</id-00185>
 			<id-00186>
->>>>>>> origin/master
 				<public />
 				<carriedby type="string">Fabio McSmallfeet [1]</carriedby>
 				<count type="number">1</count>
 				<name type="string">Poisoner's Kit</name>
-<<<<<<< HEAD
-			</id-00126>
-=======
 			</id-00186>
->>>>>>> origin/master
 		</inventorylist>
 		<partyinformation>
 			<public />
@@ -8628,11 +7476,7 @@
 				<constitution type="number">16</constitution>
 				<dexbonus type="number">3</dexbonus>
 				<dexterity type="number">16</dexterity>
-<<<<<<< HEAD
-				<exp type="number">1730</exp>
-=======
 				<exp type="number">1260</exp>
->>>>>>> origin/master
 				<expneeded type="number">2700</expneeded>
 				<hd type="number">3</hd>
 				<hdused type="number">0</hdused>
@@ -8666,11 +7510,7 @@
 				<constitution type="number">17</constitution>
 				<dexbonus type="number">0</dexbonus>
 				<dexterity type="number">11</dexterity>
-<<<<<<< HEAD
-				<exp type="number">1730</exp>
-=======
 				<exp type="number">1260</exp>
->>>>>>> origin/master
 				<expneeded type="number">2700</expneeded>
 				<hd type="number">3</hd>
 				<hdused type="number">0</hdused>
@@ -8705,11 +7545,7 @@
 				<constitution type="number">13</constitution>
 				<dexbonus type="number">3</dexbonus>
 				<dexterity type="number">17</dexterity>
-<<<<<<< HEAD
-				<exp type="number">1730</exp>
-=======
 				<exp type="number">1260</exp>
->>>>>>> origin/master
 				<expneeded type="number">2700</expneeded>
 				<hd type="number">3</hd>
 				<hdused type="number">0</hdused>
@@ -8743,14 +7579,10 @@
 				<constitution type="number">16</constitution>
 				<dexbonus type="number">3</dexbonus>
 				<dexterity type="number">16</dexterity>
-<<<<<<< HEAD
-				<exp type="number">1730</exp>
-=======
 				<exp type="number">1260</exp>
->>>>>>> origin/master
 				<expneeded type="number">2700</expneeded>
 				<hd type="number">3</hd>
-				<hdused type="number">1</hdused>
+				<hdused type="number">0</hdused>
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">27</hptotal>
 				<intbonus type="number">2</intbonus>
@@ -8770,7 +7602,7 @@
 				<watchid type="number">0</watchid>
 				<wisbonus type="number">1</wisbonus>
 				<wisdom type="number">12</wisdom>
-				<wounds type="number">0</wounds>
+				<wounds type="number">9</wounds>
 			</id-00004>
 			<id-00005>
 				<public />
@@ -8782,11 +7614,7 @@
 				<constitution type="number">16</constitution>
 				<dexbonus type="number">2</dexbonus>
 				<dexterity type="number">15</dexterity>
-<<<<<<< HEAD
-				<exp type="number">1730</exp>
-=======
 				<exp type="number">1260</exp>
->>>>>>> origin/master
 				<expneeded type="number">2700</expneeded>
 				<hd type="number">3</hd>
 				<hdused type="number">0</hdused>
