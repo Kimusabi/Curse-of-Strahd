@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<modulestate version="3.3">
+	<module name="Book of Lost Spells">
+		<loaded />
+	</module>
+	<module name="Calendars">
+		<loaded />
+	</module>
+	<module name="D&#38;D Sword Coast Adventurer's Guide - Campaign Guide">
+		<loaded />
+	</module>
+	<module name="DD Curse of Strahd">
+		<loaded />
+	</module>
+	<module name="DD Curse of Strahd Players">
+		<loaded />
+	</module>
+	<module name="DD Dungeon Masters Guide">
+		<loaded />
+	</module>
+	<module name="DD Elemental Evil Players Companion">
+		<loaded />
+	</module>
+	<module name="DD MM Monster Manual">
+		<loaded />
+	</module>
+	<module name="DD PHB Deluxe">
+		<loaded />
+	</module>
+	<module name="DD Volos Guide to Monsters">
+		<loaded />
+	</module>
+	<module name="Volos Guide to Monsters Players">
+		<loaded />
+	</module>
+</modulestate>
